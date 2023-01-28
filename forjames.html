@@ -1,0 +1,78 @@
+<html>
+<head>
+<title></title>
+
+<meta name="save" content="history">
+
+<script type="text/javascript">
+function dsp(loc){
+   if(document.getElementById){
+      var foc=loc.firstChild;
+      foc=loc.firstChild.innerHTML?
+         loc.firstChild:
+         loc.firstChild.nextSibling;
+      foc.innerHTML=foc.innerHTML=='+ More'?'- Less':'+ More';
+      foc=loc.parentNode.nextSibling.style?
+         loc.parentNode.nextSibling:
+         loc.parentNode.nextSibling.nextSibling;
+      foc.style.display=foc.style.display=='block'?'none':'block';}}
+
+if(!document.getElementById)
+   document.write('<style type="text/css"> .dspcont{display:block;} <\/style>');
+
+function redirectOutput(myForm) {
+var w = window.open('about:blank','Popup_Window','toolbar=no,locationbar=no,status=no,width=350,height=175,screenX=200,screenY=200');
+myForm.target = 'Popup_Window';
+return true;
+}
+</script>
+
+<style type="text/css">
+
+.save{behavior:url(#default#savehistory);}
+
+a.dsphead{
+  font:400 12px/20px "Lucida Grande", Verdana, Arial, Sans-Serif;
+  text-align:left;
+  color:#000000;
+  background:transparent;  
+        font-weight:bold;
+}
+a.dsphead:hover{
+   text-decoration:underline;}
+a.dsphead span.dspchar{
+   font:400 12px/20px "Lucida Grande", Verdana, Arial, Sans-Serif;
+   font-weight:bold;}
+.dspcont{
+  display:block;
+  margin-left:5px;
+  padding-left:50px;
+  margin-top:-12px;
+  padding-top:15px;
+  margin-bottom:15px;
+  padding-bottom:5px;
+  font:400 12px/18px "Lucida Grande", Verdana, Arial, Sans-Serif;
+  text-align:left;
+  color:#000000;
+}
+
+</style>
+
+
+</head>
+
+<body>
+
+            <b>20.</b>&nbsp; A.J. Hoffman, P.X. Braun, M.D. Escarra, K.J. Franz, X. Wang, C. Gmachl "Lasing-induced reduction of core heating in high wall plug efficiency quantum cascade lasers," <i>Applied Physics Letters</i> <b>94</b>, 041101 (2009).
+              	<br><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+ More</span></a>
+            	<div class="dspcont">
+            	Quantum cascade (QC) laser core heating is a primary impediment to high device wall plug efficiency (WPE). Here, we demonstrate that efficient photon generation produces a quantifiable reduction in heating of the QC laser core temperature. By superimposing low duty cycle current pulses on a core-heating 
+				dc baseline, we observe the instantaneous threshold current and current efficiency evolution as the dc input is varied. From these measurements we recover the laser core temperature <i>T<sub>core</sub></i>. Results agree well with calculations of <i>T<sub>core</sub></i> based on measured thermal resistance 
+				and WPE. Using the same thermal model for a laser with negligible WPE, we show that the large WPE of the measured device-—24% for an 80 K heat sink-—results in a core temperature reduction of ~15 K.
+				<br><br>
+	            <b><a href="refpoint.php?type=paper&amp;fileName=APL_AJHoffman_0901" target=_blank>PDF Reprint</a> &nbsp;&nbsp;<a href="http://dx.doi.org/10.1063/1.3073044 " target="_blank">Publication Link</a></b>
+	            <font class="smalldisc">Copyright 2009 American Institute of Physics. This article may be downloaded for personal use only. Any other use requires prior permission of the author and the American Institute of Physics.</font>
+	            </div>
+
+</body>
+</html>

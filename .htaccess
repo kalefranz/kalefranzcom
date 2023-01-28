@@ -1,0 +1,11 @@
+
+
+ErrorDocument 404 /404.php
+
+
+Options +FollowSymLinks 
+RewriteEngine on 
+RewriteCond %{HTTP_HOST} ^kalefranz.com [NC] 
+RewriteRule ^(.*)$ http://www.kalefranz.com/$1 [R=301,NC]
+RewriteRule ^KJ-Franz-CV.pdf http://www.kjfranz.com/KJ-Franz-CV.pdf [R=301] 
+RewriteRule ^KJFranz_CV.pdf http://www.kjfranz.com/KJ-Franz-CV.pdf [R=301,L] 

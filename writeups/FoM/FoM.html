@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Quantum Cascade Laser Figure of Merit Derivation</title>
+<meta http-equiv="Content-Type" content="text/HTML; charset=UTF-8" />
+<meta name="author" content="K.J. Franz">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="generator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/)">
+<meta name="originator" content="TeX4ht (http://www.cse.ohio-state.edu/~gurari/TeX4ht/)">
+<meta name="src" content="FoM.tex">
+<meta name="date" content="2008-02-07 04:25:00">
+<link rel="stylesheet" type="text/css" href="FoM.css">
+</head>
+<body>
+
+<div class="pagedef">
+  <div class="header"><div class="headertext">Kale J. Franz</div></div>
+
+  <div class="menu">
+     <div class="nav">
+     <a href="../../index.html">Home</a>
+     <a href="../../publications.html">Publications</a>
+     <a href="../../physics.html">Physics</a>
+     <a href="../../links.html">Links</a>
+     <a href="../../CV.html">CV</a>
+     <a href="../../photos.html">Photos</a>
+     <a href="../../contact.html">Contact</a>
+     </div>
+  </div>
+
+  <div id="mainbody">
+  
+  
+  <h2 class="titleHead">Quantum Cascade Laser<br />
+	Figure of Merit Derivation</h2>
+<div class="ref"><center>A PDF of this page is available <a href="../FoM.pdf" targe="_blank">
+	here</a>.</center></div>
+    <div class="author" ><span
+class="cmr-12">Kale J. Franz</span>
+<br /><span
+class="cmr-12">kfranz @ princeton . edu</span>
+<br /> <span
+class="cmr-12">www.kalefranz.com</span></div>
+<br />
+<div class="date" ><span
+class="cmr-12">February 7, 2008</span></div>
+   
+   <h3 class="sectionHead"><span class="titlemark">1   </span> <a
+ id="x1-10001"></a>Figure of merit the easy way</h3>
+<!--l. 30--><p class="noindent" >The figure of merit (FoM) for a quantum cascade 
+	(QC) laser (QCL) is a tool used to maximize performance from a QC design. 
+	The FoM represents the parameters from the QC laser gain coefficient that 
+	are affected by the quantum design of a QC structure. The QCL gain 
+	coefficient is generally given as:
+   <table
+class="equation"><tr><td><a
+ id="x1-1001r1"></a>
+   <center class="math-display" >
+<img
+src="FoM0x.png" alt="                    2
+gc = &#x03C4;u(1--&#x03C4;&#x2113;-)--4&#x03C0;qzu&#x2113;---1--
+          &#x03C4;u&#x2113; &#x03BB;0&#x03B5;0neffLp &#x03B4;&#x025B;u&#x2113;
+" class="math-display" ></center></td><td class="equation-label">(1)</td></tr></table>
+<!--l. 34--><p class="nopar" >
+where <span
+class="cmmi-10">τ</span><sub><span
+class="cmmi-7">u</span></sub> is the lifetime of the upper laser state, <span
+class="cmmi-10">τ</span><sub><span
+class="cmmi-7">ℓ</span></sub> is the lifetime of the lower laser state, <span
+class="cmmi-10">q </span>is the electron charge, <span
+class="cmmi-10">τ</span><sub><span
+class="cmmi-7">uℓ</span></sub> is the transition time between the upper and 
+lower laser state, <span
+class="cmmi-10">z</span><sub><span
+class="cmmi-7">uℓ</span></sub> is the optical dipole matrix element (having 
+units of length), <span
+class="cmmi-10">λ</span><sub><span
+class="cmr-7">0</span></sub> is the free space wavelength of the lasing 
+transition, <span
+class="cmmi-10">n</span><sub><span
+class="cmmi-7">eff</span></sub> is the effective refractive index of the optical 
+mode, <span
+class="cmmi-10">L</span><sub><span
+class="cmmi-7">p</span></sub> is the length of a single active-injector region 
+period, and <span
+class="cmmi-10">δɛ</span><sub><span
+class="cmmi-7">uℓ</span></sub> is the full-width-at-half-maximum (FWHM) of 
+transition’s spontaneous emission (usually taken as the measured FWHM of a QC 
+structure’s electroluminescence, and in units of energy). The gain coefficient 
+as defined this way has units of <img
+src="FoM1x.png" alt="length-
+current"  class="frac" align="middle">, which is generally
+<img
+src="FoM2x.png" alt="cm-
+ kA"  class="frac" align="middle">.
+<!--l. 37--><p class="indent" >   Since the optical dipole matrix element <span
+class="cmmi-10">z</span><sub><span
+class="cmmi-7">uℓ</span></sub> and the energy state lifetimes <span
+class="cmmi-10">τ</span><sub><span
+class="cmmi-7">i</span></sub> are QC design-dependent parameters, the most 
+	direct approach to deriving a FoM is simply to pull these factors from the 
+	gain coefficient.
+   <table
+class="equation"><tr><td><a
+ id="x1-1002r2"></a>
+   <center class="math-display" >
+<img
+src="FoM3x.png" alt="FoM  = &#x03C4;u(1 - &#x03C4;&#x2113;-)z2u&#x2113;
+             &#x03C4;u&#x2113;
+" class="math-display" ></center></td><td class="equation-label">(2)</td></tr></table>
+<!--l. 41--><p class="nopar" >
+Thus, the FoM has units of time <span class="cmsy-10">x</span> length<sup><span class="cmr-7">2</span></sup>; the standard units are <span
+class="cmmi-10">ps</span> <span class="cmmi-10">Å</span><sup><span class="cmr-7">2</span></sup>. While this is the simplest method for deriving a 
+FoM, it has severe limitations when practically implemented. QC lasers after 
+all, comprise a system of coupled quantum wells with significant intermixing 
+(anticrossing) of quantum states; in Eq. (<a
+href="#x1-1002r2">2<!--tex4ht:ref: simpleFoM --></a>), we have assumed only a 
+single upper laser state and a single lower laser state.
+<!--l. 44--><p class="noindent" >
+   <h3 class="sectionHead"><span class="titlemark">2   </span> <a
+ id="x1-20002"></a>Intermixed lower energy states</h3>
+<!--l. 46--><p class="noindent" >For a proper calculation of the laser gain 
+	coefficient—and thus FoM—we must include all optical transitions that might 
+	contribute photons into the lasing mode. One might address this problem by 
+	perturbing the field at which the FoM parameters are calculated, so as to 
+	prevent the upper and lower laser states from intermixing with nearby 
+	states. However, the FoM itself is a field-dependent parameter, so this 
+	approach is not ideal for calculating laser gain at current turn-on (i.e., 
+	the design field).
+<!--l. 48--><p class="indent" >   To more broadly address the problem of 
+	multiple charge carrier transitions contributing photons to the lasing mode, 
+	we need to consider each potential transition’s contribution to the optical 
+	gain. As an example, let’s examine an optical transition with one upper 
+	energy state and two closely spaced, intermixed lower energy states.
+<div class="center"
+>
+<!--l. 51--><p class="noindent" >
+<!--l. 52--><p class="noindent" ><img
+src="FoM4x.png" alt="PIC" class="graphics" width="216.81pt" height="124.41461pt" ><!--tex4ht:graphics
+name="FoM4x.png" src="figTwoLower.eps"
+--></div>
+<!--l. 56--><p class="noindent" >We need to remember that each transition has 
+	its own spontaneous emission spectrum with a finite FWHM; in intersubband 
+	heterostructure emitters, a good estimate for <span
+class="cmmi-10">δɛ</span><sub><span
+class="cmmi-7">uℓ</span></sub> is 10% of the transition energy. If the two 
+	transitions are close enough together, the spontaneous emission will overlap 
+	in energy. Let’s assume the spontaneous emission lineshape <span
+class="cmsy-10"><img
+src="opqr0a4c.png" alt="L" class="10x-x-4c" /> </span>for a transition with 
+	energy <span
+class="cmmi-10">ɛ</span><sub><span
+class="cmmi-7">uℓ</span></sub> has a Lorentzian form.
+   <table
+class="equation"><tr><td><a
+ id="x1-2001r3"></a>
+   <center class="math-display" >
+<img
+src="FoM5x.png" alt="L(&#x025B;u&#x2113;) =-&#x025B;--&#x025B;1-----
+        (-u&#x03B4;&#x2113;&#x025B;u&#x2113;0)2 + 1
+" class="math-display" ></center></td><td class="equation-label">(3)</td></tr></table>
+<!--l. 60--><p class="nopar" >
+Here, <span
+class="cmmi-10">ɛ</span><sub><span
+class="cmr-7">0</span></sub> is the lasing photon energy. Now, each transition 
+will be able to contribute to lasing. The lasing wavelength would not be exactly 
+that of a single optical transition, but somewhere between the two transitions. 
+To find the lasing wavelength, we need to keep in mind that the transitions 
+might have different spontaneous emission rates. That is, one transition might 
+be able to emit photons faster than the other. The spontaneous emission rate <span
+class="cmmi-10">W</span><sub><span
+class="cmmi-7">sp</span></sub> [<img
+src="FoM6x.png" alt="t1ime"  class="frac" align="middle">] is the inverse of the 
+spontaneous emission lifetime <span
+class="cmmi-10">τ</span><sub><span
+class="cmmi-7">sp</span></sub> [time].
+
+   <table
+class="equation"><tr><td><a
+ id="x1-2002r4"></a>
+   <center class="math-display" >
+<img
+src="FoM7x.png" alt="      -1-   8&#x03C0;2q2 2
+Wsp = &#x03C4;sp = ?h&#x03B5;&#x03BB;3 zu&#x2113;
+" class="math-display" ></center></td><td class="equation-label">(4)</td></tr></table>
+<!--l. 64--><p class="nopar" >
+Notice that the rate, or the strength of the transition, is proportional to <span
+class="cmmi-10">z</span><sub><span
+class="cmmi-7">uℓ</span></sub><sup><span
+class="cmr-7">2</span></sup>. If we add up the spontaneous emission spectrum of 
+each transition multiplied by <span
+class="cmmi-10">z</span><sub><span
+class="cmmi-7">uℓ</span></sub><sup><span
+class="cmr-7">2</span></sup>, the peak gain and thus the lasing energy <span
+class="cmmi-10">ɛ</span><sub><span
+class="cmr-7">0</span></sub> can be found.
+   <table
+class="equation"><tr><td><a
+ id="x1-2003r5"></a>
+   <center class="math-display" >
+<img
+src="FoM8x.png" alt="        (                       )       (           )
+&#x025B; = max  L (&#x025B;   )z2  + L(&#x025B;   )z2    = max  &#x2211;  L (&#x025B;  )z2
+ 0          u&#x2113;,a  u&#x2113;,a     u&#x2113;,b u&#x2113;,b          &#x2113;    u&#x2113; u&#x2113;
+" class="math-display" ></center></td><td class="equation-label">(5)</td></tr></table>
+<!--l. 68--><p class="nopar" >
+<div class="center"
+>
+<!--l. 71--><p class="noindent" >
+
+<!--l. 72--><p class="noindent" ><img
+src="FoM9x.png" alt="PIC" class="graphics" width="216.81pt" height="161.39774pt" ><!--tex4ht:graphics
+name="FoM9x.png" src="figLorentzianPeaks.eps"
+--></div>
+<!--l. 76--><p class="indent" >   Now that we know what the lasing energy is 
+	going to be, let’s look at stimulated emission for each of the transitions. 
+	Gain <span
+class="cmmi-10">γ </span>[<img
+src="FoM10x.png" alt="-1---
+length"  class="frac" align="middle">] is simply the charge carrier population 
+	difference <span
+class="cmmi-10">N </span>= <span
+class="cmmi-10">N</span><sub><span
+class="cmmi-7">u</span></sub> <span
+class="cmsy-10">- </span><span
+class="cmmi-10">N</span><sub><span
+class="cmmi-7">ℓ</span></sub> [<img
+src="FoM11x.png" alt="-1---
+volume"  class="frac" align="middle">] times the transition cross-section <span
+class="cmmi-10">σ</span>
+	[area].
+   <table
+class="equation"><tr><td><a
+ id="x1-2004r6"></a>
+   <center class="math-display" >
+<img
+src="FoM12x.png" alt="&#x03B3;(&#x025B;u&#x2113;) = N &#x00D7; &#x03C3;(&#x025B;u&#x2113;)
+" class="math-display" ></center></td><td class="equation-label">(6)</td></tr></table>
+<!--l. 80--><p class="nopar" >
+Let’s take each of the two contributions to <span
+class="cmmi-10">γ </span>individually. In a simple two level optical transition 
+system with an upper state pumped at rate <span
+class="cmmi-10">R</span><sub><span
+class="cmmi-7">u</span></sub> [<img
+src="FoM13x.png" alt="----1----
+volume&#x00D7;time"  class="frac" align="middle">], the carrier population 
+difference is
+   <table
+class="equation"><tr><td><a
+ id="x1-2005r7"></a>
+   <center class="math-display" >
+<img
+src="FoM14x.png" alt="N = R &#x03C4; (1 - &#x03C4;&#x2113;) = J---1--
+     u u     &#x03C4;u&#x2113;    q NpLp
+" class="math-display" ></center></td><td class="equation-label">(7)</td></tr></table>
+<!--l. 85--><p class="nopar" >
+where <span
+class="cmmi-10">J </span>is pumping current density [<img
+src="FoM15x.png" alt="curarreenat"  class="frac" align="middle">] and <span
+class="cmmi-10">N</span><sub><span
+class="cmmi-7">p</span></sub> is the number of active region-injector periods in 
+the QCL active core. The transition cross-section can be found by recognizing 
+that, at threshold where optical gain clamps,
+   <table
+class="equation"><tr><td><a
+ id="x1-2006r8"></a>
+   <center class="math-display" >
+<img
+src="FoM16x.png" alt="&#x03B3;(&#x025B;u&#x2113;) = &#x03B1;total = gc&#x0393; Jth
+" class="math-display" ></center></td><td class="equation-label">(8)</td></tr></table>
+<!--l. 90--><p class="nopar" >
+where <span
+class="cmmi-10">α</span><sub><span
+class="cmmi-7">total</span></sub> is the total optical loss (waveguide and 
+mirror loss), Γ is the gain region confinement factor for the optical mode in 
+the waveguide, and <span
+class="cmmi-10">J</span><sub><span
+class="cmmi-7">th</span></sub> is the threshold current density [<img
+src="FoM17x.png" alt="cuarrreeant"  class="frac" align="middle">]. By applying 
+Eqs. (<a
+href="#x1-1001r1">1<!--tex4ht:ref: eqGainCoeff --></a>), (<a
+href="#x1-2004r6">6<!--tex4ht:ref: eqGain --></a>) and (<a
+href="#x1-2005r7">7<!--tex4ht:ref: eqPopInver --></a>) to Eq. (<a
+href="#x1-2006r8">8<!--tex4ht:ref: eqThreshold --></a>), we get
+   <table
+class="equation"><tr><td><a
+ id="x1-2007r9"></a>
+   <center class="math-display" >
+<img
+src="FoM18x.png" alt="                                  2      2
+&#x03C3;(&#x025B;u&#x2113;) = gc&#x0393; Jth-= gc&#x0393;-q(NpLp&#x03C4;-) =-&#x0393; q-4&#x03C0;Npz-u&#x2113;-.
+          N        &#x03C4;u 1- &#x03C4;&#x2113;u&#x2113;   &#x03BB;0&#x03B5;0neff &#x03B4;&#x025B;u&#x2113;
+" class="math-display" ></center></td><td class="equation-label">(9)</td></tr></table>
+<!--l. 95--><p class="nopar" >
+While this is close for the gain cross-section, we’ve got one correction to 
+make. The gain coefficient from Eq. (<a
+href="#x1-1001r1">1<!--tex4ht:ref: eqGainCoeff --></a>) was derived assuming two 
+discreet states. To correct for this, we need to multiply the original <span
+class="cmmi-10">g</span><sub><span
+class="cmmi-7">c</span></sub> by our lineshape function
+<span
+class="cmsy-10"><img
+src="opqr0a4c.png" alt="L" class="10x-x-4c" /></span>(<span
+class="cmmi-10">ɛ</span><sub><span
+class="cmmi-7">uℓ</span></sub>) from Eq. (<a
+href="#x1-2001r3">3<!--tex4ht:ref: eqLineShape --></a>). Thus, we get the 
+quantum cascade laser transition cross-section.
+   <table
+class="equation"><tr><td><a
+ id="x1-2008r10"></a>
+
+   <center class="math-display" >
+<img
+src="FoM19x.png" alt="           2     2
+&#x03C3;(&#x025B;u&#x2113;) =-&#x0393; q-4&#x03C0;Npzu&#x2113;-L(&#x025B;u&#x2113;)
+        &#x03BB;0&#x03B5;0neff &#x03B4;&#x025B;u&#x2113;
+" class="math-display" ></center></td><td class="equation-label">(10)</td></tr></table>
+<!--l. 99--><p class="nopar" >
+Now, getting back to our example with one upper energy state and two closely 
+spaced lower energy states, we can pull from the components of Eq. (<a
+href="#x1-2004r6">6<!--tex4ht:ref: eqGain --></a>) those elements that are 
+influenced by quantum design.
+<table
+class="align">
+       <tr><td
+class="align-odd">FoM</td>       <td
+class="align-even"> = <span
+class="cmmi-10">τ</span><sub><span
+class="cmmi-7">u</span></sub><span class="big"><img
+src="FoM20x.png" alt="("  class="left" align="middle"></span>1 <span
+class="cmsy-10">-</span><img
+src="FoM21x.png" alt="&#x03C4;
+-&#x2113;,a-
+&#x03C4;u&#x2113;,a"  class="frac" align="middle"><span class="big"><img
+src="FoM22x.png" alt=")"  class="left" align="middle"></span><span
+class="cmmi-10">z</span><sub><span
+class="cmmi-7">uℓ,a</span></sub><sup><span
+class="cmr-7">2</span></sup><span
+class="cmsy-10"><img
+src="opqr0a4c.png" alt="L" class="10x-x-4c" /></span>(<span
+class="cmmi-10">ɛ</span><sub>
+<span
+class="cmmi-7">uℓ,a</span></sub>) + <span
+class="cmmi-10">τ</span><sub><span
+class="cmmi-7">u</span></sub><span class="big"><img
+src="FoM23x.png" alt="("  class="left" align="middle"></span>1 <span
+class="cmsy-10">-</span><img
+src="FoM24x.png" alt="&#x03C4;
+-&#x2113;,b-
+&#x03C4;u&#x2113;,b"  class="frac" align="middle"><span class="big"><img
+src="FoM25x.png" alt=")"  class="left" align="middle"></span><span
+class="cmmi-10">z</span><sub><span
+class="cmmi-7">uℓ,b</span></sub><sup><span
+class="cmr-7">2</span></sup><span
+class="cmsy-10"><img
+src="opqr0a4c.png" alt="L" class="10x-x-4c" /></span>(<span
+class="cmmi-10">ɛ</span><sub>
+<span
+class="cmmi-7">uℓ,b</span></sub>)</td>       <td
+class="align-label"></td>       <td
+class="align-label">
+       </td></tr><tr><td
+class="align-odd"></td>           <td
+class="align-even"> = <span
+class="cmex-10">∑</span>
+   <sub><span
+class="cmmi-7">ℓ</span></sub><span
+class="cmmi-10">τ</span><sub><span
+class="cmmi-7">u</span></sub><span class="big"><img
+src="FoM26x.png" alt="("  class="left" align="middle"></span>1 <span
+class="cmsy-10">-</span><img
+src="FoM27x.png" alt="&#x03C4;&#x2113;-
+&#x03C4;u&#x2113;"  class="frac" align="middle"><span class="big"><img
+src="FoM28x.png" alt=")"  class="left" align="middle"></span><span
+class="cmmi-10">z</span><sub><span
+class="cmmi-7">uℓ</span></sub><sup><span
+class="cmr-7">2</span></sup><span
+class="cmsy-10"><img
+src="opqr0a4c.png" alt="L" class="10x-x-4c" /></span>(<span
+class="cmmi-10">ɛ</span><sub>
+<span
+class="cmmi-7">uℓ</span></sub>)</td>                                       <td
+class="align-label"><a
+ id="x1-2009r11"></a>(11)       </td></tr></table>
+<!--l. 107--><p class="noindent" >
+   <h3 class="sectionHead"><span class="titlemark">3   </span> <a
+ id="x1-30003"></a>Intermixed upper energy states</h3>
+<!--l. 109--><p class="noindent" >Calculating a proper FoM for energy 
+	transitions with upper state intermixing takes consideration similar to the 
+	lower state intermixing case. However, with upper state intermixing, we have 
+	an additional complication. We cannot assume that each upper energy state is 
+	equally populated with electrons; the relative populations of each upper 
+	state will influence the total gain contributed by that transition.
+<div class="center"
+>
+<!--l. 112--><p class="noindent" >
+<!--l. 113--><p class="noindent" ><img
+src="FoM29x.png" alt="PIC" class="graphics" width="216.81pt" height="134.7474pt" ><!--tex4ht:graphics
+name="FoM29x.png" src="figTwoUpper.eps"
+--></div>
+<!--l. 117--><p class="indent" >   Recall that our basic relation for gain,
+   <table
+class="equation"><tr><td><a
+ id="x1-3001r12"></a>
+   <center class="math-display" >
+<img
+src="FoM30x.png" alt="            (    &#x03C4;&#x2113;)
+&#x03B3;(&#x025B;u&#x2113;) = Ru&#x03C4;u 1- &#x03C4;-- &#x03C3;(&#x025B;u&#x2113;)
+                 u&#x2113;
+" class="math-display" ></center></td><td class="equation-label">(12)</td></tr></table>
+<!--l. 120--><p class="nopar" >
+has a term <span
+class="cmmi-10">R</span><sub><span
+class="cmmi-7">u</span></sub> that describes the rate at which the upper energy 
+level <span
+class="cmmi-10">u </span>is populated with electrons. For a FoM calculation, 
+where we are focused on obtaining a number that allows us to compare different 
+QC designs, we are not concerned about the absolute pumping rate. Rather, what 
+we need is a weighting factor that reflects the relative population of each of 
+the upper energy states. Now, we can write our FoM as
+   <table
+class="equation"><tr><td><a
+ id="x1-3002r13"></a>
+
+   <center class="math-display" >
+<img
+src="FoM31x.png" alt="      &#x2211;       (   &#x03C4;&#x2113; )2
+FoM =    Cu &#x03C4;u1 - &#x03C4;u&#x2113;zu&#x2113;L(&#x025B;u&#x2113;)
+       u
+" class="math-display" ></center></td><td class="equation-label">(13)</td></tr></table>
+<!--l. 125--><p class="nopar" >
+with an upper state weighting factor <span
+class="cmmi-10">C</span><sub><span
+class="cmmi-7">u</span></sub>. As we’ve previously shown, the pumping rate <span
+class="cmmi-10">R</span><sub><span
+class="cmmi-7">u</span></sub> of an energy state is proportional to the current 
+density passing through the state. In a QCL system with strong coupling between 
+energy states,
+   <table
+class="equation"><tr><td><a
+ id="x1-3003r14"></a>
+   <center class="math-display" >
+<img
+src="FoM32x.png" alt="    qnu-
+Ju &#x2248; 2&#x03C4;u
+" class="math-display" ></center></td><td class="equation-label">(14)</td></tr></table>
+<!--l. 129--><p class="nopar" >
+where <span
+class="cmmi-10">n</span><sub><span
+class="cmmi-7">u</span></sub> is the sheet density [<img
+src="FoM33x.png" alt="-1-
+area"  class="frac" align="middle">] of electrons populating the state. Thus, 
+our weighting factor <span
+class="cmmi-10">C</span><sub><span
+class="cmmi-7">u</span></sub> <span
+class="cmsy-10">∝ </span><span
+class="cmmi-10">n</span><sub><span
+class="cmmi-7">u</span></sub><span
+class="cmmi-10">∕τ</span><sub><span
+class="cmmi-7">u</span></sub>. The energy state population <span
+class="cmmi-10">n</span><sub><span
+class="cmmi-7">u</span></sub> follows the Fermi-Dirac distribution
+   <table
+class="equation"><tr><td><a
+ id="x1-3004r15"></a>
+   <center class="math-display" >
+<img
+src="FoM34x.png" alt="n = n  ---1-----
+ u    se- &#x0394;kB&#x025B;T + 1
+" class="math-display" ></center></td><td class="equation-label">(15)</td></tr></table>
+
+<!--l. 133--><p class="nopar" >
+where Δ<span
+class="cmmi-10">ɛ </span>= <span
+class="cmmi-10">ɛ</span><sub><span
+class="cmmi-7">u</span></sub> <span
+class="cmsy-10">-</span><span
+class="cmmi-10">ɛ</span><sub><span
+class="cmmi-7">F</span></sub> is approximately the energy difference between the 
+state <span
+class="cmmi-10">u </span>and the injector ground state, <span
+class="cmmi-10">k</span><sub><span
+class="cmmi-7">B</span></sub> is the Boltzmann constant, and <span
+class="cmmi-10">T </span>is temperature. For most quantum cascade laser systems, 
+with relatively low doping (carrier densities) and high temperatures, the Fermi 
+distribution is well-approximated by the Boltzmann distribution, so
+   <table
+class="equation"><tr><td><a
+ id="x1-3005r16"></a>
+   <center class="math-display" >
+<img
+src="FoM35x.png" alt="nu &#x221D; e- &#x0394;kB&#x025B;T
+" class="math-display" ></center></td><td class="equation-label">(16)</td></tr></table>
+<!--l. 137--><p class="nopar" >
+and
+   <table
+class="equation"><tr><td><a
+ id="x1-3006r17"></a>
+   <center class="math-display" >
+<img
+src="FoM36x.png" alt="        &#x0394;&#x025B;-
+     e--kBT-
+Cu &#x221D;   &#x03C4;u
+" class="math-display" ></center></td><td class="equation-label">(17)</td></tr></table>
+<!--l. 141--><p class="nopar" >
+Since <span
+class="cmmi-10">C</span><sub><span
+class="cmmi-7">u</span></sub> is a weighting factor, the restriction <span
+class="cmex-10">∑</span>
+  <sub><span
+class="cmmi-7">u</span></sub><span
+class="cmmi-10">C</span><sub><span
+class="cmmi-7">u</span></sub> = 1 must hold.
+   <table
+class="equation"><tr><td><a
+ id="x1-3007r18"></a>
+   <center class="math-display" >
+<img
+src="FoM37x.png" alt="       e--&#x0394;kB&#x025B;T--
+Cu = ---&#x03C4;u-&#x0394;&#x025B;-
+     &#x2211;  e-kBT-
+       u  &#x03C4;u
+" class="math-display" ></center></td><td class="equation-label">(18)</td></tr></table>
+<!--l. 145--><p class="nopar" >
+<!--l. 147--><p class="indent" >   Finally, we arrive at the general equation 
+	for FoM by combining Eqs. (<a
+href="#x1-2009r11">11<!--tex4ht:ref: eqFoMLower --></a>) and (<a
+href="#x1-3002r13">13<!--tex4ht:ref: eqFoMUpper --></a>), the generalized cases 
+	for transitions between intermixed upper and lower energy states.
+   <table
+class="equation"><tr><td><a
+ id="x1-3008r19"></a>
+   <center class="math-display" >
+<img
+src="FoM38x.png" alt="      &#x2211;       (   &#x03C4;&#x2113;-)2
+FoM =    Cu &#x03C4;u1 - &#x03C4;u&#x2113;zu&#x2113;L(&#x025B;u&#x2113;)
+       u,&#x2113;
+" class="math-display" ></center></td><td class="equation-label">(19)</td></tr></table>
+<!--l. 150--><p class="nopar" >
+
+
+ 
+
+  </div>  <!-- mainbody div -->
+  
+  <div class="footer">
+    <p style="padding-top:10px">&#169; 2008 Kale J. Franz</p>
+  </div>
+      
+</div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3187139-1";
+urchinTracker();
+</script>
+
+</body>
+</html>
