@@ -1,0 +1,7 @@
+Options +FollowSymLinks 
+RewriteEngine on 
+RewriteCond %{HTTP_HOST} ^kfranz.us [NC] 
+RewriteRule ^(.*)$ http://www.kalefranz.com/$1 [R=301,NC,L] RewriteCond %{HTTP_HOST} ^kfranz.us$ [OR]
+RewriteCond %{HTTP_HOST} ^www.kfranz.us$
+RewriteRule ^/?(.*)$ "http\:\/\/www\.kalefranz\.com\/$1" [R=301,L]
+

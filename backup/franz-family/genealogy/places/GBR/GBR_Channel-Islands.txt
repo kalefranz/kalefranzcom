@@ -1,0 +1,6 @@
+<!-- @version $Id: GBR_Channel-Islands.txt 2091 2007-10-30 16:19:34Z yalnifj $ -->
+<!-- @see http://www.wirksworth.org.uk/A26-CHAP.htm#Scotland -->
+Alderney (ALD)
+Guernsey (GSY)
+Jersey (JSY)
+Sark (SRK)

@@ -1,0 +1,7 @@
+Options +FollowSymLinks 
+RewriteEngine on 
+RewriteCond %{HTTP_HOST} ^mid-infrared.com [NC] 
+RewriteRule ^(.*)$ http://www.primistech.com/$1 [R=301,NC,L] RewriteCond %{HTTP_HOST} ^mid-infrared.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.mid-infrared.com$
+RewriteRule ^/?(.*)$ "http\:\/\/www\.primistech\.com\/$1" [R=301,L]
+

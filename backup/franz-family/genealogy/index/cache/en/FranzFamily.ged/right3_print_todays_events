@@ -1,0 +1,9 @@
+<div id="on_this_day_events" class="block"><table class="blockheader" cellspacing="0" cellpadding="0"><tr><td class="blockh1">&nbsp;</td><td class="blockh2 blockhc"><b>On This Day ...</b></td><td class="blockh3">&nbsp;</td></tr></table><div class="blockcontent"><div class="small_inner_block"><!-- @version $Id: sorttable.js.htm 2091 2007-10-30 16:19:34Z yalnifj $ -->
+<script type="text/javascript" src="strings.js"></script>
+<script type="text/javascript" src="js/kryogenix/sorttable.js"></script>
+<script type="text/javascript" src="js/kryogenix/sorttable_filter.js"></script>
+<script type="text/javascript">
+var _lc_locale = '_0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';</script>
+<script type="text/javascript" src="js/kryogenix/locale.js"></script><table id="ID962241" class="sortable list_table center"><tr><th class="list_label">Record</th><th style="display:none">GIVN</th><th class="list_label">Date</th><th class="list_label"><img src="./images/reminder.gif" alt="Anniversary" title="Anniversary" border="0" /></th><th class="list_label">Event</th></tr>
+<tr class="sortbottom"><td class="list_label"><a href="javascript:;" onclick="sortByNextCol(this)"><img src="images/topdown.gif" alt="" border="0" /> Given Names</a><br /><input id="cb_parents_ID962241" type="checkbox" onclick="toggleByClassName('DIV', 'parents_ID962241');" /><label for="parents_ID962241">Parents:</label><br />Total events: 0</td><td style="display:none">GIVN</td><td></td><td></td><td></td></tr></table>
+</div></div></div>

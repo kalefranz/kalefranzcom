@@ -1,0 +1,398 @@
+0 HEAD
+1 SOUR PhpGedView
+2 NAME PhpGedView Online Genealogy
+2 VERS 4.1.5 
+1 DEST DISKETTE
+1 DATE 20 JUL 2008
+2 TIME 00:18:04
+1 GEDC
+2 VERS 5.5.1
+2 FORM Lineage-Linked
+1 CHAR UTF-8
+1 FILE FranzFamily.ged
+1 PLAC
+2 FORM City, County, State/Province, Country
+1 SUBM @S0@
+0 @I2@ INDI
+1 NAME Kyle Lee /Franz/
+2 GIVN Kyle Lee
+2 SURN Franz
+1 SEX M
+1 BIRT
+2 DATE 24 Sep 1958
+2 PLAC Burlington, Colorado
+1 _UID FEEBB0357DC340FC835658EDF919B9DD1030
+1 CHAN
+2 DATE 19 Jul 2008
+3 TIME 21:04
+1 FAMS @F1@
+1 FAMC @F342384881@
+0 @I3@ INDI
+1 NAME Marlinda Jean /Revert/
+2 GIVN Marlinda Jean
+2 SURN Revert
+1 SEX F
+1 BIRT
+2 DATE 25 Jul 1959
+2 PLAC Burlington, Colorado
+1 _UID 9874D374D06243C881BD2D9DFD3888217675
+1 CHAN
+2 DATE 19 Jul 2008
+3 TIME 20:53
+1 FAMS @F1@
+0 @I5@ INDI
+1 NAME Philip /Devlin/
+2 GIVN Philip
+2 SURN Devlin
+1 SEX M
+1 _UID 340976E897714F268E07FFD9D91936D88529
+1 CHAN
+2 DATE 19 Jul 2008
+3 TIME 20:43
+1 FAMS @F2@
+0 @I6@ INDI
+1 NAME Hugo Howard /Franz/
+2 GIVN Hugo Howard
+2 SURN Franz
+1 SEX M
+1 BIRT
+2 DATE 22 Feb 1914
+2 PLAC Rozel, Pawnee, Kansas
+1 DEAT
+2 DATE 15 Feb 1987
+2 PLAC Burlington, Kit Carson, Cheyenne, Colorado
+1 SOUR @S2@
+1 _UID C0D3FF79335C4DE888EA74861CAB1F5475F5
+1 CHAN
+2 DATE 19 Jul 2008
+3 TIME 21:14
+1 FAMS @F342384881@
+1 FAMC @F342384882@
+0 @I7@ INDI
+1 NAME Virgie Eileene /Hines/
+2 GIVN Virgie Eileene
+2 SURN Hines
+1 SEX F
+1 BIRT
+2 DATE 28 Jul 1922
+2 PLAC Kanorado, Sherman, Kansas
+1 DEAT
+2 DATE 8 Jul 1979
+2 PLAC St Josephs Hospital, , Denver, Colorado
+1 BURI
+2 PLAC Kanorado Cemetery, Kanarado, , , Kansas
+1 SOUR @S2@
+1 _UID 3E45559F429A40B7949593140A437DAC9069
+1 CHAN
+2 DATE 19 Jul 2008
+3 TIME 21:01
+1 FAMS @F342384881@
+0 @I8@ INDI
+1 NAME Hugo Edward /Franz/
+2 GIVN Hugo Edward
+2 SURN Franz
+1 SEX M
+1 BIRT
+2 DATE 7 Jun 1872
+2 PLAC Saxony, Germany
+1 DEAT
+2 DATE 27 Sep 1934
+2 PLAC Larned, KS
+1 BURI
+2 PLAC Rozel, Pawnee Co, KS
+1 SOUR @S2@
+1 _UID 7B559B6782CF4E8DAF4FF1C993603E462DC0
+1 CHAN
+2 DATE 19 Jul 2008
+3 TIME 21:38
+1 FAMS @F342384882@
+1 FAMC @F342384883@
+0 @I9@ INDI
+1 NAME Sarah Jane /Beaman/
+2 GIVN Sarah Jane
+2 SURN Beaman
+1 SEX F
+1 BIRT
+2 DATE 18 Sep 1877
+2 PLAC Butler, Bates, Missouri
+1 DEAT
+2 DATE 20 Aug 1961
+1 SOUR @S2@
+1 _UID 84F2425CE241429D91279B96395947D4ACAC
+1 CHAN
+2 DATE 19 Jul 2008
+3 TIME 21:16
+1 FAMS @F342384882@
+0 @I10@ INDI
+1 NAME John Adam /Franz/
+2 GIVN John Adam
+2 SURN Franz
+1 SEX M
+1 _UID 5E072C815260431595186003208A1DF7EA7F
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 23:15:31
+2 _PGVU kalefranz
+1 FAMS @F342384883@
+1 DEAT Y
+1 DEAT Y
+0 @I11@ INDI
+1 NAME Emma /Zitzman/
+2 GIVN Emma
+2 SURN Zitzman
+1 SEX F
+1 _UID A60FFBE7464448809786264764A97F8786F3
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 23:15:16
+2 _PGVU kalefranz
+1 FAMS @F342384883@
+1 DEAT Y
+0 @I12@ INDI
+1 NAME Joel Lynn /Franz/
+2 GIVN Joel Lynn
+2 SURN Franz
+1 SEX M
+1 FAMC @F342384881@
+2 PEDI birth
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 22:31:45
+2 _PGVU kalefranz
+1 FAMS @F342384884@
+0 @I13@ INDI
+1 NAME Sonja /Franz/
+2 GIVN Sonja
+2 SURN Franz
+2 _MARNM Sonja /Meade/
+1 SEX F
+1 FAMC @F342384881@
+2 PEDI birth
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 22:13:32
+2 _PGVU kalefranz
+0 @I14@ INDI
+1 NAME Ryan /Franz/
+2 GIVN Ryan
+2 SURN Franz
+1 SEX U
+1 FAMC @F342384881@
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 22:14:07
+2 _PGVU kalefranz
+0 @I15@ INDI
+1 NAME Cara /Franz/
+2 GIVN Cara
+2 SURN Franz
+2 _MARNM Cara /Daise/
+1 SEX U
+1 FAMC @F342384881@
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 22:16:06
+2 _PGVU kalefranz
+0 @I16@ INDI
+1 NAME Sandy //
+2 GIVN Sandy
+2 _MARNM Sandy /Franz/
+1 SEX F
+1 FAMS @F342384884@
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 22:31:45
+2 _PGVU kalefranz
+0 @I17@ INDI
+1 NAME Jasalyn //
+2 GIVN Jasalyn
+1 SEX U
+1 FAMC @F342384884@
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 22:32:38
+2 _PGVU kalefranz
+0 @I18@ INDI
+1 NAME Jolynne /Franz/
+2 GIVN Jolynne
+2 SURN Franz
+2 _MARNM Jolynne /Hoyda/
+1 SEX F
+1 FAMC @F342384884@
+2 PEDI birth
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 22:34:00
+2 _PGVU kalefranz
+0 @I19@ INDI
+1 NAME Justin /Franz/
+2 GIVN Justin
+2 SURN Franz
+1 SEX M
+1 FAMC @F342384884@
+2 PEDI birth
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 22:34:32
+2 _PGVU kalefranz
+0 @I4@ INDI
+1 NAME MaKayla Jean /Franz/
+2 GIVN MaKayla Jean
+2 SURN Franz
+1 SEX F
+1 _UID F344DC45AD5C46A1BDD8251ED0FEC68438B8
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 23:44:19
+2 _PGVU mjdevlin
+1 FAMS @F2@
+1 FAMC @F1@
+1 BIRT
+2 DATE 19 APR 1985
+3 TIME 10:16 PM
+2 PLAC Denver, Colorado
+1 OCCU 1st Grade Teacher
+2 AGNC Douglas County School District
+2 DATE 01 AUG 2007
+2 PLAC Renaissance Elementary School
+2 ADDR 3960 Trailboss Lane
+3 CONT Castle Rock, CO  80104
+2 PHON (303) 387-8000
+2 URL http://elobdouglascounty.org/index.html
+2 EMAIL makayla.devlin@dcsdk12.org
+0 @I1@ INDI
+1 NAME Kale John /Franz/
+2 GIVN Kale John
+2 SURN Franz
+1 SEX M
+1 BIRT
+2 DATE 17 FEB 1982
+3 TIME 7:06 PM MST
+2 PLAC Burlington, Colorado
+2 ADDR Kit Carson County Memorial Hospital
+1 _UID 0B3AC7364412425B9D3E29B1122B24529DDB
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 00:06:17
+2 _PGVU kalefranz
+1 FAMC @F1@
+1 OBJE @M2@
+1 RESI
+2 DATE 01 JUL 2006
+2 PLAC Princeton, New Jersey
+2 ADDR 306 Trinity Ct #4
+3 CONT Princeton, NJ 08540
+2 PHON 303-881-2825
+1 EMAIL kfranz@alumni.princeton.edu
+1 EDUC B.S. Engineering Physics
+2 AGNC Colorado School of Mines
+2 DATE MAY 2004
+2 PLAC Golden, Colorado
+1 EDUC M.A. Electrical Engineering
+2 AGNC Princeton University
+2 DATE JUN 2006
+2 PLAC Princeton, New Jersey
+1 OCCU Graduate Student
+2 AGNC Princeton University
+2 DATE SEPT 2004
+2 PLAC Princeton, New Jersey
+2 ADDR Princeton University
+3 CONT EQuad ELE Atrium 23
+3 CONT Princeton, NJ 08544
+2 PHON 609-258-7037
+2 URL qcllab.princeton.edu
+2 EMAIL kfranz@princeton.edu
+1 OCCU Managing Partner & Principal Engineer
+2 AGNC Primis Technologies Inc.
+2 PLAC Princeton, New Jersey
+2 URL www.primistech.com
+2 EMAIL kale@primistech.com
+2 DATE 2008
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 MARR
+2 DATE 10 Jun 1980
+2 PLAC Burlington, Colorado
+1 CHIL @I1@
+1 CHIL @I4@
+1 CHAN
+2 DATE 19 Jul 2008
+3 TIME 20:42
+0 @F2@ FAM
+1 HUSB @I5@
+1 WIFE @I4@
+1 MARR
+2 DATE 19 Aug 2007
+2 PLAC Boulder, Colorado
+1 CHAN
+2 DATE 19 Jul 2008
+3 TIME 20:43
+0 @F342384882@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 MARR
+1 CHIL @I6@
+1 CHAN
+2 DATE 19 Jul 2008
+3 TIME 21:16
+0 @F342384883@ FAM
+1 HUSB @I10@
+1 WIFE @I11@
+1 MARR
+1 CHIL @I8@
+1 CHAN
+2 DATE 19 Jul 2008
+3 TIME 21:39
+0 @F342384881@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
+1 MARR
+2 DATE 4 Aug 1940
+2 PLAC Kanorado, Sherman, Kansas
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 22:18:26
+2 _PGVU kalefranz
+1 NCHI 5
+1 CHIL @I2@
+1 CHIL @I12@
+1 CHIL @I13@
+1 CHIL @I14@
+1 CHIL @I15@
+0 @F342384884@ FAM
+1 WIFE @I16@
+1 HUSB @I12@
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 22:34:32
+2 _PGVU kalefranz
+1 CHIL @I17@
+1 CHIL @I18@
+1 CHIL @I19@
+0 @S2@ SOUR
+1 ABBR International Genealogical Index (R)
+1 TITL International Genealogical Index (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1980, 2002, data as of July 19, 2008
+1 REPO @R1@
+0 @R1@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+2 _NAME Family History Library
+2 ADR1 35 N West Temple Street
+2 ADR2 Salt Lake City, Utah 84150  USA
+0 @S0@ SUBM
+1 NAME Kale Franz
+1 _URL www.kalefranz.com
+0 @M2@ OBJE
+1 FILE media/80225 - crop.jpg
+2 FORM jpeg
+3 TYPE photo
+2 TITL Kale in Salzburg, Austria - February 2008
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 21:56:54
+2 _PGVU kalefranz
+0 TRLR

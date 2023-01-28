@@ -1,0 +1,41 @@
+<div id="gedcom_favorites" class="block"><table class="blockheader" cellspacing="0" cellpadding="0"><tr><td class="blockh1">&nbsp;</td><td class="blockh2 blockhc"><b> <a class="help" tabindex="0" href="javascript:// index_favorites_help" onclick="helpPopup('index_favorites_help'); return false;"><img src="themes/xenea/images/small/help.gif" class="icon" width="15" height="15" alt="" /></a>Stammbaum Lesezeichen&nbsp;&nbsp;(1)</b></td><td class="blockh3">&nbsp;</td></tr></table><div class="blockcontent"><table width="100%" class="ltr"><tr><td><div id="boxI10.0" class="person_box">
+
+		<div id="II10.1.2links" style="position:absolute; left: 0px; top:0px; width: 165px; visibility:hidden; z-index:'100';">
+			<table class="person_box"><tr><td class="details1"><a href="pedigree.php?rootid=I10&amp;PEDIGREE_GENERATIONS=4&amp;talloffset=1&amp;ged=FranzFamily.ged" title="Stammbaum: I10" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');"><b>Stammbaum</b></a>
+<br /><a href="descendancy.php?pid=I10&amp;show_full=1&amp;generations=&amp;box_width=&amp;ged=FranzFamily.ged" title="Nachfahrenbaum: I10" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');"><b>Nachfahrenbaum</b></a><br />
+<a href="ancestry.php?rootid=I10&amp;chart_style=&amp;PEDIGREE_GENERATIONS=4&amp;box_width=&amp;ged=FranzFamily.ged" title="Ahnendiagramm: I10" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');"><b>Ahnendiagramm</b></a><br />
+<a href="compact.php?rootid=I10&amp;ged=FranzFamily.ged" title="Kompaktes Diagramm: I10" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');"><b>Kompaktes Diagramm</b></a><br />
+<a href="fanchart.php?rootid=I10&amp;PEDIGREE_GENERATIONS=4&amp;ged=FranzFamily.ged" title="Kreisdiagramm: I10" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');"><b>Kreisdiagramm</b></a><br />
+<a href="hourglass.php?pid=I10&amp;chart_style=&amp;PEDIGREE_GENERATIONS=4&amp;box_width=&amp;ged=FranzFamily.ged&amp;show_spouse=&amp;show_full=1" title="Sanduhr-Diagramm: I10" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');"><b>Sanduhr-Diagramm</b></a><br />
+<a href="family.php?famid=F342384883&amp;ged=FranzFamily.ged" title="Familienbuch Diagramm: F342384883" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');"><b>Familie mit Ehepartner</b></a><br /> 
+<a href="individual.php?pid=I11&amp;ged=FranzFamily.ged" title="Persönliche Informationen: I11" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');">Emma Zitzman</a><br />
+
+				&nbsp;&nbsp;<a href="individual.php?pid=I55&amp;ged=FranzFamily.ged" title="Persönliche Informationen: I55" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');">Amanda Franz<br /></a>
+				&nbsp;&nbsp;<a href="individual.php?pid=I56&amp;ged=FranzFamily.ged" title="Persönliche Informationen: I56" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');">Emma Franz<br /></a>
+				&nbsp;&nbsp;<a href="individual.php?pid=I8&amp;ged=FranzFamily.ged" title="Persönliche Informationen: I8" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');">Hugo Edward Franz<br /></a>
+				&nbsp;&nbsp;<a href="individual.php?pid=I57&amp;ged=FranzFamily.ged" title="Persönliche Informationen: I57" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');">Emilia Franz<br /></a>
+				&nbsp;&nbsp;<a href="individual.php?pid=I58&amp;ged=FranzFamily.ged" title="Persönliche Informationen: I58" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');">Augusta Franz<br /></a>
+				&nbsp;&nbsp;<a href="individual.php?pid=I59&amp;ged=FranzFamily.ged" title="Persönliche Informationen: I59" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');">Albert Franz<br /></a><a href="family.php?famid=F342384895&amp;ged=FranzFamily.ged" title="Familienbuch Diagramm: F342384895" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');"><b>Familie mit Ehepartner</b></a><br /> 
+<a href="individual.php?pid=I49&amp;ged=FranzFamily.ged" title="Persönliche Informationen: I49" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');">Clarissa Catherine Smith</a><br />
+
+				&nbsp;&nbsp;<a href="individual.php?pid=I50&amp;ged=FranzFamily.ged" title="Persönliche Informationen: I50" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');">Ida May Franz<br /></a>
+				&nbsp;&nbsp;<a href="individual.php?pid=I51&amp;ged=FranzFamily.ged" title="Persönliche Informationen: I51" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');">John E. Franz<br /></a>
+				&nbsp;&nbsp;<a href="individual.php?pid=I52&amp;ged=FranzFamily.ged" title="Persönliche Informationen: I52" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');">George A. Franz<br /></a>
+				&nbsp;&nbsp;<a href="individual.php?pid=I53&amp;ged=FranzFamily.ged" title="Persönliche Informationen: I53" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');">Ella Amy Franz<br /></a>
+				&nbsp;&nbsp;<a href="individual.php?pid=I54&amp;ged=FranzFamily.ged" title="Persönliche Informationen: I54" onmouseover="clear_family_box_timeout('I10.1.2');" onmouseout="family_box_timeout('I10.1.2');">Nora Franz<br /></a></td></tr></table>
+		</div>
+			<div id="out-I10.1.2" style="padding: 2px;"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td valign="top"><div id="icons-I10.1.2" style="float:right; width: 25px; height: 50px; display: block;"><a href="javascript:;" onclick="expandbox('I10.1.2', 2); return false;"><img id="iconz-I10.1.2" src="themes/xenea/images/zoomin.gif" width="25" height="25" border="0" alt="Zoom hinein/heraus" title="Zoom hinein/heraus" /></a><a href="javascript:;" title=""onclick="toggle_family_box('I10.1.2', 'relatives'); return false;" onmouseout="family_box_timeout('I10.1.2'); return false;"><img src="themes/xenea/images/small/pedigree.gif" width="25" border="0" vspace="0" hspace="0" alt="Links zu Diagrammen, Familien und nahen Verwandten dieser Person. Klicken Sie auf dieses Symbol, um die Seite mit dieser Person als Ausgangspunkt aufzurufen." title="Links zu Diagrammen, Familien und nahen Verwandten dieser Person. Klicken Sie auf dieses Symbol, um die Seite mit dieser Person als Ausgangspunkt aufzurufen." /></a></div>
+<a href="individual.php?pid=I10&amp;ged=FranzFamily.ged" title="Persönliche Informationen: I10" ><span id="namedef-I10.1.2" class="name2 BIRT DEAT BURI IMMI">John Adam Franz</span><span class="name2"> <img id="box-I10.1.2-gender" src="themes/xenea/images/small/male.gif" title="männlich" alt="männlich" class="gender_image" /></span>
+<span class="details2">(I10) </span></a><div id="fontdef-I10.1.2" class="details2">
+<div id="inout2-I10.1.2"  style="display: block;">
+<span class="details_label">Geburt</span>  <span class="date">6. August 1848</span>  -- Erfurt, Germany<br />
+<span class="details_label">Tod</span>  <span class="date">8. Dezember 1930</span> (Alter <span class="age">82</span>)  -- Emporia, Kansas<br />
+</div>
+</div>
+
+<div id="inout-I10.1.2" style="display: none;">
+<div id="LOADING-inout-I10.1.2">Laden...</div></div>
+			</td></tr></table></div></div>
+</td></tr>
+</table>
+</div></div>

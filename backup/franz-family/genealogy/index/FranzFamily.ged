@@ -1,0 +1,2828 @@
+0 HEAD
+1 SOUR PhpGedView
+2 NAME PhpGedView Online Genealogy
+2 VERS 4.1.5
+1 DEST DISKETTE
+1 DATE 20 JUL 2008
+2 TIME 00:18:04
+1 GEDC
+2 VERS 5.5.1
+2 FORM Lineage-Linked
+1 CHAR UTF-8
+1 FILE FranzFamily.ged
+1 PLAC
+2 FORM City, County, State/Province, Country
+1 SUBM @S0@
+0 @I2@ INDI
+1 NAME Kyle Lee /Franz/
+2 GIVN Kyle Lee
+2 SURN Franz
+1 SEX M
+1 BIRT
+2 DATE 24 Sep 1958
+2 PLAC Burlington, Colorado
+1 _UID FEEBB0357DC340FC835658EDF919B9DD1030
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 01:16:14
+2 _PGVU kalefranz
+1 FAMS @F1@
+1 FAMC @F342384881@
+1 OBJE @M4@
+1 OBJE @M9@
+0 @I3@ INDI
+1 NAME Marlinda Jean /Revert/
+2 GIVN Marlinda Jean
+2 SURN Revert
+2 _MARNM Marlinda Jean /Franz/
+1 SEX F
+1 BIRT
+2 DATE 25 Jul 1959
+2 PLAC Burlington, Colorado
+1 _UID 9874D374D06243C881BD2D9DFD3888217675
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 02:37:15
+2 _PGVU kalefranz
+1 FAMS @F1@
+1 OBJE @M4@
+1 FAMC @F342384887@
+0 @I5@ INDI
+1 NAME Philip /Devlin/
+2 GIVN Philip
+2 SURN Devlin
+1 SEX M
+1 _UID 340976E897714F268E07FFD9D91936D88529
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 00:54:33
+2 _PGVU kalefranz
+1 FAMS @F2@
+1 OBJE @M6@
+0 @I6@ INDI
+1 NAME Hugo Howard /Franz/
+2 GIVN Hugo Howard
+2 SURN Franz
+1 SEX M
+1 BIRT
+2 DATE 22 Feb 1914
+2 PLAC Rozel, Pawnee, Kansas
+1 DEAT
+2 DATE 15 FEB 1987
+2 PLAC Burlington, Colorado
+1 SOUR @S2@
+1 _UID C0D3FF79335C4DE888EA74861CAB1F5475F5
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 02:57:08
+2 _PGVU kalefranz
+1 FAMS @F342384881@
+1 FAMC @F342384882@
+1 SSN 513-07-2747
+0 @I7@ INDI
+1 NAME Virgie Eileene /Hines/
+2 GIVN Virgie Eileene
+2 SURN Hines
+2 _MARNM Virgie Eileene /Franz/
+1 SEX F
+1 BIRT
+2 DATE 28 Jul 1922
+2 PLAC Kanorado, Sherman, Kansas
+1 DEAT
+2 DATE 8 Jul 1979
+2 PLAC St Josephs Hospital, , Denver, Colorado
+1 BURI
+2 PLAC Kanorado Cemetery, Kanarado, , , Kansas
+1 SOUR @S2@
+1 _UID 3E45559F429A40B7949593140A437DAC9069
+1 CHAN
+2 DATE 19 Jul 2008
+3 TIME 21:01
+1 FAMS @F342384881@
+0 @I8@ INDI
+1 NAME Hugo Edward /Franz/
+2 GIVN Hugo Edward
+2 SURN Franz
+1 SEX M
+1 BIRT
+2 DATE 7 Jun 1872
+2 PLAC Sachsenhausen, Germany
+2 SOUR @Leslie@
+3 PAGE www.findagrave.com
+2 SOUR @S4@
+3 DATA
+4 TEXT http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=franz&GSfn=hugo&GSbyrel=in&GSdyrel=in&GSob=n&GRid=26918046&
+5 CONT
+5 CONT Birth:   Jun. 7, 1872
+5 CONT Sachsenhausen, Germany
+5 CONT Death:   Sep. 27, 1934
+5 CONT Rozel
+5 CONT Pawnee County
+5 CONT Kansas, USA
+5 CONT
+5 CONT Hugo was born to John Adam and Emma(Zitman) Franz.
+5 CONT
+5 CONT Hugo was married to Sarah Beaman, Jul. 3, 1898. They were the parents of six children.
+5 CONT
+5 CONT
+5 CONT Burial:
+5 CONT Unknown
+5 CONT
+5 CONT Record added: May 18 2008
+5 CONT By: Leslie
+1 DEAT
+2 DATE 27 Sep 1934
+2 PLAC Larned, KS
+1 BURI
+2 PLAC Rozel, Pawnee Co, KS
+1 SOUR @S2@
+1 _UID 7B559B6782CF4E8DAF4FF1C993603E462DC0
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 20:03:33
+2 _PGVU kalefranz
+1 FAMS @F342384882@
+1 FAMC @F342384883@
+0 @I9@ INDI
+1 NAME Sarah Jane /Beaman/
+2 GIVN Sarah Jane
+2 SURN Beaman
+2 _MARNM Sarah Jane /Franz/
+1 SEX F
+1 BIRT
+2 DATE 18 Sep 1877
+2 PLAC Butler, Bates, Missouri
+1 DEAT
+2 DATE 20 Aug 1961
+1 SOUR @S2@
+1 _UID 84F2425CE241429D91279B96395947D4ACAC
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 21:39:03
+2 _PGVU kalefranz
+1 FAMS @F342384882@
+1 NOTE http://worldconnect.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=GET&db=bbparker&id=I3044
+2 CONT
+2 CONT # ID: I3044
+2 CONT # Name: Sarah Jane BEAMAN
+2 CONT # Given Name: Sarah Jane
+2 CONT # Surname: Beaman 1
+2 CONT # Sex: F
+2 CONT # Birth: 18 Sep 1877 in Butler, Bates Co, MO 1
+2 CONT # Death: 20 Aug 1961 in Larned, Pawnee Co, KS 1
+2 CONT # Census: 1880 Bates Co, MO
+2 CONT # Note: Shawnee Township, ed154, sh13, #105/111 - Sarah J - age 2, daughter, bMO, father bMO, mother bKY
+2 CONT # Change Date: 1 Jul 2000 at 21:03
+2 CONT
+2 CONT Father: Carlton Jobe BEAMAN b: 14 May 1844 in Springfield, Green, MO
+2 CONT Mother: Mary Brown NEWHILL b: 28 Dec 1848 in Larue, KY
+2 CONT
+2 CONT Marriage 1 Hugo Edward FRANZ b: 7 Jun 1872 in Germany
+2 CONT
+2 CONT     * Married: 3 Jul 1893 in Rozel, Pawnee Co, KS 1
+2 CONT     * Change Date: 1 Jul 2000
+2 CONT
+2 CONT Children
+2 CONT
+2 CONT    1. Nora Edith FRANZ
+2 CONT    2. Hugo Edward FRANZ
+2 CONT    3. Ralph FRANZ
+2 CONT    4. Alfred FRANZ
+2 CONT    5. Dewey FRANZ
+2 CONT    6. (private)
+2 CONT
+2 CONT
+2 CONT Marriage 2 J.U. SMITH
+2 CONT
+2 CONT     * Married: 14 Feb 1946 in Rozel, Pawnee Co, KS 1
+2 CONT     * Change Date: 1 Jul 2000
+2 CONT
+2 CONT
+2 CONT Sources:
+2 CONT
+2 CONT    1. Abbrev: JV Beaman famgroupsheets
+2 CONT       Title: Family Group Sheets
+2 CONT       Author: Beaman, James V.
+2 CONT       Publication: Computer generated family charts mailed to me in 1999-2000 based on the authors 40 years of Beaman genealogy research.
+1 FAMC @F342384900@
+0 @I10@ INDI
+1 NAME John Adam /Franz/
+2 GIVN John Adam
+2 SURN Franz
+1 SEX M
+1 _UID 5E072C815260431595186003208A1DF7EA7F
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 04:24:54
+2 _PGVU kalefranz
+1 FAMS @F342384883@
+1 DEAT
+2 CAUS The Itch
+2 DATE 08 DEC 1930
+2 PLAC Emporia, Kansas
+2 SOUR @S3@
+1 BIRT
+2 DATE 06 AUG 1848
+2 PLAC Erfurt, Germany
+2 ADDR near Saxony, Germany
+2 SOUR @S3@
+1 BURI
+2 CEME Larned Cemetery
+2 PLAC Larned, Kansas
+1 FAMS @F342384895@
+1 IMMI
+2 DATE 1880
+1 NOTE http://skyways.lib.ks.us/genweb/archives/1919ks/f/franzja.html
+2 CONT
+2 CONT Transcribed from A Standard History of Kansas and Kansans, written and compiled by William E. Connelley, Secretary of the Kansas State Historical Society, Topeka. [Revised ed.] Chicago: Lewis Publishing Co., 1919, c1918. 5 v. (xlviii, 2530 p., [155
+2 CONC ] leaves of plates): ill., maps (some fold.), ports.; 27 cm.
+2 CONT
+2 CONT John A. Franz
+2 CONT
+2 CONT JOHN A. FRANZ, of Rozel in Pawnee County, is an active farmer and spent the first thirty-one years of his life in Germany. In the month of February, 1880, he emigrated from the Fatherland and in the course of the same year arrived in Pawnee County.
+2 CONC  Few of the early settlers of this section experienced a more complete change from their former condition and environment than Mr. Franz. He had lived in a country where industrial affairs were regulated by centuries of practice and experience, cam
+2 CONC e out to Western Kansas where the country was still raw and unimproved, and where civilization had to be built from the ground up. The prosperity that has followed his efforts is all the more remarkable and creditable on this account.
+2 CONT
+2 CONT Mr. Franz was born August 6, 1849, in Saxony, near Erfurt. His people had lived in that section for 200 years or more and generation after generation of them had followed milling and manufacturing. His father, Eberhart Franz, was a miller and a man
+2 CONC  of considerable wealth. He married Maria Hoffman. Their children were: John A., Edward and Emilie. The only one of the family to come to America was Mr. Franz. He was reared in Germany and acquired a liberal education in what would correspond to a
+2 CONC n American high school. He also learned his trade as miller under his father. When old enough he served his time in the German army in the Light Cavalry. He was in the Franco-Prussian war in 1870-71, as a member of the Fourth Hussars. Most of his w
+2 CONC ork was guard duty, performed at Gravelotte and Sedan. After he had been in service about a year he was discharged and then returned to his business as a miller.
+2 CONT
+2 CONT In February, 1880, he sailed from Bremen on board the Rhine for New York. His family followed him after he had acquired settlement in Pawnee County. While his work in Germany had been as a miller and manufacturer, he had some practical knowledge of
+2 CONC  how farming was done, and in combating the special conditions of Western Kansas he was perhaps not at any greater disadvantage than most of his neighbors. He paid $200 on a relinquishment on the southwest quarter of section 28, township 20, range
+2 CONC  19, and began farming and stock raising. For a time he occupied the little sod house he found on the quarter section. He at once engaged in the cattle business and also broke up some land to raise feed. His initial efforts as a stockman were subje
+2 CONC ct to misfortune, since he lost 200 head during the blizzard of 1885-86. He gradually recovered from that loss and in the days of the free range he grazed large herds. He also got into the wheat industry and for a number of years has grown an exten
+2 CONC sive acreage. In 1893 he had 1,800 acres in that crop. That was his crowning disaster as a wheat grower. The wheat came up but never matured, and his header never went into the fields. He refused to be discouraged by this experience, and practicall
+2 CONC y every year has sown wheat. In 1917 Mr. Franz put in 800 acres, the results of which have not yet appeared. The biggest yield per acre was thirty-five bushels. The best average yield came in 1914, when he harvested twenty-eight bushels to the acre
+2 CONC . That year he also threshed his heaviest crop, putting about 15,000 bushels through the separator. Mr. Franz recalls the time when wheat sold in Western Kansas as low as 35 cents a bushel. He never sold any of his own wheat for less than 50 cents,
+2 CONC  and the price has been steadily increasing until it reached what was long regarded as the wheat grower's ideal, $1 a bushel, and in recent years has ascended almost to the $2 mark. A bushel of wheat is now worth almost as much as an acre of ground
+2 CONC  was when Mr. Franz came to Kansas.
+2 CONT
+2 CONT Besides his quarter section Mr. Franz took up a timber claim and improved both of them. Out of his profits he also dealt extensively in land, buying and selling. He finally acquired 2 1/2 sections, in sections 20, 28 and 33. He was responsible for
+2 CONC  bringing this large acreage under improvements and put two sections under the plow. As farming became more and more profitable he abandoned the cattle business on a large scale. His cattle are chiefly of the Shorthorn and Galloway strains. The eas
+2 CONC iest money he ever made in Western Kansas came from buying calves and selling them as two year olds. He was frequently a shipper by car load lots to the Kansas City markets. As time went by and finances became easier he built a substantial home, ba
+2 CONC rns and granary, and put two complete sets of improvements on his farm.
+2 CONT
+2 CONT Mr. Franz is one of the directors of the Farmers Elevator Company at Rozel and is a stockholder in the State Bank at Burdett. When he moved to Rozel in the fall of 1909, he erected a large bungalow on his place and has made numerous other improveme
+2 CONC nts. His home lacks none of the conveniences now of the best city places. His house is completely modern, heated by furnace, lighted with acetylene gas, and has running water and bath.
+2 CONT
+2 CONT Politically Mr. Franz is a republican. He served as trustee of Grant Township, as school director of district No. 46, and in 1909 was elected a county commissioner and spent four years on the board. His associates during that time were Brinkman, Sh
+2 CONC ady, Zook and Gilkerson. The chief work of the board during his term was the building of county roads and cement bridges.
+2 CONT
+2 CONT Mr. Franz has been twice married. In 1871, about the close of the Franco-Prussian war, he married Miss Emma Zitzman. She came out to Kansas, and died about five years after they located on their claim, in 1885. Amanda, their oldest child, is now a
+2 CONC  resident of Denver, Colorado, and the wife of George DesPrisay, their children being George, Peter, Helen and Mary. Emma, wife of Luther Braley of Alva, Oklahoma, has the following children, Clarence W., Eddie, Hugh, Amelia, John, George, Maybelle
+2 CONC , Richard and Alpha. Hugh, the third child, a farmer in Pawnee County, married Sarah Beeman, and their children are Dewey, Edith and Ralph. Amelia, the fourth child, was the wife of William Springel, living in Republic, Washington, where she died i
+2 CONC n February, 1918; they had the following children, Dora, Paul, Lawrence and Lou. Augusta, the fifth child, married Lew Heaton, who is a missionary of the Seventh Day Adventist Church at Honolulu; they have two children, George and Margie. Albert, t
+2 CONC he youngest child, is a Pawnee County farmer, and married Maggie Beeman. Their children are Amanda, Irvin, John, Laverne and Lola.
+2 CONT
+2 CONT On March 17, 1889, at LaCrosse, Kansas, Mr. Franz married Miss Clarissa Smith, daughter of James E. Smith, mentioned below. Mr. and Mrs. Franz have five children: Ida May, who graduated in 1917 from the Kansas State Normal; John E., who took some c
+2 CONC ourses in the Kansas State Agricultural College at Manhattan, married Irene McElroy and has a daughter, Dorothy May, and is now a practical farmer; Dr. George, who also studied in the Agricultural College of Kansas, is now a veterinary for the Gove
+2 CONC rnment, and is stationed at Omaha, he married Pearl Aulthouser; Ella, a student in the Agricultural College of Kansas; and Nora.
+2 CONT
+2 CONT James E. Smith, who has lived in Pawnee County for over thirty years and is now retired, was born in Coshocton County, Ohio. September 6, 1843, a son of William and Lucy A. (Kridler) Smith. His mother was of German descent. William Smith was born i
+2 CONC n Virginia, was a soldier in the War of 1812, and spent his last years in Tuscarawas County, Ohio. He and his wife reared a large family, and several of the sons were soldiers in the Union army. James E. Smith had a limited country school education
+2 CONC , and when a few days past eighteen he enlisted in Company E of the Thirty-eighth Illinois Infantry. He joined his regiment in Southern Missouri, saw his first fighting there, and afterwards was on the east side of the Mississippi and at the siege
+2 CONC  of Corinth and in the Kentucky campaign against Bragg. He was in the battle of Stone River, and at Chickamauga was wounded in the left hip and taken prisoner. He spent several months in Libby prison at Richmond, and suffered extremely from his wou
+2 CONC nd, gangrene having set in. After his parole he recuperated in the North and finally rejoined his command in time to participate in the Atlanta campaign. He was almost constantly under fire from June 10th to September 5th of 1864. At the end of thr
+2 CONC ee years he was granted his honorable discharge. He joined the Union League in Illinois, this organization being the origin of the Grand Army of the Republic, and has taken an active part in the Grand Army.
+2 CONT
+2 CONT After the war Mr. Smith became an Illinois farmer and about twenty years later he came to Kansas, bringing with him about $15 in cash, a team of horses and a carload of goods. His household at that time consisted of eleven members. He pre-empted a
+2 CONC  claim on the north line of Pawnee County and for a number of years lived in sod houses and underwent all the hardships and privations of the period. He herded a few cows belonging to his neighbors in order to secure milk, and from stuff raised in
+2 CONC  the garden his family never went hungry. He gradually got into cattle raising and wheat growing and by economy and hard work he was never compelled to resort to outside employment during the period of stress and strain. He finally acquired a secti
+2 CONC on of land, developed it, and after prosperity was assured he moved from his farm in the fall of 1916 and is now well situated and enjoying a merited retirement. He helped create district No. 61 in Grant Township, his children having to go four mil
+2 CONC es to the nearest schoolhouse when he first came to Kansas. He has also served as trustee of Grant Township, justice of the peace and road overseer. He is a loyal and stanch republican who has never been led aside from allegiance to the party by an
+2 CONC y of the various issues presented in Kansas. He cast his first vote for Abraham Lincoln in 1864 while he was in the army.
+2 CONT
+2 CONT In April, 1865, in Ohio, he married Jemima Armstrong, who died three weeks later. October 31, 1867, he married Miss Celesta S. Barber, daughter of Augustus and Clarissa Barber. Mrs. Smith was born January 10, 1848. The children of Mr. and Mrs. Jame
+2 CONC s E. Smith are briefly mentioned as follows: A. Daniel, of Rozel, who married Berta Kitch, and their children are Glee S., Glenna, Helen, Fairy and Fayne; Ralph; Earnest; Clarissa, wife of John A. Franz; James J., who married Sadie Rogers, their ch
+2 CONC ildren being Nettie, Eddie, Blanche, Cecil, Lloyd, Fern, Laverne and Wade; Francis M., who married Eva Pruett, and has children named Charles, Earl, William and May; Dorcie, wife of A. F. Dighton, and the mother of Orva, Alma and Leslie; Wesley, wh
+2 CONC o married Ida Sufficool and has two children, Carl and Nita; William, who married Nora Pruett, their children being Victor, Carroll and Harold; Henrietta, wife of Charles Wilcox, and the mother of Iona, Thelma, Eugene, Arlyn and Verne; Rosa, wife o
+2 CONC f Elza I. Sams and the mother of Vernon, Deane, Pearl, Weldon and William D.; Clarence, who married Katie Hinkle and has children Irene and Lorrayne; Julia, wife of Edward Maresch, has two children, Virgie and Altareta; and Miss Viola, the youngest
+2 CONC  child. James E. Smith has forty-six grandchildren and two great-grandchildren.
+2 CONT
+2 CONT Transcribed from A Standard History of Kansas and Kansans, written and compiled by William E. Connelley, Secretary of the Kansas State Historical Society, Topeka. [Revised ed.] Chicago: Lewis Publishing Co., 1919, c1918. 5 v. (xlviii, 2530 p., [155
+2 CONC ] leaves of plates): ill., maps (some fold.), ports.; 27 cm.
+1 BIRT
+2 PLAC Brattendorf, Sachsen-Meiningen, Thüringen, Germany
+1 FAMC @F342384906@
+0 @I11@ INDI
+1 NAME Emma /Zitzman/
+2 GIVN Emma
+2 SURN Zitzman
+2 _MARNM Emma /Franz/
+1 SEX F
+1 _UID A60FFBE7464448809786264764A97F8786F3
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 04:42:32
+2 _PGVU kalefranz
+1 FAMS @F342384883@
+1 DEAT
+2 PLAC Kansas
+2 DATE 1885
+0 @I12@ INDI
+1 NAME Joel Lynn /Franz/
+2 GIVN Joel Lynn
+2 SURN Franz
+1 SEX M
+1 FAMC @F342384881@
+2 PEDI birth
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 02:52:10
+2 _PGVU kalefranz
+1 FAMS @F342384884@
+1 BIRT
+2 DATE 24 AUG 1944
+1 DEAT
+2 CAUS Heart Attack
+2 DATE 20 OCT 2007
+0 @I13@ INDI
+1 NAME Sonja /Franz/
+2 GIVN Sonja
+2 SURN Franz
+2 _MARNM Sonja /Meade/
+1 SEX F
+1 FAMC @F342384881@
+2 PEDI birth
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 22:13:32
+2 _PGVU kalefranz
+0 @I14@ INDI
+1 NAME Ryan /Franz/
+2 GIVN Ryan
+2 SURN Franz
+1 SEX M
+1 FAMC @F342384881@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 03:47:20
+2 _PGVU kalefranz
+1 BIRT
+2 DATE 11 JUL 1953
+1 DEAT
+2 CAUS Car Accident
+2 DATE 08 JUL 2005
+0 @I15@ INDI
+1 NAME Cara /Franz/
+2 GIVN Cara
+2 SURN Franz
+2 _MARNM Cara /Daise/
+1 SEX F
+1 FAMC @F342384881@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 03:48:24
+2 _PGVU kalefranz
+0 @I16@ INDI
+1 NAME Sandy //
+2 GIVN Sandy
+2 _MARNM Sandy /Franz/
+1 SEX F
+1 FAMS @F342384884@
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 22:31:45
+2 _PGVU kalefranz
+0 @I17@ INDI
+1 NAME Jasalyn /Franz/
+2 GIVN Jasalyn
+2 SURN Franz
+2 _MARNM Jasalyn /Homm/
+1 SEX F
+1 FAMC @F342384884@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 00:58:12
+2 _PGVU kalefranz
+1 FAMS @F342384885@
+0 @I18@ INDI
+1 NAME Jolynne /Franz/
+2 GIVN Jolynne
+2 SURN Franz
+2 _MARNM Jolynne /Hoyda/
+1 SEX F
+1 FAMC @F342384884@
+2 PEDI birth
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 01:07:00
+2 _PGVU kalefranz
+1 FAMS @F342384886@
+0 @I19@ INDI
+1 NAME Justin /Franz/
+2 GIVN Justin
+2 SURN Franz
+1 SEX M
+1 FAMC @F342384884@
+2 PEDI birth
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 22:34:32
+2 _PGVU kalefranz
+0 @I4@ INDI
+1 NAME MaKayla Jean /Franz/
+2 GIVN MaKayla Jean
+2 SURN Franz
+2 _MARNM MaKayla Jean /Devlin/
+1 SEX F
+1 _UID F344DC45AD5C46A1BDD8251ED0FEC68438B8
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 00:50:13
+2 _PGVU kalefranz
+1 FAMS @F2@
+1 FAMC @F1@
+1 BIRT
+2 DATE 19 APR 1985
+3 TIME 10:16 PM
+2 PLAC Denver, Colorado
+1 OCCU 1st Grade Teacher
+2 AGNC Douglas County School District
+2 DATE 01 AUG 2007
+2 PLAC Renaissance Elementary School
+2 ADDR 3960 Trailboss Lane
+3 CONT Castle Rock, CO  80104
+2 PHON (303) 387-8000
+2 URL http://elobdouglascounty.org/index.html
+2 EMAIL makayla.devlin@dcsdk12.org
+1 OBJE @M5@
+0 @I1@ INDI
+1 NAME Kale John /Franz/
+2 GIVN Kale John
+2 SURN Franz
+1 SEX M
+1 BIRT
+2 DATE 17 FEB 1982
+3 TIME 7:06 PM MST
+2 PLAC Burlington, Kit Carson Co, Colorado, USA
+2 ADDR Kit Carson County Memorial Hospital
+1 _UID 0B3AC7364412425B9D3E29B1122B24529DDB
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 22:51:53
+2 _PGVU kalefranz
+1 FAMC @F1@
+1 OBJE @M2@
+1 RESI
+2 DATE 01 JUL 2006
+2 PLAC Princeton, Mercer Co, New Jersey, USA
+2 ADDR 306 Trinity Ct #4
+3 CONT Princeton, NJ 08540
+2 PHON 303-881-2825
+1 EMAIL kfranz@alumni.princeton.edu
+1 EDUC College
+2 AGNC Colorado School of Mines
+2 DATE AUG 2000
+2 PLAC Golden, Jefferson Co, Colorado, USA
+1 EDUC Graduate School
+2 AGNC Princeton University
+2 DATE SEPT 2004
+2 PLAC Princeton, Mercer Co, New Jersey, USA
+1 OCCU Graduate Student
+2 AGNC Princeton University
+2 DATE SEPT 2004
+2 PLAC Princeton, Mercer Co, New Jersey, USA
+2 ADDR Princeton University
+3 CONT EQuad ELE Atrium 23
+3 CONT Princeton, NJ 08544
+2 PHON 609-258-7037
+2 URL http://qcllab.princeton.edu
+2 EMAIL kfranz@princeton.edu
+1 OCCU Managing Partner & Principal Engineer
+2 AGNC Primis Technologies Inc.
+2 PLAC Princeton, Mercer Co, New Jersey, USA
+2 URL http://www.primistech.com
+2 EMAIL kale@primistech.com
+2 DATE 2008
+1 OBJE @M9@
+1 OBJE @M3@
+1 RESI
+2 DATE 17 FEB 1982
+2 PLAC Kyle Franz Farm, Burlington, Kit Carson Co, Colorado, USA
+2 ADDR 58002 County Rd DD
+3 CONT Burlington, Colorado 80807
+2 PHON 719-346-8067
+2 URL http://www.showsheep.com
+1 EDUC Grades K-4
+2 AGNC Burlington Elementary School
+2 DATE AUG 1987
+2 PLAC Burlington, Kit Carson Co, Colorado, USA
+1 EDUC Grades 5-8
+2 AGNC Burlington Middle School
+2 DATE AUG 1992
+2 PLAC Burlington, Kit Carson Co, Colorado, USA
+1 EDUC Grades 9-12
+2 AGNC Burlington High School
+2 DATE AUG 1996
+2 PLAC Burlington, Kit Carson Co, Colorado, USA
+1 GRAD
+2 TYPE High School
+2 AGNC Burlington High School
+2 DATE MAY 2000
+2 PLAC Burlington, Kit Carson Co, Colorado, USA
+1 GRAD
+2 TYPE B.S. Engineering Physics
+2 AGNC Colorado School of Mines
+2 DATE MAY 2004
+2 PLAC Golden, Jefferson Co, Colorado, USA
+1 GRAD
+2 TYPE M.A. Electrical Engineering
+2 AGNC Princeton University
+2 DATE Jun 2006
+2 PLAC Princeton, Mercer Co, New Jersey, USA
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 MARR
+2 DATE 10 Jun 1980
+2 PLAC Burlington, Colorado
+1 CHIL @I1@
+1 CHIL @I4@
+1 CHAN
+2 DATE 19 Jul 2008
+3 TIME 20:42
+0 @F2@ FAM
+1 HUSB @I5@
+1 WIFE @I4@
+1 MARR
+2 DATE 19 Aug 2007
+2 PLAC Boulder, Colorado
+1 CHAN
+2 DATE 19 Jul 2008
+3 TIME 20:43
+0 @F342384882@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 MARR
+2 DATE Jul. 3, 1898
+1 CHIL @I6@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 03:41:03
+2 _PGVU kalefranz
+0 @F342384883@ FAM
+1 HUSB @I10@
+1 WIFE @I11@
+1 MARR
+2 PLAC Germany
+2 DATE 1871
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 04:41:40
+2 _PGVU kalefranz
+1 CHIL @I55@
+1 CHIL @I56@
+1 CHIL @I8@
+1 CHIL @I57@
+1 CHIL @I58@
+1 CHIL @I59@
+0 @F342384881@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
+1 MARR
+2 DATE 4 Aug 1940
+2 PLAC Kanorado, Sherman, Kansas
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 03:49:18
+2 _PGVU kalefranz
+1 NCHI 5
+1 CHIL @I12@
+1 CHIL @I13@
+1 CHIL @I14@
+1 CHIL @I15@
+1 CHIL @I2@
+0 @F342384884@ FAM
+1 WIFE @I16@
+1 HUSB @I12@
+1 CHAN
+2 DATE 19 JUL 2008
+3 TIME 22:34:32
+2 _PGVU kalefranz
+1 CHIL @I17@
+1 CHIL @I18@
+1 CHIL @I19@
+0 @S2@ SOUR
+1 ABBR International Genealogical Index (R)
+1 TITL International Genealogical Index (R)
+1 AUTH The Church of Jesus Christ of Latter-day Saints
+1 PUBL Copyright (c) 1980, 2002, data as of July 19, 2008
+1 REPO @R1@
+0 @R1@ REPO
+1 NAME Family History Library
+1 ADDR 35 N West Temple Street
+2 CONT Salt Lake City, Utah 84150  USA
+2 _NAME Family History Library
+2 ADR1 35 N West Temple Street
+2 ADR2 Salt Lake City, Utah 84150  USA
+0 @S0@ SUBM
+1 NAME Kale Franz
+1 _URL www.kalefranz.com
+0 @M2@ OBJE
+1 FILE media/80225 - crop.jpg
+2 FORM jpeg
+3 TYPE photo
+2 TITL Kale in Salzburg, Austria - February 2008
+1 _PRIM Y
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 01:23:39
+2 _PGVU kalefranz
+0 @M3@ OBJE
+1 FILE media/Wedding Party.jpg
+2 FORM jpeg
+3 TYPE photo
+2 TITL MaKayla's & Philip's Wedding
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 01:24:11
+2 _PGVU kalefranz
+0 @M4@ OBJE
+1 FILE media/Wedding 057.jpg
+2 FORM jpeg
+3 TYPE photo
+2 TITL MaKayla's & Philip's Wedding
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 00:33:39
+2 _PGVU kalefranz
+0 @M5@ OBJE
+1 FILE media/Wedding 043.jpg
+2 FORM jpeg
+3 TYPE photo
+2 TITL MaKayla's & Philip's Wedding
+1 _PRIM Y
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 00:51:39
+2 _PGVU kalefranz
+0 @M6@ OBJE
+1 FILE media/Wedding 063.jpg
+2 FORM jpeg
+3 TYPE photo
+2 TITL Wedding Day
+1 _PRIM Y
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 00:54:33
+2 _PGVU kalefranz
+0 @I20@ INDI
+1 NAME Needs Castrated /Homm/
+2 GIVN Needs Castrated
+2 SURN Homm
+1 SEX U
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 01:12:34
+2 _PGVU kalefranz
+1 FAMS @F342384885@
+0 @F342384885@ FAM
+1 HUSB @I17@
+1 WIFE @I20@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 00:59:15
+2 _PGVU kalefranz
+1 CHIL @I21@
+0 @I21@ INDI
+1 NAME Tyrell /Homm/
+2 GIVN Tyrell
+2 SURN Homm
+1 SEX M
+1 FAMC @F342384885@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 01:01:06
+2 _PGVU kalefranz
+1 OBJE @M7@
+0 @M7@ OBJE
+1 FILE media/IMG_1222.jpg
+2 FORM jpeg
+3 TYPE photo
+2 TITL Deer Hunting 2007
+1 _PRIM Y
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 01:01:22
+2 _PGVU kalefranz
+0 @I22@ INDI
+1 NAME Eric /Hoyda/
+2 GIVN Eric
+2 SURN Hoyda
+1 SEX M
+1 FAMS @F342384886@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 01:06:59
+2 _PGVU kalefranz
+0 @F342384886@ FAM
+1 HUSB @I22@
+1 WIFE @I18@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 01:08:34
+2 _PGVU kalefranz
+1 CHIL @I23@
+1 CHIL @I24@
+1 CHIL @I25@
+0 @I23@ INDI
+1 NAME Tennyson /Hoyda/
+2 GIVN Tennyson
+2 SURN Hoyda
+1 SEX M
+1 FAMC @F342384886@
+2 PEDI birth
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 01:22:15
+2 _PGVU kylefranz
+0 @I24@ INDI
+1 NAME Madison /Hoyda/
+2 GIVN Madison
+2 SURN Hoyda
+1 SEX F
+1 FAMC @F342384886@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 01:11:45
+2 _PGVU kalefranz
+1 OBJE @M8@
+0 @I25@ INDI
+1 NAME Kegan /Hoyda/
+2 GIVN Kegan
+2 SURN Hoyda
+1 SEX M
+1 FAMC @F342384886@
+2 PEDI birth
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 01:08:34
+2 _PGVU kalefranz
+0 @M8@ OBJE
+1 FILE media/Wedding 018.jpg
+2 FORM jpeg
+3 TYPE photo
+2 TITL Flower Girl
+1 _PRIM Y
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 01:11:45
+2 _PGVU kalefranz
+0 @M9@ OBJE
+1 FILE media/IMG_1249-1.jpg
+2 FORM jpeg
+3 TYPE photo
+2 TITL 2007 buck
+1 _PRIM Y
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 01:16:14
+2 _PGVU kalefranz
+0 @I26@ INDI
+1 NAME Melvin Ernest /Revert/
+2 GIVN Melvin Ernest
+2 SURN Revert
+1 SEX M
+1 BIRT
+2 DATE 15 JUN 1932
+2 PLAC
+3 MAP
+4 LATI N39.47102373426391
+4 LONG W102.05615937709808
+2 ADDR Old Sod House
+1 FAMS @F342384887@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 00:40:56
+2 _PGVU kalefranz
+1 FAMC @F342384888@
+0 @F342384887@ FAM
+1 HUSB @I26@
+1 CHIL @I3@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 14:49:00
+2 _PGVU kalefranz
+1 WIFE @I27@
+1 MARR
+2 DATE 21 FEB 1958
+2 PLAC Boise, Idaho
+2 ADDR Married in Earl's home
+0 @I27@ INDI
+1 NAME Ila Jean /Sivey/
+2 GIVN Ila Jean
+2 NICK Jeanne
+2 SURN Sivey
+2 _MARNM Ila Jean /Revert/
+1 SEX F
+1 BIRT
+2 DATE 27 JUL 1933
+1 FAMS @F342384887@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 14:52:17
+2 _PGVU kalefranz
+1 FAMC @F342384889@
+1 EDUC Pond Creek School
+0 @I28@ INDI
+1 NAME Jesse John /Revert/
+2 GIVN Jesse John
+2 SURN Revert
+1 SEX M
+1 BIRT
+2 DATE 20 JUN 1907
+2 PLAC Beaver Co, Oklahoma, USA
+1 DEAT
+2 DATE APR 1968
+2 CAUS Car Accident
+2 PLAC Burlington, Kit Carson Co, Colorado, USA
+1 FAMS @F342384888@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 00:43:51
+2 _PGVU kalefranz
+1 SSN 524-48-2369
+1 BURI
+2 CEME Burlington Cemetary
+2 DATE APR 1968
+2 PLAC Burlington, Kit Carson Co, Colorado, USA
+1 OCCU picked corn
+2 DATE 1929
+2 PLAC Kanarado, Sherman Co, Kansas, USA
+2 NOTE Kind of like a custom cutter, but everything was manual labor then (no combines).  Came from Okla during summers of 1929 and 1930.
+1 RESI
+2 DATE 1931
+2 PLAC
+3 MAP
+4 LATI N39.47102373426391
+4 LONG W102.05615937709808
+2 ADDR Old Sod House
+1 OCCU farm hand
+2 AGNC Fred Germann, who owned the Kanarado Cash Store
+2 DATE 1931
+2 ADDR close to North farm
+1 FAMC @F342384901@
+0 @F342384888@ FAM
+1 HUSB @I28@
+1 CHIL @I26@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 00:20:32
+2 _PGVU kalefranz
+1 WIFE @I29@
+1 MARR
+2 DATE 16 JUN 1931
+0 @I29@ INDI
+1 NAME Edith Irene /Van Brocklin/
+2 GIVN Edith Irene
+2 SPFX Van
+2 SURN Brocklin
+2 _MARNM Edith Irene /Revert/
+1 SEX F
+1 BIRT
+2 DATE 06 JAN 1905
+1 DEAT
+2 DATE 31 OCT 2000
+2 PLAC Burlington, Colorado
+1 FAMS @F342384888@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 22:35:22
+2 _PGVU mjdevlin
+1 SSN 524-48-2331
+1 FAMC @F342384908@
+0 @I30@ INDI
+1 NAME Clell Earl /Sivey/
+2 GIVN Clell Earl
+2 SURN Sivey
+1 SEX M
+1 BIRT
+2 DATE 6 Apr
+1 DEAT Y
+1 FAMS @F342384889@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 20:53:26
+2 _PGVU kalefranz
+1 FAMC @F342384897@
+0 @F342384889@ FAM
+1 HUSB @I30@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 15:00:30
+2 _PGVU kalefranz
+1 WIFE @I31@
+1 CHIL @I34@
+1 CHIL @I32@
+1 CHIL @I33@
+1 CHIL @I27@
+0 @I31@ INDI
+1 NAME Georgia /Smith/
+2 GIVN Georgia
+2 SURN Smith
+1 SEX F
+1 BIRT
+2 DATE 29 JAN 1902
+1 DEAT
+2 DATE FEB 1980
+1 FAMS @F342384889@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 15:05:55
+2 _PGVU kalefranz
+1 FAMC @F342384890@
+0 @I32@ INDI
+1 NAME William Earl /Sivey/
+2 GIVN William Earl
+2 NICK Earl
+2 SURN Sivey
+1 SEX M
+1 DEAT
+2 PLAC Boise, Idaho
+1 FAMC @F342384889@
+2 PEDI birth
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 14:56:56
+2 _PGVU kalefranz
+1 BIRT
+2 DATE 14 NOV
+0 @I33@ INDI
+1 NAME Vergie Pauline /Sivey/
+2 GIVN Vergie Pauline
+2 SURN Sivey
+1 SEX F
+1 BIRT
+2 DATE 6 MAY
+1 DEAT
+2 PLAC Burlington, Colorado
+1 FAMC @F342384889@
+2 PEDI birth
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 14:58:55
+2 _PGVU kalefranz
+0 @I34@ INDI
+1 NAME Thelma Irene /Sivey/
+2 GIVN Thelma Irene
+2 SURN Sivey
+1 SEX F
+1 DEAT
+2 PLAC Kanarado, Kansas
+1 FAMC @F342384889@
+2 PEDI birth
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 14:59:51
+2 _PGVU kalefranz
+0 @I35@ INDI
+1 NAME unknown /Smith/
+2 GIVN unknown
+2 SURN Smith
+1 SEX M
+1 FAMS @F342384890@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 15:02:39
+2 _PGVU kalefranz
+0 @F342384890@ FAM
+1 HUSB @I35@
+1 CHIL @I31@
+1 CHIL @I36@
+1 CHIL @I37@
+1 CHIL @I38@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 15:04:07
+2 _PGVU kalefranz
+0 @I36@ INDI
+1 NAME Clarence /Smith/
+2 GIVN Clarence
+2 SURN Smith
+1 SEX M
+1 FAMC @F342384890@
+2 PEDI birth
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 15:09:22
+2 _PGVU kalefranz
+1 DEAT Y
+1 FAMS @F342384891@
+0 @I37@ INDI
+1 NAME Annie /Smith/
+2 GIVN Annie
+2 SURN Smith
+1 SEX F
+1 FAMC @F342384890@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 15:06:42
+2 _PGVU kalefranz
+1 DEAT Y
+0 @I38@ INDI
+1 NAME Nelsie /Smith/
+2 GIVN Nelsie
+2 SURN Smith
+1 SEX F
+1 FAMC @F342384890@
+2 PEDI birth
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 15:06:59
+2 _PGVU kalefranz
+1 DEAT Y
+0 @I39@ INDI
+1 NAME Barbara /Smith/
+2 GIVN Barbara
+2 SURN Smith
+2 _MARNM Barbara /Angst/
+1 SEX F
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 15:11:03
+2 _PGVU kalefranz
+1 FAMC @F342384891@
+1 RESI
+2 PHON 417-532-7508
+0 @F342384891@ FAM
+1 HUSB @I36@
+1 CHIL @I39@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 15:09:22
+2 _PGVU kalefranz
+0 @M10@ OBJE
+1 FILE media/John Adam Franz info.pdf
+2 FORM pdf
+3 TYPE document
+2 TITL Information on John Adam Franz family
+1 NOTE Millard McVay
+2 CONT P.O. Box 91
+2 CONT Peyton, CO 80831
+2 CONT 719-749-2321
+2 CONT lemcvay@dishmail.net
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 15:57:12
+2 _PGVU kalefranz
+0 @S3@ SOUR
+1 TITL John Adam Franz 80720 doc
+1 AUTH Millard McVay
+1 PUBL http://www.franz-family.org/documents/John%20Adam%20Franz%20info.pdf
+2 CONT 719-749-2321
+2 CONT lemcvay@dishmail.net
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 19:28:25
+2 _PGVU kalefranz
+0 @I49@ INDI
+1 NAME Clarissa Catherine /Smith/
+2 GIVN Clarissa Catherine
+2 SURN Smith
+2 _MARNM Clarissa Catherine /Franz/
+1 SEX F
+1 BIRT
+2 DATE 29 AUG 1869
+2 PLAC Moultrie County, Illinois
+2 SOUR @S3@
+1 DEAT
+2 DATE 30 MAR 1960
+2 PLAC Emporia, Kansas
+2 SOUR @S3@
+1 SOUR @S3@
+1 FAMS @F342384895@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 19:58:05
+2 _PGVU kalefranz
+1 FAMC @F342384896@
+0 @F342384895@ FAM
+1 WIFE @I49@
+1 HUSB @I10@
+1 MARR
+2 DATE 17 MAR 1889
+2 PLAC Moultrie County, Illinois
+2 SOUR @S3@
+1 SOUR @S3@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 19:40:36
+2 _PGVU kalefranz
+1 CHIL @I50@
+1 CHIL @I51@
+1 CHIL @I52@
+1 CHIL @I53@
+1 CHIL @I54@
+0 @I50@ INDI
+1 NAME Ida May /Franz/
+2 GIVN Ida May
+2 SURN Franz
+1 SEX F
+1 BIRT
+2 DATE 1891
+2 PLAC Kansas
+1 FAMC @F342384895@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 19:48:03
+2 _PGVU kalefranz
+1 DEAT Y
+0 @I51@ INDI
+1 NAME John E. /Franz/
+2 GIVN John E.
+2 SURN Franz
+1 SEX M
+1 BIRT
+2 DATE 1892
+2 PLAC Kansas
+1 FAMC @F342384895@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 19:48:23
+2 _PGVU kalefranz
+1 DEAT Y
+0 @I52@ INDI
+1 NAME George A. /Franz/
+2 GIVN George A.
+2 SURN Franz
+1 SEX M
+1 BIRT
+2 DATE 1895
+2 PLAC Kansas
+1 FAMC @F342384895@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 19:49:16
+2 _PGVU kalefranz
+1 DEAT Y
+1 DEAT Y
+0 @I53@ INDI
+1 NAME Ella Amy /Franz/
+2 GIVN Ella Amy
+2 SURN Franz
+1 SEX F
+1 BIRT
+2 DATE 21 OCT 1898
+2 PLAC Rozel, Kansas, USA
+2 SOUR @S3@
+1 DEAT
+2 DATE 17 NOV 1979
+2 SOUR @S3@
+1 FAMC @F342384895@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 19:41:30
+2 _PGVU kalefranz
+0 @I54@ INDI
+1 NAME Nora /Franz/
+2 GIVN Nora
+2 SURN Franz
+1 SEX F
+1 BIRT
+2 DATE 1905
+2 PLAC Kansas
+1 FAMC @F342384895@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 19:50:08
+2 _PGVU kalefranz
+1 DEAT Y
+0 @I55@ INDI
+1 NAME Amanda /Franz/
+2 GIVN Amanda
+2 SURN Franz
+1 SEX F
+1 DEAT Y
+1 FAMC @F342384883@
+2 PEDI birth
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 19:51:33
+2 _PGVU kalefranz
+0 @I56@ INDI
+1 NAME Emma /Franz/
+2 NPFX Emma
+2 SURN Franz
+1 SEX F
+1 DEAT Y
+1 FAMC @F342384883@
+1 CHAN
+2 DATE 22 JUL 2008
+3 TIME 02:39:34
+2 _PGVU kalefranz
+1 NOTE family information here: http://jgarrison.allhyper.com/fam03275.htm
+0 @I57@ INDI
+1 NAME Emilia /Franz/
+2 GIVN Emilia
+2 SURN Franz
+1 SEX F
+1 DEAT Y
+1 FAMC @F342384883@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 19:53:26
+2 _PGVU kalefranz
+0 @I58@ INDI
+1 NAME Augusta /Franz/
+2 GIVN Augusta
+2 SURN Franz
+1 SEX F
+1 DEAT Y
+1 FAMC @F342384883@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 19:54:14
+2 _PGVU kalefranz
+0 @I59@ INDI
+1 NAME Albert /Franz/
+2 GIVN Albert
+2 SURN Franz
+1 SEX M
+1 DEAT Y
+1 FAMC @F342384883@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 19:54:46
+2 _PGVU kalefranz
+0 @I60@ INDI
+1 NAME James Edward /Smith/
+2 GIVN James Edward
+2 SURN Smith
+1 SEX M
+1 BIRT
+2 DATE 1843
+1 DEAT
+2 DATE 1924
+1 FAMS @F342384896@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 19:58:05
+2 _PGVU kalefranz
+0 @F342384896@ FAM
+1 HUSB @I60@
+1 CHIL @I49@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 19:58:54
+2 _PGVU kalefranz
+1 WIFE @I61@
+0 @I61@ INDI
+1 NAME Celesta Samira /Barber/
+2 GIVN Celesta Samira
+2 SURN Barber
+2 _MARNM Celesta Samira /Smith/
+1 SEX F
+1 BIRT
+2 DATE 1848
+1 DEAT
+2 DATE 1927
+1 FAMS @F342384896@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 19:58:54
+2 _PGVU kalefranz
+0 @S4@ SOUR
+1 TITL Leslie McVay 80720 correspondance
+1 PUBL http://www.franz-family.org/documents/Leslie%20McVay%2080720.pdf
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 20:02:44
+2 _PGVU kalefranz
+0 @F342384897@ FAM
+1 CHIL @I30@
+1 CHIL @I62@
+1 CHIL @I65@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 20:58:23
+2 _PGVU kalefranz
+0 @I62@ INDI
+1 NAME Walker /Sivey/
+2 GIVN Walker
+2 SURN Sivey
+1 SEX M
+1 FAMC @F342384897@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 20:54:59
+2 _PGVU kalefranz
+1 DEAT Y
+1 FAMS @F342384898@
+0 @I63@ INDI
+1 NAME Lisa //
+2 GIVN Lisa
+1 SEX F
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 20:54:57
+2 _PGVU kalefranz
+1 FAMS @F342384898@
+0 @F342384898@ FAM
+1 HUSB @I62@
+1 WIFE @I63@
+1 CHIL @I64@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 20:54:59
+2 _PGVU kalefranz
+0 @I64@ INDI
+1 NAME Shirley /Sivey/
+2 GIVN Shirley
+2 SURN Sivey
+2 _MARNM Shirley /Wilson/
+1 SEX F
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 20:56:08
+2 _PGVU kalefranz
+1 FAMC @F342384898@
+1 RESI
+2 PHON 785-899-6562
+0 @I65@ INDI
+1 NAME Henry /Sivey/
+2 GIVN Henry
+2 SURN Sivey
+1 SEX M
+1 DEAT Y
+1 FAMC @F342384897@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 20:59:29
+2 _PGVU kalefranz
+1 FAMS @F342384899@
+0 @I66@ INDI
+1 NAME Maude /Kettle/
+2 GIVN Maude
+2 SURN Kettle
+2 _MARNM Maude /Sivey/
+1 SEX F
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 21:00:11
+2 _PGVU kalefranz
+1 FAMS @F342384899@
+1 DEAT Y
+0 @F342384899@ FAM
+1 HUSB @I65@
+1 WIFE @I66@
+1 CHIL @I67@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 20:59:29
+2 _PGVU kalefranz
+0 @I67@ INDI
+1 NAME Martha /Sivey/
+2 GIVN Martha
+2 SURN Sivey
+1 SEX F
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 20:59:29
+2 _PGVU kalefranz
+1 FAMC @F342384899@
+0 @I68@ INDI
+1 NAME Carlton Jobe /Beaman/
+2 GIVN Carlton Jobe
+2 SURN Beaman
+1 SEX M
+1 BIRT
+2 DATE 14 MAY 1844
+2 PLAC Springfield, Green, MO
+1 DEAT
+2 DATE 12 AUG 1917
+2 PLAC Kansas State Soldier's Home; Fort Dodge, Ford, Kansas
+1 FAMS @F342384900@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 21:40:11
+2 _PGVU kalefranz
+1 NOTE http://worldconnect.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=GET&db=bbparker&id=I929
+2 CONT Contact: Brenda Beaman Parker (brenda@dphospitality.com)
+2 CONT Updated: Mon Feb 9 09:31:07 2004
+2 CONT
+2 CONT # ID: I929
+2 CONT # Name: Carlton Jobe BEAMAN
+2 CONT # Given Name: Carlton Jobe
+2 CONT # Surname: Beaman
+2 CONT # Sex: M
+2 CONT # Birth: 14 May 1844 in Springfield, Green, MO 1
+2 CONT # Death: 12 Aug 1917 in Kansas State Soldier's Home; Fort Dodge, Ford, Kansas 2 3
+2 CONT # Ancestral File #: M5SW-TH & 37TK-LL
+2 CONT # Event: Alt. Birth 1845 Pettis Co, MO
+2 CONT # Note: b 1845 Pettis, MO - AFN:M5SW-TH; b 14 May 1844 Springfield, Green, MO AFN:37TK-LL 4
+2 CONT # Census: 1850 Pettis Co, MO
+2 CONT # Note: p.118 #118 - "Cortton J", age5, bMO
+2 CONT # Census: 1860 Pettis Co, MO
+2 CONT # Note: p.765 - Bowling Green Twp, Georgetown P.O. - Carleton Job - age 15, b MO, in school
+2 CONT # Event: Military Service 1864
+2 CONT # Note: Pvt, Co C, 50th Mo Inf (Union), 1 Sept 1864 - 3 July 1865 5
+2 CONT # Census: 1880 Bates Co, MO
+2 CONT # Note: Shawnee Township, ed154 sh13, #105/111 - Beaman, Carlton - age 34, farmer, bMO, father bSC, mother bKY; listed with wife Mary, children Luvena, David, Christopher, Sarah, and Henry G.
+2 CONT # Census: 1890 Polk Co, MO
+2 CONT # Note: sd4, ed161, p11 - Marion Twp - Carlton J Beaman - Pvt, co c, 50th MO Inf; 1 Sept 1864 - 3 July 1865; Warrren Twp P.O.; disability incurred - throat and lung trouble results of measles and mumps
+2 CONT # Event: Alt. Birth 14 May 1844 Pettis Co, MO 3
+2 CONT # Change Date: 1 Jul 2000 at 20:36
+2 CONT
+2 CONT Father: William BEAMAN b: 13 Aug 1802 in Rowan Co, NC
+2 CONT Mother: Jane Elizabeth STANDIFORD b: 20 Dec 1810 in KY
+2 CONT
+2 CONT Marriage 1 Mary Brown NEWHILL b: 28 Dec 1848 in Larue, KY
+2 CONT
+2 CONT     * Note: by Thomas Beaman JP
+2 CONT     * Married: 18 Jan 1866 in Pettis Co, MO 6 3
+2 CONT     * Change Date: 1 Jul 2000
+2 CONT
+2 CONT Children
+2 CONT
+2 CONT    1. Has No Children Luvena BEAMAN b: 22 Jan 1867 in MO
+2 CONT    2. Has Children David Carlton BEAMAN b: 12 Dec 1872 in Butler, MO
+2 CONT    3. Has No Children Christopher Dee BEAMAN b: 7 Mar 1874 in Butler, MO
+2 CONT    4. Has Children Sarah Jane BEAMAN b: 18 Sep 1877 in Butler, Bates Co, MO
+2 CONT    5. Has Children Henry Grant BEAMAN b: 23 Feb 1880 in MO
+2 CONT    6. Has No Children Charles William Milton BEAMAN b: 18 Dec 1869 in Butler, Mango Twp, Bates Co, MO
+2 CONT    7. Has Children Maggie Suraing BEAMAN b: 31 May 1883
+2 CONT    8. Has Children Thomas Edward BEAMAN b: 12 Jan 1884 in Bolivar, Polk Co, MO
+2 CONT    9. Has No Children James Noah BEAMAN b: 1 Feb 1890
+2 CONT
+2 CONT
+2 CONT Sources:
+2 CONT
+2 CONT    1. Abbrev: LDS Ancestral File - Charles Beeman
+2 CONT       Title: Charles Beeman Ancestral File
+2 CONT       Publication: LDS Ancestral File; www.familysearch.com
+2 CONT       Text: b 1845 Pettis, MO - AFN:M5SW-TH; b 14 May 1844 Springfield, Green, MO AFN:37TK-LL
+2 CONT    2. Abbrev: LDS Ancestral File - Charles Beeman
+2 CONT       Title: Charles Beeman Ancestral File
+2 CONT       Publication: LDS Ancestral File; www.familysearch.com
+2 CONT       Text: AFN:37TK-LL d12Aug1917 Fort Dodge, Ford, Kansas
+2 CONT    3. Abbrev: JV Beaman famgroupsheets
+2 CONT       Title: Family Group Sheets
+2 CONT       Author: Beaman, James V.
+2 CONT       Publication: Computer generated family charts mailed to me in 1999-2000 based on the authors 40 years of Beaman genealogy research.
+2 CONT    4. Abbrev: LDS Ancestral File - Charles Beeman
+2 CONT       Title: Charles Beeman Ancestral File
+2 CONT       Publication: LDS Ancestral File; www.familysearch.com
+2 CONT    5. Abbrev: 1890 Veterans Census
+2 CONT       Title: Eleventh Census of the United States, special Schedule - Surviving Soldiers, Sailors, and Marines, and Widows, Etc.
+2 CONT       Author: United States Census Bureau
+2 CONT       Publication: 1890 (Clayton Library Microfilm)
+2 CONT       Page: Polk Co, MO, sd4, ed161, p11
+2 CONT       Quality: 3
+2 CONT    6. Abbrev: Pettis Co MO marr 1865-76
+2 CONT       Title: Pettis County, MO, Marrieage Records 1865 - 1876
+2 CONT       Author: Williams, Jacqueline Hogan & Betty Harvey Williams
+2 CONT       Publication: Warrensburg, MO, 1973 (Clayton Library 977.8 W724 MO)
+2 CONT       Page: p.4
+2 CONT       Text: Carlton J. Beaman to Mary B. Newbill 18 Jan 1866 Thomas Beaman JP
+0 @F342384900@ FAM
+1 HUSB @I68@
+1 CHIL @I9@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 21:43:46
+2 _PGVU kalefranz
+1 WIFE @I69@
+1 MARR
+2 DATE 18 JAN 1866
+2 PLAC Pettis Co, MO
+0 @I69@ INDI
+1 NAME Mary Brown /Newhill/
+2 GIVN Mary Brown
+2 SURN Newhill
+2 _MARNM Mary Brown /Beaman/
+1 SEX F
+1 BIRT
+2 DATE 28 DEC 1848
+2 PLAC Larue, KY
+1 DEAT Y
+1 FAMS @F342384900@
+1 CHAN
+2 DATE 20 JUL 2008
+3 TIME 21:44:48
+2 _PGVU kalefranz
+1 NOTE http://worldconnect.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=GET&db=bbparker&id=I931
+2 CONT Contact: Brenda Beaman Parker (brenda@dphospitality.com)
+2 CONT Updated: Mon Feb 9 09:31:07 2004
+2 CONT
+2 CONT # ID: I931
+2 CONT # Name: Mary Brown NEWHILL
+2 CONT # Given Name: Mary Brown
+2 CONT # Surname: Newhill 1
+2 CONT # Sex: F
+2 CONT # Birth: 28 Dec 1848 in Larue, KY 1
+2 CONT # Death: Y
+2 CONT # Census: 1880 Bates Co, MO
+2 CONT # Note: Shawnee Township, ed154, sh13, #105/111 - Mary B - age 31, wife, bKY, father bVA, mother bKY
+2 CONT # Change Date: 1 Jul 2000 at 21:00
+2 CONT
+2 CONT Marriage 1 Carlton Jobe BEAMAN b: 14 May 1844 in Springfield, Green, MO
+2 CONT
+2 CONT     * Note: by Thomas Beaman JP
+2 CONT     * Married: 18 Jan 1866 in Pettis Co, MO 2 1
+2 CONT     * Change Date: 1 Jul 2000
+2 CONT
+2 CONT Children
+2 CONT
+2 CONT    1. Has No Children Luvena BEAMAN b: 22 Jan 1867 in MO
+2 CONT    2. Has Children David Carlton BEAMAN b: 12 Dec 1872 in Butler, MO
+2 CONT    3. Has No Children Christopher Dee BEAMAN b: 7 Mar 1874 in Butler, MO
+2 CONT    4. Has Children Sarah Jane BEAMAN b: 18 Sep 1877 in Butler, Bates Co, MO
+2 CONT    5. Has Children Henry Grant BEAMAN b: 23 Feb 1880 in MO
+2 CONT    6. Has No Children Charles William Milton BEAMAN b: 18 Dec 1869 in Butler, Mango Twp, Bates Co, MO
+2 CONT    7. Has Children Maggie Suraing BEAMAN b: 31 May 1883
+2 CONT    8. Has Children Thomas Edward BEAMAN b: 12 Jan 1884 in Bolivar, Polk Co, MO
+2 CONT    9. Has No Children James Noah BEAMAN b: 1 Feb 1890
+2 CONT
+2 CONT
+2 CONT Sources:
+2 CONT
+2 CONT    1. Abbrev: JV Beaman famgroupsheets
+2 CONT       Title: Family Group Sheets
+2 CONT       Author: Beaman, James V.
+2 CONT       Publication: Computer generated family charts mailed to me in 1999-2000 based on the authors 40 years of Beaman genealogy research.
+2 CONT    2. Abbrev: Pettis Co MO marr 1865-76
+2 CONT       Title: Pettis County, MO, Marrieage Records 1865 - 1876
+2 CONT       Author: Williams, Jacqueline Hogan & Betty Harvey Williams
+2 CONT       Publication: Warrensburg, MO, 1973 (Clayton Library 977.8 W724 MO)
+2 CONT       Page: p.4
+2 CONT       Text: Carlton J. Beaman to Mary B. Newbill 18 Jan 1866 Thomas Beaman JP
+0 @I70@ INDI
+1 NAME Melvin Logan /Revert/
+2 GIVN Melvin Logan
+2 NICK Logan
+2 SURN Revert
+1 SEX M
+1 BIRT
+2 DATE 18 SEP 1884
+1 DEAT
+2 DATE 14 FEB 1971
+2 PLAC Beaver, Oklahoma, USA
+2 ADDR nursing home
+1 FAMS @F342384901@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:57:41
+2 _PGVU kalefranz
+1 SSN 444-30-4335
+1 BURI
+2 PLAC Forgan, Beaver Co, Oklahoma, USA
+1 NOTE May have brothers:
+2 CONT
+2 CONT Jesse Revert b05DEC1881 dNOV1965 275-14-0556 died&issued in Ohio
+2 CONT
+2 CONT George Revert b05MAR1882 dMAR1971 309-30-4276 died&issued in Indiana
+2 CONT
+2 CONT Edward Revert b20JAN1877 dJAN1968 317-10-1797 died&issued in Indiana
+1 FAMC @F342384916@
+0 @F342384901@ FAM
+1 HUSB @I70@
+1 CHIL @I75@
+1 CHIL @I28@
+1 CHIL @I73@
+1 CHIL @I74@
+1 CHIL @I76@
+1 CHIL @I77@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 02:15:53
+2 _PGVU kalefranz
+1 WIFE @I71@
+1 MARR Y
+0 @I71@ INDI
+1 NAME Nellie /Eubank/
+2 GIVN Nellie
+2 SURN Eubank
+2 _MARNM Nellie /Revert/
+1 SEX F
+1 FAMS @F342384901@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 02:17:28
+2 _PGVU kalefranz
+1 FAMS @F342384902@
+0 @I72@ INDI
+1 NAME Robert /Barnett/
+2 GIVN Robert
+2 NICK Bob
+2 SURN Barnett
+1 SEX M
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 00:50:20
+2 _PGVU kalefranz
+1 FAMC @F342384902@
+0 @F342384902@ FAM
+1 WIFE @I71@
+1 CHIL @I72@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 00:49:36
+2 _PGVU kalefranz
+0 @I73@ INDI
+1 NAME Floyd Orphas /Revert/
+2 GIVN Floyd Orphas
+2 SURN Revert
+1 SEX M
+1 BIRT
+2 DATE 16 OCT 1909
+1 DEAT
+2 DATE 26 NOV 1992
+1 FAMC @F342384901@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 02:06:57
+2 _PGVU kalefranz
+1 SSN 444-01-2977
+1 FAMS @F342384903@
+0 @I74@ INDI
+1 NAME William George /Revert/
+2 GIVN William George
+2 NICK Bill
+2 SURN Revert
+1 SEX M
+1 BIRT
+2 DATE 22 FEB 1911
+1 DEAT
+2 DATE 13 MAR 1994
+1 FAMC @F342384901@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 01:27:25
+2 _PGVU kalefranz
+1 SSN 444-03-7375
+1 NOTE Middle name is George because born on George Washington's birthday.
+1 FAMS @F342384904@
+0 @I75@ INDI
+1 NAME Melvin Grover /Revert/
+2 GIVN Melvin Grover
+2 SURN Revert
+1 SEX M
+1 BIRT Y
+1 DEAT Y
+1 FAMC @F342384901@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 02:12:43
+2 _PGVU kalefranz
+1 FAMS @F342384905@
+0 @I76@ INDI
+1 NAME Irene /Revert/
+2 GIVN Irene
+2 SURN Revert
+2 _MARNM Irene /Buchannan/
+1 SEX F
+1 DEAT
+2 PLAC Dallas, Texas, USA
+1 FAMC @F342384901@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 01:07:51
+2 _PGVU kalefranz
+0 @I77@ INDI
+1 NAME Agnes /Revert/
+2 GIVN Agnes
+2 SURN Revert
+1 SEX F
+1 DEAT Y
+1 FAMC @F342384901@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 01:08:22
+2 _PGVU kalefranz
+0 @I78@ INDI
+1 NAME Faye //
+2 GIVN Faye
+2 _MARNM Faye /Revert/
+1 SEX F
+1 BIRT
+2 DATE 28 JAN 1915
+1 DEAT
+2 DATE SEP 1986
+1 FAMS @F342384903@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 01:17:42
+2 _PGVU kalefranz
+1 SSN 445-32-1411
+0 @F342384903@ FAM
+1 WIFE @I78@
+1 HUSB @I73@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 01:24:45
+2 _PGVU kalefranz
+1 CHIL @I79@
+1 CHIL @I80@
+0 @I79@ INDI
+1 NAME Melvin Richard /Revert/
+2 GIVN Melvin Richard
+2 SURN Revert
+1 SEX M
+1 BIRT
+2 DATE 09 OCT 1931
+1 DEAT
+2 DATE 21 SEP 2007
+1 FAMC @F342384903@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 01:23:24
+2 _PGVU kalefranz
+1 OCCU Electrician
+2 ADDR first an electrician in the Navy, then for a shopping center
+1 SSN 21 Sep 2007
+0 @I80@ INDI
+1 NAME Ronald /Revert/
+2 GIVN Ronald
+2 NICK Ronny
+2 SURN Revert
+1 SEX M
+1 BIRT
+2 DATE 26 APR 1938
+1 DEAT
+2 DATE 21 MAR 1992
+1 FAMC @F342384903@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 01:25:37
+2 _PGVU kalefranz
+1 SSN 21 Mar 1992
+0 @I81@ INDI
+1 NAME Flora Lucille /Griffen/
+2 GIVN Flora Lucille
+2 SURN Griffen
+2 _MARNM Flora Lucille /Revert/
+1 SEX F
+1 BIRT
+2 DATE 10 JUN 1910
+1 DEAT
+2 DATE 23 FEB 2003
+1 FAMS @F342384904@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 02:50:32
+2 _PGVU kalefranz
+1 SSN 445-09-7876
+1 NOTE http://ftp.rootsweb.ancestry.com/pub/usgenweb/tx/potter/obits/2003/022603.txt
+2 CONT
+2 CONT Amarillo Globe-News, Feb. 26, 2003
+2 CONT
+2 CONT Flora L. Revert
+2 CONT
+2 CONT PERRYTON - Flora L. Revert, 92, died Sunday, Feb. 23, 2003, in Wichita
+2 CONT Falls.
+2 CONT
+2 CONT Services  will  be at 1 p.m. Thursday in First Baptist Church with the
+2 CONT Rev. O.K. Bowen and Dr. Jeff Knighton officiating. Burial will be at 3
+2 CONT p.m.  in Forgan Cemetery in Forgan, Okla., by Boxwell Brothers Funeral
+2 CONT Home.
+2 CONT
+2 CONT Mrs.  Revert  operated  a  beauty  shop from 1954 to 1961. She married
+2 CONT William  G.  "Bill"  Revert  on  April  16, 1941, in Dallas. She was a
+2 CONT member of First Baptist Church of Perryton.
+2 CONT
+2 CONT She  was  preceded  in death by her parents, Frank and Jennie Griffin;
+2 CONT and her husband in 1994.
+2 CONT
+2 CONT Survivors  include  a  daughter,  Sherill McLearen of Wichita Falls; a
+2 CONT granddaughter,    Velaura    Hewitt    of   Wichita   Falls;   and   a
+2 CONT great-granddaughter, Kaitlynn Hewitt of Wichita Falls.
+2 CONT
+2 CONT The family suggests memorials be to a favorite charity.
+0 @F342384904@ FAM
+1 WIFE @I81@
+1 HUSB @I74@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 01:28:52
+2 _PGVU kalefranz
+1 CHIL @I82@
+0 @I82@ INDI
+1 NAME Sherill Irene /Revert/
+2 GIVN Sherill Irene
+2 SURN Revert
+1 SEX F
+1 FAMC @F342384904@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 02:53:01
+2 _PGVU kalefranz
+1 BIRT
+2 DATE 27 OCT 1948
+2 PLAC Ochiltree Co, Texas, USA
+0 @I83@ INDI
+1 NAME Darrell /Revert/
+2 GIVN Darrell
+2 SURN Revert
+1 SEX M
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 01:33:41
+2 _PGVU kalefranz
+1 FAMC @F342384905@
+0 @F342384905@ FAM
+1 HUSB @I75@
+1 CHIL @I83@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 01:34:13
+2 _PGVU kalefranz
+1 CHIL @I84@
+0 @I84@ INDI
+1 NAME Melvin Denny /Revert/
+2 GIVN Melvin Denny
+2 SURN Revert
+1 SEX M
+1 FAMC @F342384905@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 01:34:57
+2 _PGVU kalefranz
+1 OCCU Chief Warrant Officer
+2 ADDR also flew helocopters
+0 @F342384906@ FAM
+1 CHIL @I10@
+1 WIFE @I85@
+1 CHIL @I86@
+1 CHIL @I87@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 04:32:02
+2 _PGVU kalefranz
+1 HUSB @I88@
+1 MARR Y
+0 @I85@ INDI
+1 NAME Maria /Hoffman/
+2 GIVN Maria
+2 SURN Hoffman
+1 SEX F
+1 FAMS @F342384906@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 04:32:24
+2 _PGVU kalefranz
+1 DEAT Y
+0 @I86@ INDI
+1 NAME Edward /Franz/
+2 GIVN Edward
+2 SURN Franz
+1 SEX M
+1 FAMC @F342384906@
+1 CHAN
+2 DATE 24 JUL 2008
+3 TIME 06:43:24
+2 _PGVU kalefranz
+1 DEAT Y
+0 @I87@ INDI
+1 NAME Emily /Franz/
+2 GIVN Emily
+2 SURN Franz
+1 SEX F
+1 FAMC @F342384906@
+1 CHAN
+2 DATE 24 JUL 2008
+3 TIME 06:43:46
+2 _PGVU kalefranz
+1 DEAT Y
+0 @I88@ INDI
+1 NAME Eberhart /Franz/
+2 GIVN Eberhart
+2 SURN Franz
+1 SEX M
+1 DEAT Y
+1 FAMS @F342384906@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 04:32:02
+2 _PGVU kalefranz
+0 @M11@ OBJE
+1 FILE media/Jesse Revert - Civil War Pension Index.jpg
+2 FORM jpeg
+3 TYPE document
+2 TITL Civil War Pension Index
+1 _PRIM N
+1 NOTE filed in Missouri
+2 CONT
+2 CONT Source Information:
+2 CONT
+2 CONT National Archives and Records Administration. Civil War Pension Index: General Index to Pension Files, 1861-1934 [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2000. Original data: General Index to Pension Files, 1861-1934. Wash
+2 CONC ington, D.C.: National Archives and Records Administration. T288, 544 rolls.
+2 CONT
+2 CONT Description:
+2 CONT This database is an index to and images of pension cards of Civil War veterans in the United States. Each record includes the veteran's name and state in which he, or his dependents, filed the application. The digitized image of the index card its
+2 CONC elf, contains additional information on the individual, such as unit of service, date of filing, and application and certificate numbers for the pension case file housed at the National Archives and Records Administration in Washington D.C.
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 21:55:48
+2 _PGVU kalefranz
+0 @M12@ OBJE
+1 FILE media/Jesse Revert family - 1885 Kansas Census.jpg
+2 FORM jpg
+3 TYPE document
+2 TITL 1885 Kansas Census
+1 _PRIM N
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 22:29:29
+2 _PGVU kalefranz
+0 @I90@ INDI
+1 NAME Ernest Roy /Van Brocklin/
+2 GIVN Ernest Roy
+2 SPFX Van
+2 SURN Brocklin
+1 SEX M
+1 BIRT
+2 DATE 24 AUG 1884
+1 FAMS @F342384908@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:24:13
+2 _PGVU mjdevlin
+1 FAMC @F342384909@
+0 @F342384908@ FAM
+1 HUSB @I90@
+1 CHIL @I29@
+1 CHIL @I91@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:15:23
+2 _PGVU mjdevlin
+1 WIFE @I92@
+1 MARR
+2 DATE 15 JUN 1904
+0 @I91@ INDI
+1 NAME  //
+2 GIVN
+2 SPFX Van
+2 SURN
+1 SEX U
+1 FAMC @F342384908@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:29:26
+2 _PGVU mjdevlin
+0 @I92@ INDI
+1 NAME Mabel F. /Oakley/
+2 GIVN Mabel F.
+2 SURN Oakley
+2 _MARNM Mabel F. /VanBrocklin/
+1 SEX F
+1 BIRT
+2 DATE 15 APR 1887
+2 PLAC No Man's Land - Indian Territory, Oklahoma
+1 DEAT
+2 DATE 17 MAR 1966
+2 PLAC Woodward, Oklahoma
+1 FAMS @F342384908@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:18:56
+2 _PGVU mjdevlin
+0 @I93@ INDI
+1 NAME Nelson M. /Van Brocklin/
+2 GIVN Nelson M.
+2 SPFX Van
+2 SURN Brocklin
+1 SEX M
+1 FAMS @F342384909@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:32:05
+2 _PGVU mjdevlin
+1 FAMC @F342384910@
+0 @F342384909@ FAM
+1 HUSB @I93@
+1 CHIL @I90@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:26:16
+2 _PGVU mjdevlin
+1 WIFE @I94@
+0 @I94@ INDI
+1 NAME Eliza Jane /Dillon/
+2 GIVN Eliza Jane
+2 SURN Dillon
+1 SEX F
+1 FAMS @F342384909@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:26:16
+2 _PGVU mjdevlin
+0 @I95@ INDI
+1 NAME Giles /Van Brocklin/
+2 GIVN Giles
+2 SPFX Van
+2 SURN Brocklin
+1 SEX M
+1 BIRT
+2 DATE 18 MAR 1824
+2 PLAC Denmark, Lewisconsins Co., New York
+1 DEAT
+2 DATE 27 MAR 1883
+2 PLAC Cherry Grove Township, Carrol Co. Illinois
+1 FAMS @F342384910@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:34:11
+2 _PGVU mjdevlin
+1 FAMC @F342384911@
+0 @F342384910@ FAM
+1 HUSB @I95@
+1 CHIL @I93@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:47:09
+2 _PGVU mjdevlin
+1 WIFE @I101@
+1 MARR
+2 DATE 14 MAR 1852
+2 PLAC Stephenson Co., Illinois
+0 @I96@ INDI
+1 NAME Gysbert /Van Brakelen/
+2 GIVN Gysbert
+2 NICK Gilbert
+2 SPFX Van
+2 SURN Brakelen
+1 SEX M
+1 BIRT
+2 DATE 12 APR 1777
+1 DEAT
+2 DATE 01 NOV 1859
+1 FAMS @F342384911@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:39:23
+2 _PGVU mjdevlin
+1 FAMC @F342384912@
+0 @F342384911@ FAM
+1 HUSB @I96@
+1 CHIL @I95@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:36:15
+2 _PGVU mjdevlin
+1 WIFE @I97@
+1 MARR
+2 DATE 25 OCT 1804
+0 @I97@ INDI
+1 NAME Nancy /Hannah/
+2 GIVN Nancy
+2 SURN Hannah
+2 _MARNM Nancy /van Brakelen/
+1 SEX F
+1 BIRT
+2 DATE 1784
+1 DEAT
+2 DATE 20 JUN 1828
+1 FAMS @F342384911@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:54:42
+2 _PGVU mjdevlin
+1 FAMC @F342384915@
+0 @I98@ INDI
+1 NAME Gerrit Sanders /Van Brakel/
+2 GIVN Gerrit Sanders
+2 SPFX Van
+2 SURN Brakel
+1 SEX M
+1 BIRT
+2 DATE 1735
+1 FAMS @F342384912@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:41:37
+2 _PGVU mjdevlin
+1 FAMC @F342384913@
+0 @F342384912@ FAM
+1 HUSB @I98@
+1 CHIL @I96@
+1 CHAN
+2 DATE 22 JUL 2008
+3 TIME 00:02:08
+2 _PGVU mjdevlin
+1 WIFE @I105@
+1 MARR
+2 DATE 25 MAR 1737
+0 @I99@ INDI
+1 NAME Sander /van Brakel/
+2 GIVN Sander
+2 NICK Alexander
+2 SPFX van
+2 SURN Brakel
+1 SEX M
+1 NOTE Christening: 13 Jun 1715 Schenectedy, New York
+1 FAMS @F342384913@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:43:12
+2 _PGVU mjdevlin
+1 FAMC @F342384914@
+0 @F342384913@ FAM
+1 HUSB @I99@
+1 CHIL @I98@
+1 NOTE Christening: 13 Jun 1715 Schenectedy, New York
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:41:36
+2 _PGVU mjdevlin
+0 @I100@ INDI
+1 NAME Gerrit Gysbertse /van Brakel/
+2 GIVN Gerrit Gysbertse
+2 SPFX van
+2 SURN Brakel
+1 SEX M
+1 NOTE Christening: 15 Jul 1686 Albany, New York
+1 FAMS @F342384914@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:43:12
+2 _PGVU mjdevlin
+0 @F342384914@ FAM
+1 HUSB @I100@
+1 CHIL @I99@
+1 NOTE Christening: 15 Jul 1686 Albany, New York
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:43:12
+2 _PGVU mjdevlin
+0 @I101@ INDI
+1 NAME Matilda /Garrison/
+2 GIVN Matilda
+2 SURN Garrison
+2 _MARNM Matilda /van Brocklin/
+1 SEX F
+1 FAMS @F342384910@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:47:09
+2 _PGVU mjdevlin
+0 @I102@ INDI
+1 NAME Gysbert Sanders /van Brakel/
+2 GIVN Gysbert Sanders
+2 SPFX van
+2 SURN Brakel
+1 SEX M
+1 FAMS @F342384915@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:54:42
+2 _PGVU mjdevlin
+0 @F342384915@ FAM
+1 HUSB @I102@
+1 CHIL @I97@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:57:51
+2 _PGVU mjdevlin
+1 WIFE @I104@
+1 MARR
+2 DATE 09 OCT 1773
+2 PLAC Reformed Dutch Church of Fonda
+0 @I103@ INDI
+1 NAME Jesse /Revert/ Jr
+2 GIVN Jesse
+2 SURN Revert
+2 NSFX  Jr
+1 SEX M
+1 FAMS @F342384916@
+1 CHAN
+2 DATE 23 JUL 2008
+3 TIME 00:08:49
+2 _PGVU kalefranz
+1 BIRT
+2 DATE 24 JUL 1841
+2 PLAC Stark Co, Ohio, USA
+1 DEAT
+2 DATE 23 OCT 1927
+2 PLAC Geary, Blaine Co, Oklahoma, USA
+1 BURI
+2 CEME Geary Cemetery
+2 PLAC Geary, Blaine Co, Oklahoma, USA
+1 OBJE @M13@
+1 OBJE @M14@
+1 _MILI Civil War
+2 DATE FROM 12 AUG 1862 TO 9 Jun 1865
+2 PLAC Fort Wayne, Indiana, USA
+2 AGNC 74th Regiment, Indiana Infantry
+2 NOTE Name: Jesse Revert
+3 CONT RESIDENCE: Columbia City, Indiana
+3 CONT Enlistment Date: 12 Aug 1862
+3 CONT Side Served: Union
+3 CONT State Served: Indiana
+3 CONT Service Record: Promoted to Full Sergeant.
+3 CONT Enlisted as a Private on 12 August 1862.
+3 CONT Enlisted in Company B, 74th Infantry Regiment Indiana on 12 Aug 1862.
+3 CONT Mustered Out Company B, 74th Infantry Regiment Indiana on 9 Jun 1865 at Washington, DC.
+3 CONT
+3 CONT Source Citation: Side served: Union; State served: Indiana; Enlistment date: 12 Aug 1862..
+3 CONT
+3 CONT Source Information:
+3 CONT Historical Data Systems, comp.. American Civil War Soldiers [database on-line]. Provo, UT, USA: The Generations Network, Inc., 1999. Original data: Data compiled by Historical Data Systems of Kingston, MA form the following list of works.
+3 CONT Copyright 1997-2000
+3 CONT Historical Data Systems, Inc.
+3 CONT PO Box 35
+3 CONT Duxbury.
+3 CONT
+3 CONT Description:
+3 CONT This database is a compilation of military records (including state rosters, pension records, and regimental histories) of individual soldiers who served in the United States Civil War.
+3 CONT
+3 CONT
+3 CONT Regiment Name: 74th Indiana Infantry
+3 CONT Side: Union
+3 CONT Company: B
+3 CONT Rank in: Private
+3 CONT Rank out: Corporal
+3 CONT source: http://www.itd.nps.gov/cwss/soldiers.cfm
+3 CONT Film number: M540 roll 63
+3 CONT
+3 CONT
+3 CONT 74th Regiment, Indiana Infantry
+3 CONT
+3 CONT Organized at Fort Wayne, Ind., and mustered in August 21, 1862. Moved to Louisville, Ky., August 22, thence to Bowling Green, Ky., and duty there till September 5. Attached to 2nd Brigade, 1st Division, Army of the Ohio, September, 1862. 2nd Brigad
+3 CONC e, 1st Division, 2rd Corps, Army of the Ohio, to November, 1862. 2nd Brigade, 3rd Division, Center 14th Army Corps, Army of the Cumberland, to January, 1863. 2nd Brigade, 3rd Division, 14th Army Corps, to October, 1863. 3rd Brigade, 3rd Division, 1
+3 CONC 4th Army Corps, to June, 1865.
+3 CONT
+3 CONT SERVICE.-Moved to Louisville, Ky., September 5, 1862. (Companies "C" and "K" at siege of Munfordsville, Ky., September 14-17. Captured September 17. Exchanged November 17, and rejoined Regiment at Castillian, Tenn., December 4, 1862.) Pursuit of Br
+3 CONC agg into Kentucky October 1-15. Battle of Perryville, Ky., October 8. March to Gallatin, Tenn., and duty there and at Castillian till January, 1863. Operations against Morgan December 22, 1862, to January 2, 1863. Boston December 29, 1862. Moved to
+3 CONC  Nashville, Tenn., January 13, 1863, thence to Murfreesboro, and duty there till June. Expedition toward Columbia March 4-14. Middle Tennessee or Tullahoma Campaign June 23-July 7. Hoover's Gap June 24-26. Tullahoma June 29-30. Occupation of Middle
+3 CONC  Tennessee till August 16. Passage of the Cumberland Mountains and Tennessee River and Chickamauga (Ga.) Campaign August 16-September 22. Battle of Chickamauga September 19-21. Siege of Chattanooga, Tenn., September 24-November 23. Before Chattanoo
+3 CONC ga September 22-26. Chattanooga-Ringgold Campaign November 23-27. Orchard Knob November 23-24. Mission Ridge November 25. Pursuit to Ringgold November 26-27. Demonstration on Dalton, Ga., February 22-27, 1864. Tunnel Hill, Buzzard's Roost Gap, and
+3 CONC  Rocky Raced Ridge, February 23-25. Atlanta (Ga.) Campaign May 1-September 8. Demonstrations on Rocky Faced Ridge May 8-11. Battle of Resaca May 14-15. Advance on Dallas May 18-25. Operations on Pumpkin Vine Creek and battles about Dallas, New Hope
+3 CONC  Church and Allatoona Hills May 25-June 5. Operations about Marietta and against Kenesaw Mountain June 10-July 2. Pine Hill June 11-14. Lost Mountain June 15-17. Assault on Kenesaw June 27. Ruff's Station July 4. Chattahoochie River July 5-17. Peac
+3 CONC h Tree Creek July 19-20. Siege of Atlanta July 22-August 25. Utoy Creek August 5-7. Flank movement on Jonesboro August 25-30. Battle of Jonesboro August 31-September 1. Lovejoy Station September 2-6. Operations against Hood in North Georgia and Nor
+3 CONC th Alabama September 29-November 3. Kingston, Ga., November 8 and 10. March to the sea November 15-December 10. Siege of Savannah December 10-21. Campaign of the Carolinas January to April, 1865. Fayetteville, N. C., March 11. Averysboro March 16.
+3 CONC  Battle of Bentonville March 19-21. Occupation of Goldsboro March 24. Advance on Raleigh April 10-14. Occupation of Raleigh April 14. Bennett's House April 26. Surrender of Johnston and his army. March to Washington, D. C., via Richmond, Va., April
+3 CONC  29-May 19. Grand Review May 24. Mustered out at Washington, D. C., June 9, 1865.
+3 CONT
+3 CONT Regiment lost during service 5 Officers and 86 Enlisted men killed and mortally wounded and 2 Officers and 181 Enlisted men by disease. Total 274.
+1 RESI
+2 DATE BEF 1862
+2 PLAC Columbia City, Whitley Co, Indiana, USA
+1 OBJE @M15@
+1 RESI
+2 DATE 03 JAN 1920
+2 PLAC Geary Twp, Geary City, Canadian Co, Oklahoma, USA
+2 OBJE @M15@
+1 FAMC @F342384917@
+1 NOTE Rootsweb Worldconnect
+2 CONT Sloan/Goad/Biggs/Dunn
+2 CONT Entries: 978    Updated: Sat Jul 13 00:51:02 2002    Contact: David R. Vargas (luckybruin@attbi.com)
+2 CONT
+2 CONT ID: I19407
+2 CONT Name: Jesse Revert 1
+2 CONT Sex: M
+2 CONT Birth: 24 JUL 1841 in Canton, Stark Co., OH
+2 CONT Death: 23 OCT 1927 in Nash, Grant Co., OK
+2 CONT Note:
+2 CONT Residence: Columbia City, Indiana
+2 CONT Service Record:
+2 CONT Promoted to Full Sergeant
+2 CONT Enlisted as a Private on 12 August 1862
+2 CONT Enlisted in Company B, 74th Infantry Regiment Indiana on 12 August 1862
+2 CONT Mustered out on 09 June 1865 in Washington, DC
+2 CONT
+2 CONT Sources:
+2 CONT Report of the Adjutant General of the State of Indiana. (INRoster) Published in 1865-66 by Holloway
+2 CONT
+2 CONT
+2 CONT 1920 U. S. Census:
+2 CONT Revert, Jesse Head M W 78 M OH, OH, Foreign
+2 CONT -----, Sabrina S. Wife F W 71 M MO, OH, OH
+2 CONT
+2 CONT
+2 CONT Marriage 1 Sabrina Castor b: 21 DEC 1848 in Kidder, Caldwell Co., Missouri
+2 CONT Married: 24 MAY 1868
+2 CONT Children
+2 CONT  Anna Margaret Revert b: 30 NOV 1872 in Kidder, Caldwell Co., Missouri
+2 CONT
+2 CONT Sources:
+2 CONT Title: 1920 United States Census
+2 CONT Repository:
+2 CONT Media: Census
+2 CONT Page: Canadian Co., OK, ED 106, Sheet 2A, line 11
+2 CONT
+2 CONT Sloan/Goad/Biggs/Dunn
+2 CONT Entries: 978    Updated: Sat Jul 13 00:51:02 2002    Contact: David R. Vargas
+2 CONT
+2 CONT
+2 CONT 1 Jesse Revert b: 24 JUL 1841 d: 23 OCT 1927
+2 CONT   + Sabrina Castor b: 21 DEC 1848 d: 9 JUN 1923
+2 CONT     2 Anna Margaret Revert b: 30 NOV 1872 d: 28 MAR 1961
+2 CONT       + Carey Fisher b: 14 SEP 1875 d: 4 JUL 1937
+2 CONT         3 Carrie Eunice Fisher b: 29 MAY 1898 d: 18 FEB 1982
+2 CONT           + Harold Ross McNulty b: 13 MAR 1897 d: 6 NOV 1971
+2 CONT             4 Dale Carl McNulty b: 6 DEC 1923 d: 4 JUL 1976
+2 CONT         3 Sidney Earle Fisher b: 24 NOV 1899 d: 6 MAR 1937
+2 CONT         3 Le Roy Fisher b: 10 NOV 1901 d: 15 JUN 1958
+2 CONT         3 Glenn Harold Fisher b: 2 JAN 1904 d: 11 AUG 1987
+2 CONT           + Eleonor Elizabeth Johnson b: 20 MAR 1903 d: 7 AUG 1992
+2 CONT         3 Carey Wendell Fisher b: 25 FEB 1906 d: 4 MAR 2001
+2 CONT         3 Leslie Olin Fisher b: 10 NOV 1907 d: 6 JUN 1975
+2 CONT         3 Eldon Deforest Fisher b: 23 APR 1910 d: 11 SEP 1989
+2 CONT         3 Vernon Otto Fisher b: 11 FEB 1912 d: 25 DEC 1996
+2 CONT             4 Brian Ray Fisher b: 16 APR 1956 d: 22 JUN 1972
+2 CONT         3 Dakota Pauline Fisher b: 8 AUG 1913 d: 19 SEP 1997
+2 CONT         3 Virgil Duane Fisher b: 24 OCT 1915 d: 12 OCT 1988
+2 CONT         3 Lora Ross Fisher b: 15 MAR 1919 d: 20 MAR 1919
+1 NOTE Rootsweb Worldconnect
+2 CONT Beerman
+2 CONT Entries: 726    Updated: Sat Aug 25 15:40:34 2001    Contact: Brian Beerman (britrainer@hotmail.com)
+2 CONT
+2 CONT ID: I643
+2 CONT Name: Jesse H. REVERT
+2 CONT Given Name: Jesse H.
+2 CONT Surname: Revert
+2 CONT Sex: M
+2 CONT Birth: 24 JUL 1841 in ,Stark,Ohio,USA
+2 CONT Death: 23 OCT 1927 in Geary,Blaine,Oklahoma,USA
+2 CONT Change Date: 10 OCT 1999 at 22:01:54
+2 CONT
+2 CONT Father: William REVERT b: 1801 in ,,Ohio,USA
+2 CONT Mother: Ann Margaret YONKERS b: 1802 in ,,Indiana,USA
+2 CONT
+2 CONT Marriage 1 Samantha Sebrina CASTER b: 21 DEC 1848 in Kidder,Caldwell,Missouri,USA
+2 CONT Children
+2 CONT  Willian Perry REVERT b: 11 NOV 1875 in Kidder,Caldwell,Missouri,USA
+2 CONT
+2 CONT
+2 CONT Beerman
+2 CONT Entries: 726    Updated: Sat Aug 25 15:40:34 2001    Contact: Brian Beerman
+2 CONT
+2 CONT
+2 CONT 1 Jesse H. REVERT b: 24 JUL 1841 d: 23 OCT 1927
+2 CONT   + Samantha Sebrina CASTER b: 21 DEC 1848 d: JUN 1923
+2 CONT     2 Willian Perry REVERT b: 11 NOV 1875 d: 8 APR 1957
+2 CONT       + Jesse Clyde LUCAS b: 2 JUL 1878 d: 25 NOV 1950
+2 CONT         3 Maude Pearl REVERT b: 3 JUL 1904 d: 17 JUN 1964
+2 CONT           + Virgil HOUGH b: 23 OCT 1902 d: 2 OCT 1982
+2 CONT             4 Robert Virgil HOUGH b: 16 FEB 1927
+2 CONT               + Colleen Pearl Henrietta WOOD b: 8 MAY 1929
+2 CONT                 5 Living HOUGH
+2 CONT                   + Living ELLIOTT
+2 CONT                     6 Living HOUGH
+2 CONT                       + Living BEERMAN
+2 CONT                     6 Living HOUGH
+2 CONT                     6 Living HOUGH
+0 @F342384916@ FAM
+1 HUSB @I103@
+1 CHIL @I110@
+1 CHIL @I111@
+1 CHIL @I70@
+1 CHIL @I107@
+1 CHAN
+2 DATE 22 JUL 2008
+3 TIME 23:47:16
+2 _PGVU kalefranz
+1 WIFE @I106@
+1 MARR
+2 DATE 24 MAY 1868
+2 PLAC Daviess Co., Missouri, USA
+2 NOTE Canton, Stark Co, Ohio
+3 CONT Another source: David R. Vargus (luckybruin@attbi.com)
+3 CONT Sloan/Goad/Biggs/Dunn family
+1 NOTE Maiden name may have been spelled "Castor".
+2 CONT http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=revert&GScid=184692&GRid=19494907&
+0 @I104@ INDI
+1 NAME Barbara /Wilson/
+2 GIVN Barbara
+2 SURN Wilson
+2 _MARNM Barbara /van Brakel/
+1 SEX F
+1 BIRT
+2 DATE 01 SEP 1751
+1 FAMS @F342384915@
+1 CHAN
+2 DATE 21 JUL 2008
+3 TIME 23:57:51
+2 _PGVU mjdevlin
+0 @I105@ INDI
+1 NAME Maria /van Brakel/
+2 GIVN Maria
+2 SPFX van
+2 SURN Brakel
+1 SEX F
+1 FAMS @F342384912@
+1 CHAN
+2 DATE 22 JUL 2008
+3 TIME 00:02:08
+2 _PGVU mjdevlin
+0 @M13@ OBJE
+1 FILE media/Jesse Revert b1841 - Grave3.jpg
+2 FORM jpeg
+3 TYPE photo
+2 TITL Jesse Revert grave
+1 _PRIM Y
+1 CHAN
+2 DATE 22 JUL 2008
+3 TIME 00:05:04
+2 _PGVU kalefranz
+0 @M14@ OBJE
+1 FILE media/Jesse Revert b1841 Civil War Pension Index.jpg
+2 FORM jpeg
+3 TYPE document
+2 TITL Civil War Pension Index
+1 NOTE filed in Missouri
+2 CONT
+2 CONT Source Information:
+2 CONT
+2 CONT National Archives and Records Administration. Civil War Pension Index: General Index to Pension Files, 1861-1934 [database on-line]. Provo, UT, USA: The Generations Network, Inc., 2000. Original data: General Index to Pension Files, 1861-1934. Wash
+2 CONC ington, D.C.: National Archives and Records Administration. T288, 544 rolls.
+2 CONT
+2 CONT Description:
+2 CONT This database is an index to and images of pension cards of Civil War veterans in the United States. Each record includes the veteran's name and state in which he, or his dependents, filed the application. The digitized image of the index card its
+2 CONC elf, contains additional information on the individual, such as unit of service, date of filing, and application and certificate numbers for the pension case file housed at the National Archives and Records Administration in Washington D.C.
+1 CHAN
+2 DATE 22 JUL 2008
+3 TIME 00:15:45
+2 _PGVU kalefranz
+0 @M15@ OBJE
+1 FILE media/Jesse Revert b1841 1920 Census.jpg
+2 FORM jpeg
+3 TYPE document
+2 TITL 1920 Census
+1 _PRIM N
+1 CHAN
+2 DATE 22 JUL 2008
+3 TIME 00:28:30
+2 _PGVU kalefranz
+0 @I106@ INDI
+1 NAME Sebrina Samantha /Caster/
+2 GIVN Sebrina Samantha
+2 SURN Caster
+2 _MARNM Sebrina Samantha /Revert/
+1 SEX F
+1 BIRT
+2 DATE 21 DEC 1848
+2 PLAC Gallatin Twp, Daviess, Missouri, USA
+1 DEAT
+2 DATE 09 JUN 1923
+2 PLAC Canadian Co, Oklahoma, USA
+1 NOTE Maiden name may have been spelled "Castor".
+2 CONT http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=revert&GScid=184692&GRid=19494907&
+1 FAMS @F342384916@
+1 CHAN
+2 DATE 22 JUL 2008
+3 TIME 01:19:02
+2 _PGVU kalefranz
+1 BURI
+2 CEME Geary Cemetary
+2 PLAC Blaine Co, Oklahoma, USA
+1 OBJE @M16@
+1 OBJE @M17@
+1 OBJE @M18@
+1 NOTE Important source: http://homepages.rootsweb.ancestry.com/~livcomo
+2 CONT
+2 CONT Sabrina CASTOR was born in 1848 in Gallatin Twp., Daviess, Missouri. Parents: Reason CASTOR and Marjory MOORE.
+2 CONT Spouse: Jesse REVERT Jr. Jesse REVERT Jr and Sabrina CASTOR were married on 24 May 1868 in Daviess Co., Missouri.
+2 CONT
+2 CONT Jesse REVERT Sr.
+2 CONT Spouse: Margaret YOUNKER. Children were: Jesse REVERT Jr.
+2 CONT
+2 CONT Margaret YOUNKER.
+2 CONT Spouse: Jesse REVERT Sr. Children were: Jesse REVERT Jr.
+2 CONT
+2 CONT Jesse REVERT Jr was born in 1842 in Stark Co., Ohio. Parents: Jesse REVERT Sr. and Margaret YOUNKER.
+2 CONT Spouse: Sabrina CASTOR. Jesse REVERT Jr and Sabrina CASTOR were married on 24 May 1868 in Daviess Co., Missouri.
+2 CONT
+2 CONT Reason CASTOR was born on 2 Nov 1819 in Ohio. He died after 1900 in Daviess Co., Missouri. He was buried in Winston Cemetery, Daviess, Missouri. Parents: John CASTOR and Elizabeth "Betsy" BELL.
+2 CONT Spouse: Marjory MOORE. Reason CASTOR and Marjory MOORE were married on 28 Mar 1844 in Platte Co., Missouri. Children were: Elizabeth L. CASTOR, John A. CASTOR, Sabrina CASTOR, Sarah CASTOR, Thomas S. CASTOR, Reason Abraham CASTOR Jr.
+2 CONT
+2 CONT Marilyn H. MOORE was born on 16 Feb 1934 in Ludlow, Livingston, Missouri. Parents: Eugene "Gene" MOORE and Eugenia Frances COOPER.
+2 CONT Spouse: Leroy G. COE. Leroy G. COE and Marilyn H. MOORE were married on 13 Jun 1954 in Las Vegas, Clark, Nevada. Children were: Marilyn L. COE, Diane F. COE, Barbara L. COE, Gene E. COE, Gayle M. COE.
+2 CONT
+2 CONT
+2 CONT Marjory MOORE was born on 22 Jan 1824 in Ohio. She died on 16 Nov 1897 in Daviess Co., Missouri. She was buried in Winston Cemetery, Daviess, Missouri.
+2 CONT Spouse: Reason CASTOR. Reason CASTOR and Marjory MOORE were married on 28 Mar 1844 in Platte Co., Missouri. Children were: Elizabeth L. CASTOR, John A. CASTOR, Sabrina CASTOR, Sarah CASTOR, Thomas S. CASTOR, Reason Abraham CASTOR Jr.
+2 CONT
+2 CONT John CASTOR was born on 11 Oct 1795 in Virginia. He died on 2 Jul 1876 in Daviess Co., Missouri. He was buried in Old Union Cemetery, Daviess, Missouri. He served in the War of 1812: 2nd Regiment Ohio Militia. He came to Daviess Co., Missouri in 18
+2 CONC 41. Parents: John CASTOR and Hannah MCDONALD.
+2 CONT Spouse: Elizabeth "Betsy" BELL. John CASTOR and Elizabeth "Betsy" BELL were married on 17 Mar 1817 in Holmes Co., Ohio. This family moved from Ohio, arriving in Colfax Twp., Daviess Co., Missouri in 1841. Children were: Sarah Catherine CASTOR, Reas
+2 CONC on CASTOR, Robert CASTOR, Hannah CASTOR, Andrew Jackson CASTOR, LorendaLucinda CASTOR, John CASTOR Jr., Josephus CASTOR, William P. CASTOR, George W. CASTOR.
+2 CONT
+2 CONT Elizabeth "Betsy" BELL was born on 12 Feb 1799 in Virginia. She died on 12 Jul 1873 in Missouri.
+2 CONT Spouse: John CASTOR. John CASTOR and Elizabeth "Betsy" BELL were married on 17 Mar 1817 in Holmes Co., Ohio. This family moved from Ohio, arriving in Colfax Twp., Daviess Co., Missouri in 1841. Children were: Sarah Catherine CASTOR, Reason CASTOR,
+2 CONC  Robert CASTOR, Hannah CASTOR, Andrew Jackson CASTOR, LorendaLucinda CASTOR, John CASTOR Jr., Josephus CASTOR, William P. CASTOR, George W. CASTOR.
+0 @M16@ OBJE
+1 FILE media/Jesse Revert b1841 - Grave1.jpg
+2 FORM jpeg
+3 TYPE photo
+2 TITL Jesse and Sebrina grave
+1 _PRIM N
+1 CHAN
+2 DATE 22 JUL 2008
+3 TIME 00:40:09
+2 _PGVU kalefranz
+0 @M17@ OBJE
+1 FILE media/Jesse Revert b1841 - Grave2.jpg
+2 FORM jpeg
+3 TYPE photo
+2 TITL Jesse and Sebrina grave
+1 _PRIM N
+1 CHAN
+2 DATE 22 JUL 2008
+3 TIME 00:40:41
+2 _PGVU kalefranz
+0 @I107@ INDI
+1 NAME Lillie M. /Revert/
+2 GIVN Lillie M.
+2 SURN Revert
+1 SEX F
+1 BIRT
+2 DATE abt 1864
+1 DEAT
+2 DATE 02 SEP 1869
+1 FAMC @F342384916@
+2 PEDI birth
+1 NOTE http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=revert&GSbyrel=in&GSdyrel=in&GSob=n&GRid=17870574&
+2 CONT
+2 CONT Birth:   unknown
+2 CONT Death:   Sep. 2, 1869
+2 CONT
+2 CONT Inscription: age 5 da. dau. of J. and S.S.
+2 CONT
+2 CONT Burial:
+2 CONT Wooderson Cemetery
+2 CONT Kidder
+2 CONT Daviess County
+2 CONT Missouri, USA
+2 CONT
+2 CONT Record added: Feb 9 2007
+2 CONT By: walter gillespie
+1 CHAN
+2 DATE 22 JUL 2008
+3 TIME 00:50:18
+2 _PGVU kalefranz
+1 BURI
+2 CEME Wooderson Cemetery
+2 PLAC Kidder, Daviess Co, Missouri, USA
+0 @M18@ OBJE
+1 FILE media/Jesse Revert b1841 Geary Cemetary.jpg
+2 FORM jpeg
+3 TYPE photo
+2 TITL Geary Cemetery
+1 _PRIM N
+1 CHAN
+2 DATE 22 JUL 2008
+3 TIME 01:10:42
+2 _PGVU kalefranz
+0 @I108@ INDI
+1 NAME Jesse /Revert/ Sr
+2 GIVN Jesse
+2 SURN Revert
+2 NSFX  Sr
+1 SEX M
+1 BIRT Y
+1 DEAT Y
+1 FAMS @F342384917@
+1 CHAN
+2 DATE 23 JUL 2008
+3 TIME 00:28:20
+2 _PGVU kalefranz
+1 NOTE Rootsweb Worldconnect
+2 CONT Beerman
+2 CONT Entries: 726    Updated: Sat Aug 25 17:10:26 2001    Contact: Brian Beerman
+2 CONT
+2 CONT ID: I657
+2 CONT Name: William REVERT
+2 CONT Given Name: William
+2 CONT Surname: Revert
+2 CONT Sex: M
+2 CONT Birth: 1801 in ,,Ohio,USA
+2 CONT Death: ABT 1852
+2 CONT Change Date: 10 OCT 1999 at 22:47:29
+2 CONT  Suggested Next Step:
+2 CONT Search OneWorldTree for:
+2 CONT Revert, William
+2 CONT
+2 CONT
+2 CONT Marriage 1 Ann Margaret YONKERS b: 1802 in ,,Indiana,USA
+2 CONT Children
+2 CONT  Jesse H. REVERT b: 24 JUL 1841 in ,Stark,Ohio,USA
+1 NOTE FamilySearch
+2 CONT William REVERT (AFN: 1M03-QHM)  Pedigree
+2 CONT  Sex:  M  Family
+2 CONT
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT Event(s)
+2 CONT  Birth:   1835
+2 CONT   , , Ohio
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT Husband's Name
+2 CONT  William REVERT (AFN:1M03-QR9)  Pedigree
+2 CONT
+2 CONT  Born:  1801  Place:  , , Ohio
+2 CONT  Married:  1829  Place:  , , Ohio
+2 CONT
+2 CONT  Father:
+2 CONT  Mother:
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT Wife's Name
+2 CONT  Ann Margaret YONKERS (AFN:1M03-QF7)  Pedigree
+2 CONT
+2 CONT  Born:  1802  Place:  , , Maryland
+2 CONT  Died:  1892  Place:  , , Indiana
+2 CONT  Married:  1829  Place:  , , Ohio
+2 CONT
+2 CONT  Father:
+2 CONT  Mother:
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT Children
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT  1.  Sex  Name
+2 CONT   M William REVERT (AFN:1M03-QHM)  Pedigree
+2 CONT
+2 CONT     Born:  1835   Place:  , , Ohio
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT  2.  Sex  Name
+2 CONT   M Henry REVERT (AFN:1M03-R24)  Pedigree
+2 CONT
+2 CONT     Born:  1838   Place:  , , Ohio
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT  3.  Sex  Name
+2 CONT   M Presbua REVERT (AFN:1M03-QK2)  Pedigree
+2 CONT
+2 CONT     Born:  1840   Place:  , , Ohio
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT  4.  Sex  Name
+2 CONT   F Rebecca REVERT (AFN:1M03-QNN)  Pedigree
+2 CONT
+2 CONT     Born:  1846   Place:  , , Ohio
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT  5.  Sex  Name
+2 CONT   M Jacob REVERT (AFN:1M03-RBR)  Pedigree
+2 CONT
+2 CONT     Born:  5 May 1844   Place:  , , Ohio
+2 CONT     Died:  19 Jan 1924   Place:  , , Oklahoma
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT  6.  Sex  Name
+2 CONT   M Jesse H REVERT (AFN:1M03-QL8)  Pedigree
+2 CONT
+2 CONT     Born:  24 Jul 1841   Place:  , Stark, Ohio
+2 CONT     Died:  23 Oct 1927   Place:  Geary, Blaine, Oklahoma
+2 CONT     Buried:    Place:  Geary, Blaine, Oklahoma
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT  7.  Sex  Name
+2 CONT   F Sarah REVERT (AFN:1M03-QTP)  Pedigree
+2 CONT
+2 CONT     Born:  31 Dec 1830   Place:  , , Ohio
+2 CONT     Died:  6 Nov 1896   Place:  , , Indiana
+2 CONT
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT Submitter(s) ROBERT VIRGIL HOUGH Microfilm:  NONE
+2 CONT  707 N 4TH ST
+2 CONT COEURD ALENE ID Submission:  AF96-105974
+2 CONT  USA 83814
+0 @F342384917@ FAM
+1 HUSB @I108@
+1 CHIL @I103@
+1 CHAN
+2 DATE 22 JUL 2008
+3 TIME 01:22:29
+2 _PGVU kalefranz
+1 WIFE @I109@
+0 @I109@ INDI
+1 NAME Margaret /Younker/
+2 GIVN Margaret
+2 SURN Younker
+2 _MARNM Margaret /Revert/
+1 SEX F
+1 BIRT Y
+1 DEAT Y
+1 FAMS @F342384917@
+1 CHAN
+2 DATE 23 JUL 2008
+3 TIME 00:17:49
+2 _PGVU kalefranz
+1 NOTE Rootsweb WorldConnect
+2 CONT
+2 CONT Beerman
+2 CONT Entries: 726    Updated: Sat Aug 25 17:10:26 2001    Contact: Brian Beerman
+2 CONT ID: I658
+2 CONT Name: Ann Margaret YONKERS
+2 CONT Given Name: Ann Margaret
+2 CONT Surname: Yonkers
+2 CONT Sex: F
+2 CONT Birth: 1802 in ,,Indiana,USA
+2 CONT Death: 1892 in ,,Indiana,USA
+2 CONT Change Date: 10 OCT 1999 at 22:48:44
+2 CONT  Suggested Next Step:
+2 CONT Search OneWorldTree for:
+2 CONT Yonkers, Ann Margaret
+2 CONT
+2 CONT Marriage 1 William REVERT b: 1801 in ,,Ohio,USA
+2 CONT Children
+2 CONT  Jesse H. REVERT b: 24 JUL 1841 in ,Stark,Ohio,USA
+1 NOTE FamilySearch
+2 CONT Ann Margaret YONKERS (AFN: 1M03-QF7)  Pedigree
+2 CONT  Sex:  F  Family
+2 CONT
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT Event(s)
+2 CONT  Birth:   1802
+2 CONT   , , Maryland
+2 CONT  Death:   1892
+2 CONT   , , Indiana
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT Parents
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT Marriage(s)
+2 CONT  Spouse:  William REVERT (AFN: 1M03-QR9)  Family
+2 CONT  Marriage:  1829
+2 CONT   , , Ohio
+2 CONT
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT Submitter(s)  ROBERT VIRGIL HOUGH Microfilm:  NONE
+2 CONT  707 N 4TH ST
+2 CONT COEURD ALENE ID Submission:  AF96-105974
+2 CONT  USA 83814
+2 CONT
+2 CONT
+2 CONT --------------------------------------------------------------------------------
+2 CONT
+2 CONT About Ancestral File
+2 CONT  Ancestral File is a collection of genealogical information taken from Pedigree Charts and Family Group Records submitted to the Family History Department since 1978.  The information has not been verified against any official records.  Since the i
+2 CONC nformation in Ancestral File is contributed, it is the responsibility of those who use the file to verify its accuracy.
+0 @I110@ INDI
+1 NAME Anna Margaret /Revert/
+2 GIVN Anna Margaret
+2 SURN Revert
+1 SEX F
+1 BIRT
+2 DATE 30 NOV 1872
+2 PLAC Kidder, Caldwell, Missouri, USA
+1 DEAT
+2 DATE 28 MAR 1961
+2 PLAC Los Angeles Co, California, USA
+1 FAMC @F342384916@
+1 NOTE OneWorldTree Information
+2 CONT Carey Fisher
+2 CONT Born: 14 Sep 1875 in [city], [county], Iowa, USA
+2 CONT Died: 4 Jul 1937 in [city], Los Angeles, California, USA
+2 CONT Marriage: 24 Apr 1897 in Dane, Woods, Oklahoma, USA   View Info
+2 CONT Children Sex Birth
+2 CONT Carrie Eunice Fisher  F 29 May 1898 in Isabella, Woods, Oklahoma, USA
+2 CONT Sidney Earle Fisher  M 24 Nov 1899 in Dane, Woods, Oklahoma, USA
+2 CONT Le Roy Fisher  M 10 Nov 1901 in Seiling, Dewey, Oklahoma, USA
+2 CONT Glenn Harold Fisher  M 2 Jan 1904 in [city], Barber, Kansas, USA
+2 CONT Carey Wendell Fisher  M 25 Feb 1906 in Helena, Alfalfa, Oklahoma, USA
+2 CONT Leslie Olin Fisher  M 10 Nov 1907 in Prairie Queen, [county], Oklahoma, USA
+2 CONT Eldon Deforest Fisher  M 23 Apr 1910 in Enid, Garfield, Oklahoma, USA
+2 CONT Vern Otto Fisher  M 11 Feb 1912 in Alvin, Brazoria, Texas, USA
+2 CONT Dakota Pauline Fisher  F 8 Aug 1913 in Geary, Blaine, Oklahoma, USA
+2 CONT Virgil Duane Fisher  M 24 Oct 1915 in Carmen, Alfalfa, Oklahoma, USA
+2 CONT Lora Ross Fisher  F 15 Mar 1919 in Geary, Blaine, Oklahoma, USA
+1 CHAN
+2 DATE 22 JUL 2008
+3 TIME 23:36:00
+2 _PGVU kalefranz
+0 @I111@ INDI
+1 NAME William Perry /Revert/
+2 GIVN William Perry
+2 SURN Revert
+1 SEX M
+1 BIRT
+2 DATE 11 NOV 1875
+2 PLAC Kidder, Caldwell Co, Missouri, USA
+1 DEAT
+2 DATE 08 APR 1957
+2 PLAC Enid, Garfield Co, Oklahoma, USA
+1 FAMC @F342384916@
+1 CHAN
+2 DATE 22 JUL 2008
+3 TIME 23:47:15
+2 _PGVU kalefranz
+0 TRLR

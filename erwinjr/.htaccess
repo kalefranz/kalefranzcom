@@ -1,0 +1,7 @@
+Options +FollowSymLinks 
+RewriteEngine on 
+RewriteRule ^(licenses|credentials) - [L] 
+RewriteCond %{HTTP_HOST} ^erwinjr\.com [NC] 
+RewriteRule ^(.*)$ http://www.kalefranz.com/software.html [R=301,NC,L]
+RewriteCond %{HTTP_HOST} ^www\.erwinjr\.com [NC] 
+RewriteRule ^(.*)$ http://www.kalefranz.com/software.html [R=301,NC,L]

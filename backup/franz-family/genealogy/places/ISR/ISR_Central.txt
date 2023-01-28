@@ -1,0 +1,6 @@
+<!-- THIS FILE MUST BE SAVED IN UTF-8 ENCODING (or some special characters will be lost) -->
+<!-- @version $Id: ISR_Central.txt 2091 2007-10-30 16:19:34Z yalnifj $ -->
+Petah Tiqwa
+Ramla
+Rehovot
+Sharon

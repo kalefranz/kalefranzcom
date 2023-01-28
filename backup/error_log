@@ -1,0 +1,62 @@
+[24-Oct-2008 17:28:38] PHP Warning:  fopen(/public_html/publications/papers/.pdf) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kfranz/public_html/refmail.php on line 15
+[24-Oct-2008 17:28:38] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /public_html/publications/papers/.pdf in /home/kfranz/public_html/refmail.php on line 16
+[24-Oct-2008 17:28:38] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/kfranz/public_html/refmail.php on line 16
+[24-Oct-2008 17:28:38] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/kfranz/public_html/refmail.php on line 17
+[24-Oct-2008 17:30:05] PHP Warning:  fopen(/public_html/publications/papers/NMat-AJHoffman-712.pdf) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kfranz/public_html/refmail.php on line 15
+[24-Oct-2008 17:30:05] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /public_html/publications/papers/NMat-AJHoffman-712.pdf in /home/kfranz/public_html/refmail.php on line 16
+[24-Oct-2008 17:30:05] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/kfranz/public_html/refmail.php on line 16
+[24-Oct-2008 17:30:05] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/kfranz/public_html/refmail.php on line 17
+[24-Oct-2008 17:31:40] PHP Warning:  fopen(~/public_html/publications/papers/NMat-AJHoffman-712.pdf) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/kfranz/public_html/refmail.php on line 15
+[24-Oct-2008 17:31:40] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ~/public_html/publications/papers/NMat-AJHoffman-712.pdf in /home/kfranz/public_html/refmail.php on line 16
+[24-Oct-2008 17:31:40] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/kfranz/public_html/refmail.php on line 16
+[24-Oct-2008 17:31:40] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/kfranz/public_html/refmail.php on line 17
+[24-Oct-2008 17:47:48] PHP Fatal error:  Class 'Mail_mim' not found in /home/kfranz/public_html/refmail.php on line 83
+[24-Oct-2008 18:39:55] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/kfranz/public_html/refmail.php on line 13
+[24-Oct-2008 18:53:39] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/kfranz/public_html/refmail.php on line 43
+[25-Oct-2008 00:41:04] PHP Warning:  gethostbyaddr() [<a href='function.gethostbyaddr'>function.gethostbyaddr</a>]: Address is not a valid IPv4 or IPv6 address in /home/kfranz/public_html/refmail.php on line 64
+[25-Oct-2008 00:41:04] PHP Warning:  gethostbyaddr() [<a href='function.gethostbyaddr'>function.gethostbyaddr</a>]: Address is not a valid IPv4 or IPv6 address in /home/kfranz/public_html/refmail.php on line 65
+[25-Oct-2008 01:11:11] PHP Parse error:  syntax error, unexpected '{' in /home/kfranz/public_html/refmail.php on line 31
+[25-Oct-2008 01:13:47] PHP Warning:  preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Delimiter must not be alphanumeric or backslash in /home/kfranz/public_html/refmail.php on line 30
+[25-Oct-2008 01:44:39] PHP Parse error:  syntax error, unexpected T_STRING in /home/kfranz/public_html/refmail.php on line 85
+[25-Oct-2008 02:03:09] PHP Parse error:  syntax error, unexpected ',' in /home/kfranz/public_html/pubrequests.php on line 7
+[25-Oct-2008 04:18:57] PHP Fatal error:  Call to undefined function  geoip_record_by_name() in /home/kfranz/public_html/pubrequests.php on line 16
+[25-Oct-2008 21:48:52] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'kfranz'@'gator347.hostgator.com' (using password: NO) in /home/kfranz/public_html/pubrequests.php on line 3
+[25-Oct-2008 21:50:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user '$un1'@'gator347.hostgator.com' (using password: YES) in /home/kfranz/public_html/pubrequests.php on line 3
+[25-Oct-2008 22:05:14] PHP Fatal error:  Call to undefined function  dbconn() in /home/kfranz/public_html/pubrequests.php on line 4
+[25-Oct-2008 22:08:57] PHP Fatal error:  Call to undefined function  dbconn() in /home/kfranz/public_html/pubrequests.php on line 4
+[25-Oct-2008 22:10:55] PHP Fatal error:  Call to undefined function  dbconn() in /home/kfranz/public_html/pubrequests.php on line 4
+[25-Oct-2008 22:13:11] PHP Parse error:  syntax error, unexpected '[' in /home/kfranz/public_html/sfiles/phpfncs.php on line 8
+[25-Oct-2008 22:22:07] PHP Warning:  include(sfiles/phpfncs.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/kfranz/public_html/pubrequests.php on line 2
+[25-Oct-2008 22:22:07] PHP Warning:  include(sfiles/phpfncs.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/kfranz/public_html/pubrequests.php on line 2
+[25-Oct-2008 22:22:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'sfiles/phpfncs.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kfranz/public_html/pubrequests.php on line 2
+[25-Oct-2008 22:22:07] PHP Fatal error:  Call to undefined function  dbconn() in /home/kfranz/public_html/pubrequests.php on line 4
+[25-Oct-2008 22:22:37] PHP Warning:  include(.../phpfncs.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/kfranz/public_html/pubrequests.php on line 2
+[25-Oct-2008 22:22:37] PHP Warning:  include(.../phpfncs.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/kfranz/public_html/pubrequests.php on line 2
+[25-Oct-2008 22:22:37] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '.../phpfncs.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kfranz/public_html/pubrequests.php on line 2
+[25-Oct-2008 22:22:37] PHP Fatal error:  Call to undefined function  dbconn() in /home/kfranz/public_html/pubrequests.php on line 4
+[26-Oct-2008 05:08:34] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/kfranz/public_html/linkpoint.php on line 42
+[26-Oct-2008 05:09:45] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/kfranz/public_html/linkpoint.php on line 42
+[26-Oct-2008 05:12:27] PHP Parse error:  syntax error, unexpected '}' in /home/kfranz/phpfncs.php on line 20
+[26-Oct-2008 05:20:23] PHP Parse error:  syntax error, unexpected ':' in /home/kfranz/public_html/linkpoint.php on line 30
+[26-Oct-2008 05:31:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kfranz/public_html/linkpoint.php on line 38
+[26-Oct-2008 07:24:28] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/kfranz/public_html/404.php on line 5
+[26-Oct-2008 07:26:47] PHP Parse error:  syntax error, unexpected ')' in /home/kfranz/public_html/404.php on line 5
+[26-Oct-2008 07:39:13] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/kfranz/public_html/404.php on line 20
+[26-Oct-2008 07:40:01] PHP Fatal error:  Class 'Mail_mime' not found in /home/kfranz/public_html/404.php on line 32
+[29-Oct-2008 20:31:52] PHP Parse error:  syntax error, unexpected T_ECHO in /home/kfranz/public_html/404.php on line 9
+[29-Oct-2008 20:34:26] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/kfranz/public_html/404.php on line 12
+[01-Nov-2008 00:28:00] PHP Fatal error:  Call to undefined function  getip() in /home/kfranz/public_html/404.php on line 7
+[01-Nov-2008 00:29:10] PHP Fatal error:  Call to undefined function  getip() in /home/kfranz/public_html/404.php on line 7
+[01-Nov-2008 00:30:20] PHP Fatal error:  Call to undefined function  getip() in /home/kfranz/public_html/404.php on line 7
+[01-Nov-2008 00:30:23] PHP Fatal error:  Call to undefined function  getip() in /home/kfranz/public_html/404.php on line 7
+[02-Nov-2008 11:41:02] PHP Parse error:  syntax error, unexpected ')' in /home/kfranz/public_html/404.php on line 52
+[02-Nov-2008 11:41:34] PHP Parse error:  syntax error, unexpected ')' in /home/kfranz/public_html/404.php on line 52
+[02-Nov-2008 11:42:12] PHP Parse error:  syntax error, unexpected ')' in /home/kfranz/public_html/404.php on line 52
+[02-Nov-2008 11:42:18] PHP Parse error:  syntax error, unexpected ')' in /home/kfranz/public_html/404.php on line 52
+[02-Nov-2008 15:09:31] PHP Parse error:  syntax error, unexpected ')' in /home/kfranz/public_html/404.php on line 52
+[03-Nov-2008 03:36:03] PHP Parse error:  syntax error, unexpected ')' in /home/kfranz/public_html/404.php on line 52
+[14-Nov-2008 19:41:02] PHP Warning:  preg_match() [<a href='function.preg-match'>function.preg-match</a>]: Delimiter must not be alphanumeric or backslash in /home/kfranz/public_html/refpoint.php on line 29
+[14-Nov-2008 19:41:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kfranz/public_html/refpoint.php:29) in /home/kfranz/public_html/refpoint.php on line 68
+[20-Nov-2008 01:43:50] PHP Parse error:  syntax error, unexpected T_STRING in /home/kfranz/public_html/pubrequests.php on line 34
+[20-Nov-2008 01:44:28] PHP Parse error:  syntax error, unexpected T_STRING in /home/kfranz/public_html/pubrequests.php on line 34
+[20-Nov-2008 01:44:44] PHP Parse error:  syntax error, unexpected T_STRING in /home/kfranz/public_html/pubrequests.php on line 34

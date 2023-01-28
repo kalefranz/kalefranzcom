@@ -1,0 +1,7 @@
+<!-- THIS FILE MUST BE SAVED IN UTF-8 ENCODING (or some special characters will be lost) -->
+<!-- @version $Id: LKA_Northern.txt 2412 2007-12-11 12:05:55Z canajun2eh $ -->
+Jaffna
+Kilinochchi
+Mannar
+Vavuniya
+Mullativu

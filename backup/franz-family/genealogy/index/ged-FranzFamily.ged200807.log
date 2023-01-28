@@ -1,0 +1,665 @@
+19.07.2008 21:56:54 - 140.180.51.224 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M2 ->kalefranz<-
+19.07.2008 21:56:54 - 140.180.51.224 - Media ID M2 successfully added.
+19.07.2008 21:56:54 - 140.180.51.224 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I1 ->kalefranz<-
+19.07.2008 21:56:54 - 140.180.51.224 - Media ID M2 successfully added to I1.
+19.07.2008 21:59:39 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I12 ->kalefranz<-
+19.07.2008 21:59:39 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384881 ->kalefranz<-
+19.07.2008 22:12:30 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record F342384881 ->kalefranz<-
+19.07.2008 22:13:32 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I13 ->kalefranz<-
+19.07.2008 22:13:32 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384881 ->kalefranz<-
+19.07.2008 22:14:07 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I14 ->kalefranz<-
+19.07.2008 22:14:07 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384881 ->kalefranz<-
+19.07.2008 22:16:06 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I15 ->kalefranz<-
+19.07.2008 22:16:06 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384881 ->kalefranz<-
+19.07.2008 22:18:26 - 140.180.51.224 - edit_interface.php reorder_update edit_interface.php (2175) Replacing gedcom record F342384881 ->kalefranz<-
+19.07.2008 22:31:45 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1180) Appending new INDI record I16 ->kalefranz<-
+19.07.2008 22:31:45 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1236) Appending new FAM record F342384884 ->kalefranz<-
+19.07.2008 22:31:45 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1292) Replacing gedcom record I16 ->kalefranz<-
+19.07.2008 22:31:45 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1301) Replacing gedcom record I12 ->kalefranz<-
+19.07.2008 22:32:38 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I17 ->kalefranz<-
+19.07.2008 22:32:38 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384884 ->kalefranz<-
+19.07.2008 22:34:00 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I18 ->kalefranz<-
+19.07.2008 22:34:00 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384884 ->kalefranz<-
+19.07.2008 22:34:32 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I19 ->kalefranz<-
+19.07.2008 22:34:32 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384884 ->kalefranz<-
+19.07.2008 23:14:09 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I10 ->kalefranz<-
+19.07.2008 23:15:16 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I11 ->kalefranz<-
+19.07.2008 23:15:31 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I10 ->kalefranz<-
+19.07.2008 23:28:26 - 63.228.82.236 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I4 ->mjdevlin<-
+19.07.2008 23:30:23 - 63.228.82.236 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I4 ->mjdevlin<-
+19.07.2008 23:31:09 - 140.180.51.224 - edit_interface.php delete edit_interface.php (329) Replacing gedcom record I4 ->kalefranz<-
+19.07.2008 23:34:31 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+19.07.2008 23:35:44 - 63.228.82.236 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I4 ->mjdevlin<-
+19.07.2008 23:36:33 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+19.07.2008 23:38:32 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+19.07.2008 23:38:51 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+19.07.2008 23:40:29 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+19.07.2008 23:42:28 - 63.228.82.236 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I4 ->mjdevlin<-
+19.07.2008 23:43:12 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+19.07.2008 23:44:02 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+19.07.2008 23:44:19 - 63.228.82.236 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I4 ->mjdevlin<-
+19.07.2008 23:44:20 - 140.180.51.224 - edit_interface.php delete edit_interface.php (329) Replacing gedcom record I1 ->kalefranz<-
+19.07.2008 23:45:22 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+19.07.2008 23:46:10 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+19.07.2008 23:46:33 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+19.07.2008 23:47:35 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 00:04:16 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 00:05:31 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 00:06:17 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 00:26:34 - 140.180.51.224 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M3 ->kalefranz<-
+20.07.2008 00:26:34 - 140.180.51.224 - Media ID M3 successfully added.
+20.07.2008 00:26:34 - 140.180.51.224 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 00:26:34 - 140.180.51.224 - Media ID M3 successfully added to I1.
+20.07.2008 00:31:02 - 140.180.51.224 - edit_interface.php delete edit_interface.php (329) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 00:33:39 - 140.180.51.224 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M4 ->kalefranz<-
+20.07.2008 00:33:39 - 140.180.51.224 - Media ID M4 successfully added.
+20.07.2008 00:33:39 - 140.180.51.224 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I2 ->kalefranz<-
+20.07.2008 00:33:39 - 140.180.51.224 - Media ID M4 successfully added to I2.
+20.07.2008 00:50:13 - 140.180.51.224 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M5 ->kalefranz<-
+20.07.2008 00:50:13 - 140.180.51.224 - Media ID M5 successfully added.
+20.07.2008 00:50:13 - 140.180.51.224 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I4 ->kalefranz<-
+20.07.2008 00:50:13 - 140.180.51.224 - Media ID M5 successfully added to I4.
+20.07.2008 00:51:39 - 140.180.51.224 - addmedia.php update addmedia.php (565) Replacing gedcom record M5 ->kalefranz<-
+20.07.2008 00:51:39 - 140.180.51.224 - Media ID M5 successfully updated.
+20.07.2008 00:54:33 - 140.180.51.224 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M6 ->kalefranz<-
+20.07.2008 00:54:33 - 140.180.51.224 - Media ID M6 successfully added.
+20.07.2008 00:54:33 - 140.180.51.224 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I5 ->kalefranz<-
+20.07.2008 00:54:33 - 140.180.51.224 - Media ID M6 successfully added to I5.
+20.07.2008 00:57:04 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I17 ->kalefranz<-
+20.07.2008 00:58:12 - 140.180.51.224 - Quick update attempted for I17 by >kalefranz<
+20.07.2008 00:58:12 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (767) Appending new INDI record I20 ->kalefranz<-
+20.07.2008 00:58:12 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (773) Appending new FAM record F342384885 ->kalefranz<-
+20.07.2008 00:58:12 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (779) Replacing gedcom record I20 ->kalefranz<-
+20.07.2008 00:58:12 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (875) Replacing gedcom record F342384885 ->kalefranz<-
+20.07.2008 00:58:12 - 140.180.51.224 - Quick update for I17 by >kalefranz<
+20.07.2008 00:58:12 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I17 ->kalefranz<-
+20.07.2008 00:59:15 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I21 ->kalefranz<-
+20.07.2008 00:59:15 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384885 ->kalefranz<-
+20.07.2008 01:01:06 - 140.180.51.224 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M7 ->kalefranz<-
+20.07.2008 01:01:06 - 140.180.51.224 - Media ID M7 successfully added.
+20.07.2008 01:01:06 - 140.180.51.224 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I21 ->kalefranz<-
+20.07.2008 01:01:06 - 140.180.51.224 - Media ID M7 successfully added to I21.
+20.07.2008 01:01:22 - 140.180.51.224 - addmedia.php update addmedia.php (565) Replacing gedcom record M7 ->kalefranz<-
+20.07.2008 01:01:22 - 140.180.51.224 - Media ID M7 successfully updated.
+20.07.2008 01:06:58 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1180) Appending new INDI record I22 ->kalefranz<-
+20.07.2008 01:06:59 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1236) Appending new FAM record F342384886 ->kalefranz<-
+20.07.2008 01:07:00 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1292) Replacing gedcom record I22 ->kalefranz<-
+20.07.2008 01:07:00 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1301) Replacing gedcom record I18 ->kalefranz<-
+20.07.2008 01:07:39 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I23 ->kalefranz<-
+20.07.2008 01:07:39 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384886 ->kalefranz<-
+20.07.2008 01:08:02 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I24 ->kalefranz<-
+20.07.2008 01:08:02 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384886 ->kalefranz<-
+20.07.2008 01:08:34 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I25 ->kalefranz<-
+20.07.2008 01:08:34 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384886 ->kalefranz<-
+20.07.2008 01:11:45 - 140.180.51.224 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M8 ->kalefranz<-
+20.07.2008 01:11:45 - 140.180.51.224 - Media ID M8 successfully added.
+20.07.2008 01:11:45 - 140.180.51.224 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I24 ->kalefranz<-
+20.07.2008 01:11:45 - 140.180.51.224 - Media ID M8 successfully added to I24.
+20.07.2008 01:12:34 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I20 ->kalefranz<-
+20.07.2008 01:14:22 - 140.180.51.224 - inverselink.php update inverselink.php (176)functions_edit.php (1996) Replacing gedcom record I3 ->kalefranz<-
+20.07.2008 01:16:14 - 140.180.51.224 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M9 ->kalefranz<-
+20.07.2008 01:16:14 - 140.180.51.224 - Media ID M9 successfully added.
+20.07.2008 01:16:14 - 140.180.51.224 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I2 ->kalefranz<-
+20.07.2008 01:16:14 - 140.180.51.224 - Media ID M9 successfully added to I2.
+20.07.2008 01:17:41 - 140.180.51.224 - inverselink.php update inverselink.php (176)functions_edit.php (1996) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 01:18:19 - 140.180.51.224 - inverselink.php update inverselink.php (176)functions_edit.php (1996) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 01:22:15 - 64.20.38.74 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I23 ->kylefranz<-
+20.07.2008 01:23:39 - 140.180.51.224 - addmedia.php update addmedia.php (565) Replacing gedcom record M2 ->kalefranz<-
+20.07.2008 01:23:39 - 140.180.51.224 - Media ID M2 successfully updated.
+20.07.2008 01:24:11 - 140.180.51.224 - addmedia.php update addmedia.php (565) Replacing gedcom record M3 ->kalefranz<-
+20.07.2008 01:24:11 - 140.180.51.224 - Media ID M3 successfully updated.
+20.07.2008 02:37:15 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I26 ->kalefranz<-
+20.07.2008 02:37:15 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384887 ->kalefranz<-
+20.07.2008 02:37:15 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I26 ->kalefranz<-
+20.07.2008 02:37:15 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I3 ->kalefranz<-
+20.07.2008 02:39:57 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I27 ->kalefranz<-
+20.07.2008 02:39:57 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1592) Replacing gedcom record F342384887 ->kalefranz<-
+20.07.2008 02:39:57 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I27 ->kalefranz<-
+20.07.2008 02:42:26 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I28 ->kalefranz<-
+20.07.2008 02:42:26 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384888 ->kalefranz<-
+20.07.2008 02:42:26 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I28 ->kalefranz<-
+20.07.2008 02:42:26 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I26 ->kalefranz<-
+20.07.2008 02:44:45 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I29 ->kalefranz<-
+20.07.2008 02:44:45 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1592) Replacing gedcom record F342384888 ->kalefranz<-
+20.07.2008 02:44:45 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I29 ->kalefranz<-
+20.07.2008 02:45:58 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I28 ->kalefranz<-
+20.07.2008 02:46:30 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I28 ->kalefranz<-
+20.07.2008 02:47:17 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I29 ->kalefranz<-
+20.07.2008 02:51:20 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I12 ->kalefranz<-
+20.07.2008 02:52:10 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I12 ->kalefranz<-
+20.07.2008 02:53:28 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I14 ->kalefranz<-
+20.07.2008 02:54:12 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I14 ->kalefranz<-
+20.07.2008 02:54:45 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I14 ->kalefranz<-
+20.07.2008 02:56:16 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I6 ->kalefranz<-
+20.07.2008 02:57:08 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I6 ->kalefranz<-
+20.07.2008 03:40:15 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I8 ->kalefranz<-
+20.07.2008 03:41:03 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record F342384882 ->kalefranz<-
+20.07.2008 03:47:20 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I14 ->kalefranz<-
+20.07.2008 03:48:24 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I15 ->kalefranz<-
+20.07.2008 03:49:18 - 140.180.51.224 - edit_interface.php reorder_update edit_interface.php (2175) Replacing gedcom record F342384881 ->kalefranz<-
+20.07.2008 14:28:31 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record F342384887 ->kalefranz<-
+20.07.2008 14:29:12 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I27 ->kalefranz<-
+20.07.2008 14:29:48 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I26 ->kalefranz<-
+20.07.2008 14:45:17 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I29 ->kalefranz<-
+20.07.2008 14:47:23 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I30 ->kalefranz<-
+20.07.2008 14:47:23 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384889 ->kalefranz<-
+20.07.2008 14:47:23 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I30 ->kalefranz<-
+20.07.2008 14:47:23 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I27 ->kalefranz<-
+20.07.2008 14:48:43 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I31 ->kalefranz<-
+20.07.2008 14:48:43 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1592) Replacing gedcom record F342384889 ->kalefranz<-
+20.07.2008 14:48:43 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I31 ->kalefranz<-
+20.07.2008 14:49:00 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record F342384887 ->kalefranz<-
+20.07.2008 14:50:10 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I31 ->kalefranz<-
+20.07.2008 14:51:48 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I27 ->kalefranz<-
+20.07.2008 14:52:18 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I27 ->kalefranz<-
+20.07.2008 14:55:29 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I32 ->kalefranz<-
+20.07.2008 14:55:29 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384889 ->kalefranz<-
+20.07.2008 14:56:56 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I32 ->kalefranz<-
+20.07.2008 14:58:56 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I33 ->kalefranz<-
+20.07.2008 14:58:56 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384889 ->kalefranz<-
+20.07.2008 14:59:51 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I34 ->kalefranz<-
+20.07.2008 14:59:51 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384889 ->kalefranz<-
+20.07.2008 15:00:30 - 68.36.204.168 - edit_interface.php reorder_update edit_interface.php (2175) Replacing gedcom record F342384889 ->kalefranz<-
+20.07.2008 15:02:38 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I35 ->kalefranz<-
+20.07.2008 15:02:39 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384890 ->kalefranz<-
+20.07.2008 15:02:39 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I35 ->kalefranz<-
+20.07.2008 15:02:39 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I31 ->kalefranz<-
+20.07.2008 15:03:22 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I36 ->kalefranz<-
+20.07.2008 15:03:22 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384890 ->kalefranz<-
+20.07.2008 15:03:44 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I37 ->kalefranz<-
+20.07.2008 15:03:44 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384890 ->kalefranz<-
+20.07.2008 15:04:07 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I38 ->kalefranz<-
+20.07.2008 15:04:08 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384890 ->kalefranz<-
+20.07.2008 15:05:31 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I31 ->kalefranz<-
+20.07.2008 15:05:55 - 68.36.204.168 - edit_interface.php delete edit_interface.php (329) Replacing gedcom record I31 ->kalefranz<-
+20.07.2008 15:06:22 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I36 ->kalefranz<-
+20.07.2008 15:06:42 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I37 ->kalefranz<-
+20.07.2008 15:06:59 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I38 ->kalefranz<-
+20.07.2008 15:09:22 - 68.36.204.168 - Quick update attempted for I36 by >kalefranz<
+20.07.2008 15:09:22 - 68.36.204.168 - edit_quickupdate.php update edit_quickupdate.php (841) Appending new INDI record I39 ->kalefranz<-
+20.07.2008 15:09:22 - 68.36.204.168 - edit_quickupdate.php update edit_quickupdate.php (850) Appending new FAM record F342384891 ->kalefranz<-
+20.07.2008 15:09:22 - 68.36.204.168 - edit_quickupdate.php update edit_quickupdate.php (856) Replacing gedcom record I39 ->kalefranz<-
+20.07.2008 15:09:22 - 68.36.204.168 - edit_quickupdate.php update edit_quickupdate.php (875) Replacing gedcom record F342384891 ->kalefranz<-
+20.07.2008 15:09:22 - 68.36.204.168 - Quick update for I36 by >kalefranz<
+20.07.2008 15:09:22 - 68.36.204.168 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I36 ->kalefranz<-
+20.07.2008 15:10:18 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I39 ->kalefranz<-
+20.07.2008 15:11:03 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I39 ->kalefranz<-
+20.07.2008 15:18:33 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I40 ->kalefranz<-
+20.07.2008 15:18:33 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384883 ->kalefranz<-
+20.07.2008 15:19:02 - 68.36.204.168 - edit_interface.php delete edit_interface.php (329) Replacing gedcom record I10 ->kalefranz<-
+20.07.2008 15:20:07 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I40 ->kalefranz<-
+20.07.2008 15:23:11 - 68.36.204.168 - edit_interface.php addspouseaction edit_interface.php (1180) Appending new INDI record I41 ->kalefranz<-
+20.07.2008 15:23:11 - 68.36.204.168 - edit_interface.php addspouseaction edit_interface.php (1236) Appending new FAM record F342384892 ->kalefranz<-
+20.07.2008 15:23:11 - 68.36.204.168 - edit_interface.php addspouseaction edit_interface.php (1292) Replacing gedcom record I41 ->kalefranz<-
+20.07.2008 15:23:11 - 68.36.204.168 - edit_interface.php addspouseaction edit_interface.php (1301) Replacing gedcom record I40 ->kalefranz<-
+20.07.2008 15:25:02 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I42 ->kalefranz<-
+20.07.2008 15:25:02 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384893 ->kalefranz<-
+20.07.2008 15:25:02 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I42 ->kalefranz<-
+20.07.2008 15:25:02 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I41 ->kalefranz<-
+20.07.2008 15:25:57 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I43 ->kalefranz<-
+20.07.2008 15:25:57 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1592) Replacing gedcom record F342384893 ->kalefranz<-
+20.07.2008 15:25:57 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I43 ->kalefranz<-
+20.07.2008 15:28:04 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I44 ->kalefranz<-
+20.07.2008 15:28:04 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384892 ->kalefranz<-
+20.07.2008 15:28:58 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I45 ->kalefranz<-
+20.07.2008 15:28:58 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384892 ->kalefranz<-
+20.07.2008 15:30:02 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I46 ->kalefranz<-
+20.07.2008 15:30:02 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384892 ->kalefranz<-
+20.07.2008 15:31:16 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I47 ->kalefranz<-
+20.07.2008 15:31:16 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384892 ->kalefranz<-
+20.07.2008 15:32:11 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I48 ->kalefranz<-
+20.07.2008 15:32:11 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384892 ->kalefranz<-
+20.07.2008 15:57:12 - 68.36.204.168 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M10 ->kalefranz<-
+20.07.2008 15:57:12 - 68.36.204.168 - Media ID M10 successfully added.
+20.07.2008 15:57:12 - 68.36.204.168 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I40 ->kalefranz<-
+20.07.2008 15:57:12 - 68.36.204.168 - Media ID M10 successfully added to I40.
+20.07.2008 19:04:56 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2286) Replacing gedcom record F342384883 ->kalefranz<-
+20.07.2008 19:04:56 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2290) Deleting gedcom record I40 ->kalefranz<-
+20.07.2008 19:09:08 - 140.180.51.224 - edit_interface.php linkspouseaction edit_interface.php (1367) Appending new FAM record F342384894 ->kalefranz<-
+20.07.2008 19:09:09 - 140.180.51.224 - edit_interface.php linkspouseaction edit_interface.php (1372) Replacing gedcom record I41 ->kalefranz<-
+20.07.2008 19:09:09 - 140.180.51.224 - edit_interface.php linkspouseaction edit_interface.php (1381) Replacing gedcom record I10 ->kalefranz<-
+20.07.2008 19:11:16 - 140.180.51.224 - edit_interface.php deletefamily edit_interface.php (1645)functions_edit.php (2330) Replacing gedcom record I41 ->kalefranz<-
+20.07.2008 19:11:16 - 140.180.51.224 - edit_interface.php deletefamily edit_interface.php (1645)functions_edit.php (2330) Replacing gedcom record I10 ->kalefranz<-
+20.07.2008 19:11:16 - 140.180.51.224 - edit_interface.php deletefamily edit_interface.php (1645)functions_edit.php (2334) Deleting gedcom record F342384894 ->kalefranz<-
+20.07.2008 19:13:57 - 140.180.51.224 - edit_interface.php linkfamaction edit_interface.php (550) Replacing gedcom record I10 ->kalefranz<-
+20.07.2008 19:13:57 - 140.180.51.224 - edit_interface.php linkfamaction edit_interface.php (572) Replacing gedcom record F342384892 ->kalefranz<-
+20.07.2008 19:16:56 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2286) Replacing gedcom record F342384892 ->kalefranz<-
+20.07.2008 19:16:56 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2290) Deleting gedcom record I48 ->kalefranz<-
+20.07.2008 19:17:23 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2286) Replacing gedcom record F342384892 ->kalefranz<-
+20.07.2008 19:17:23 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2290) Deleting gedcom record I47 ->kalefranz<-
+20.07.2008 19:18:00 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2286) Replacing gedcom record F342384892 ->kalefranz<-
+20.07.2008 19:18:00 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2290) Deleting gedcom record I44 ->kalefranz<-
+20.07.2008 19:18:13 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2286) Replacing gedcom record F342384892 ->kalefranz<-
+20.07.2008 19:18:13 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2290) Deleting gedcom record I45 ->kalefranz<-
+20.07.2008 19:18:26 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2286) Replacing gedcom record F342384892 ->kalefranz<-
+20.07.2008 19:18:26 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2290) Deleting gedcom record I46 ->kalefranz<-
+20.07.2008 19:19:07 - 140.180.51.224 - ERROR 20: Invalid GEDCOM 5.5 format.->kalefranz<-
+20.07.2008 19:19:07 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2284) Deleting gedcom record F342384892 ->kalefranz<-
+20.07.2008 19:19:07 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2290) Deleting gedcom record I41 ->kalefranz<-
+20.07.2008 19:19:26 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2286) Replacing gedcom record F342384893 ->kalefranz<-
+20.07.2008 19:19:26 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2290) Deleting gedcom record I42 ->kalefranz<-
+20.07.2008 19:19:47 - 140.180.51.224 - ERROR 20: Invalid GEDCOM 5.5 format.->kalefranz<-
+20.07.2008 19:19:47 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2284) Deleting gedcom record F342384893 ->kalefranz<-
+20.07.2008 19:19:47 - 140.180.51.224 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2290) Deleting gedcom record I43 ->kalefranz<-
+20.07.2008 19:28:25 - 140.180.51.224 - edit_interface.php addsourceaction edit_interface.php (712) Appending new SOUR record S3 ->kalefranz<-
+20.07.2008 19:30:35 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I10 ->kalefranz<-
+20.07.2008 19:31:48 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I10 ->kalefranz<-
+20.07.2008 19:32:45 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I10 ->kalefranz<-
+20.07.2008 19:34:41 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1180) Appending new INDI record I49 ->kalefranz<-
+20.07.2008 19:34:41 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1236) Appending new FAM record F342384895 ->kalefranz<-
+20.07.2008 19:34:41 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1292) Replacing gedcom record I49 ->kalefranz<-
+20.07.2008 19:34:41 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1301) Replacing gedcom record I10 ->kalefranz<-
+20.07.2008 19:36:32 - 140.180.51.224 - Quick update attempted for I10 by >kalefranz<
+20.07.2008 19:36:32 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (729) Appending new INDI record I50 ->kalefranz<-
+20.07.2008 19:36:32 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (735) Replacing gedcom record F342384895 ->kalefranz<-
+20.07.2008 19:36:32 - 140.180.51.224 - Quick update for I10 by >kalefranz<
+20.07.2008 19:36:32 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I10 ->kalefranz<-
+20.07.2008 19:37:13 - 140.180.51.224 - Quick update attempted for I10 by >kalefranz<
+20.07.2008 19:37:13 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (729) Appending new INDI record I51 ->kalefranz<-
+20.07.2008 19:37:13 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (735) Replacing gedcom record F342384895 ->kalefranz<-
+20.07.2008 19:37:13 - 140.180.51.224 - Quick update for I10 by >kalefranz<
+20.07.2008 19:37:13 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I10 ->kalefranz<-
+20.07.2008 19:38:20 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I10 ->kalefranz<-
+20.07.2008 19:39:05 - 140.180.51.224 - Quick update attempted for I10 by >kalefranz<
+20.07.2008 19:39:05 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (729) Appending new INDI record I52 ->kalefranz<-
+20.07.2008 19:39:05 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (735) Replacing gedcom record F342384895 ->kalefranz<-
+20.07.2008 19:39:05 - 140.180.51.224 - Quick update for I10 by >kalefranz<
+20.07.2008 19:39:05 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I10 ->kalefranz<-
+20.07.2008 19:40:02 - 140.180.51.224 - Quick update attempted for I10 by >kalefranz<
+20.07.2008 19:40:02 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (729) Appending new INDI record I53 ->kalefranz<-
+20.07.2008 19:40:02 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (735) Replacing gedcom record F342384895 ->kalefranz<-
+20.07.2008 19:40:02 - 140.180.51.224 - Quick update for I10 by >kalefranz<
+20.07.2008 19:40:02 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I10 ->kalefranz<-
+20.07.2008 19:40:36 - 140.180.51.224 - Quick update attempted for I10 by >kalefranz<
+20.07.2008 19:40:36 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (729) Appending new INDI record I54 ->kalefranz<-
+20.07.2008 19:40:36 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (735) Replacing gedcom record F342384895 ->kalefranz<-
+20.07.2008 19:40:36 - 140.180.51.224 - Quick update for I10 by >kalefranz<
+20.07.2008 19:40:36 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I10 ->kalefranz<-
+20.07.2008 19:41:00 - 140.180.51.224 - Quick update attempted for I53 by >kalefranz<
+20.07.2008 19:41:00 - 140.180.51.224 - Quick update for I53 by >kalefranz<
+20.07.2008 19:41:00 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I53 ->kalefranz<-
+20.07.2008 19:41:14 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I53 ->kalefranz<-
+20.07.2008 19:41:30 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I53 ->kalefranz<-
+20.07.2008 19:48:03 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I50 ->kalefranz<-
+20.07.2008 19:48:24 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I51 ->kalefranz<-
+20.07.2008 19:48:42 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I52 ->kalefranz<-
+20.07.2008 19:49:16 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I52 ->kalefranz<-
+20.07.2008 19:50:08 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I54 ->kalefranz<-
+20.07.2008 19:51:33 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I55 ->kalefranz<-
+20.07.2008 19:51:33 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384883 ->kalefranz<-
+20.07.2008 19:52:58 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I56 ->kalefranz<-
+20.07.2008 19:52:58 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384883 ->kalefranz<-
+20.07.2008 19:53:26 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I57 ->kalefranz<-
+20.07.2008 19:53:26 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384883 ->kalefranz<-
+20.07.2008 19:54:14 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I58 ->kalefranz<-
+20.07.2008 19:54:14 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384883 ->kalefranz<-
+20.07.2008 19:54:46 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I59 ->kalefranz<-
+20.07.2008 19:54:46 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384883 ->kalefranz<-
+20.07.2008 19:55:10 - 140.180.51.224 - edit_interface.php reorder_update edit_interface.php (2175) Replacing gedcom record F342384883 ->kalefranz<-
+20.07.2008 19:58:05 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I60 ->kalefranz<-
+20.07.2008 19:58:05 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384896 ->kalefranz<-
+20.07.2008 19:58:05 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I60 ->kalefranz<-
+20.07.2008 19:58:05 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I49 ->kalefranz<-
+20.07.2008 19:58:54 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I61 ->kalefranz<-
+20.07.2008 19:58:54 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1592) Replacing gedcom record F342384896 ->kalefranz<-
+20.07.2008 19:58:54 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I61 ->kalefranz<-
+20.07.2008 20:02:44 - 140.180.51.224 - edit_interface.php addsourceaction edit_interface.php (712) Appending new SOUR record S4 ->kalefranz<-
+20.07.2008 20:03:33 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I8 ->kalefranz<-
+20.07.2008 20:53:26 - 140.180.51.224 - Quick update attempted for I30 by >kalefranz<
+20.07.2008 20:53:26 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1158) Appending new FAM record F342384897 ->kalefranz<-
+20.07.2008 20:53:26 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1218) Appending new INDI record I62 ->kalefranz<-
+20.07.2008 20:53:26 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1226) Replacing gedcom record F342384897 ->kalefranz<-
+20.07.2008 20:53:26 - 140.180.51.224 - Quick update for I30 by >kalefranz<
+20.07.2008 20:53:26 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I30 ->kalefranz<-
+20.07.2008 20:53:52 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I62 ->kalefranz<-
+20.07.2008 20:54:57 - 140.180.51.224 - Quick update attempted for I62 by >kalefranz<
+20.07.2008 20:54:57 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (767) Appending new INDI record I63 ->kalefranz<-
+20.07.2008 20:54:57 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (773) Appending new FAM record F342384898 ->kalefranz<-
+20.07.2008 20:54:57 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (779) Replacing gedcom record I63 ->kalefranz<-
+20.07.2008 20:54:59 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (841) Appending new INDI record I64 ->kalefranz<-
+20.07.2008 20:54:59 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (869) Replacing gedcom record I64 ->kalefranz<-
+20.07.2008 20:54:59 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (875) Replacing gedcom record F342384898 ->kalefranz<-
+20.07.2008 20:54:59 - 140.180.51.224 - Quick update for I62 by >kalefranz<
+20.07.2008 20:54:59 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I62 ->kalefranz<-
+20.07.2008 20:55:29 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I64 ->kalefranz<-
+20.07.2008 20:56:08 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I64 ->kalefranz<-
+20.07.2008 20:58:23 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I65 ->kalefranz<-
+20.07.2008 20:58:24 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384897 ->kalefranz<-
+20.07.2008 20:59:28 - 140.180.51.224 - Quick update attempted for I65 by >kalefranz<
+20.07.2008 20:59:28 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (767) Appending new INDI record I66 ->kalefranz<-
+20.07.2008 20:59:28 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (773) Appending new FAM record F342384899 ->kalefranz<-
+20.07.2008 20:59:28 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (779) Replacing gedcom record I66 ->kalefranz<-
+20.07.2008 20:59:29 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (841) Appending new INDI record I67 ->kalefranz<-
+20.07.2008 20:59:29 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (869) Replacing gedcom record I67 ->kalefranz<-
+20.07.2008 20:59:29 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (875) Replacing gedcom record F342384899 ->kalefranz<-
+20.07.2008 20:59:29 - 140.180.51.224 - Quick update for I65 by >kalefranz<
+20.07.2008 20:59:29 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I65 ->kalefranz<-
+20.07.2008 20:59:57 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I66 ->kalefranz<-
+20.07.2008 21:00:11 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I66 ->kalefranz<-
+20.07.2008 21:07:17 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I9 ->kalefranz<-
+20.07.2008 21:08:40 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I9 ->kalefranz<-
+20.07.2008 21:39:03 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I68 ->kalefranz<-
+20.07.2008 21:39:03 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384900 ->kalefranz<-
+20.07.2008 21:39:03 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I68 ->kalefranz<-
+20.07.2008 21:39:03 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I9 ->kalefranz<-
+20.07.2008 21:40:11 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I68 ->kalefranz<-
+20.07.2008 21:43:46 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1180) Appending new INDI record I69 ->kalefranz<-
+20.07.2008 21:43:46 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1281) Replacing gedcom record F342384900 ->kalefranz<-
+20.07.2008 21:43:46 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1292) Replacing gedcom record I69 ->kalefranz<-
+20.07.2008 21:44:48 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I69 ->kalefranz<-
+20.07.2008 22:27:32 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:28:13 - 140.180.51.224 - edit_interface.php delete edit_interface.php (329) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:29:27 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:29:49 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:37:10 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:37:28 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:37:49 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:39:32 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:40:43 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:41:11 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:41:33 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:42:04 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:42:21 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:42:35 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:42:51 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:43:08 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:43:24 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:43:45 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:44:03 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:44:23 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:46:05 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:46:36 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:47:42 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:48:46 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:50:08 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:50:30 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:51:00 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+20.07.2008 22:51:53 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I1 ->kalefranz<-
+21.07.2008 00:12:03 - 140.180.51.224 - Quick update attempted for I28 by >kalefranz<
+21.07.2008 00:12:03 - 140.180.51.224 - Quick update for I28 by >kalefranz<
+21.07.2008 00:12:03 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I28 ->kalefranz<-
+21.07.2008 00:13:46 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I28 ->kalefranz<-
+21.07.2008 00:14:37 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I28 ->kalefranz<-
+21.07.2008 00:19:05 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I28 ->kalefranz<-
+21.07.2008 00:20:32 - 140.180.51.224 - Quick update attempted for I28 by >kalefranz<
+21.07.2008 00:20:32 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (735) Replacing gedcom record F342384888 ->kalefranz<-
+21.07.2008 00:20:32 - 140.180.51.224 - Quick update for I28 by >kalefranz<
+21.07.2008 00:20:32 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I28 ->kalefranz<-
+21.07.2008 00:25:15 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I28 ->kalefranz<-
+21.07.2008 00:25:49 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I28 ->kalefranz<-
+21.07.2008 00:26:12 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I28 ->kalefranz<-
+21.07.2008 00:32:38 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I28 ->kalefranz<-
+21.07.2008 00:35:07 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I28 ->kalefranz<-
+21.07.2008 00:35:22 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I28 ->kalefranz<-
+21.07.2008 00:36:03 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I28 ->kalefranz<-
+21.07.2008 00:39:24 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I28 ->kalefranz<-
+21.07.2008 00:40:56 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I26 ->kalefranz<-
+21.07.2008 00:41:48 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I29 ->kalefranz<-
+21.07.2008 00:43:51 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I70 ->kalefranz<-
+21.07.2008 00:43:51 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384901 ->kalefranz<-
+21.07.2008 00:43:51 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I70 ->kalefranz<-
+21.07.2008 00:43:51 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I28 ->kalefranz<-
+21.07.2008 00:44:44 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I70 ->kalefranz<-
+21.07.2008 00:45:26 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I70 ->kalefranz<-
+21.07.2008 00:46:24 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I70 ->kalefranz<-
+21.07.2008 00:46:56 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I70 ->kalefranz<-
+21.07.2008 00:48:33 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1180) Appending new INDI record I71 ->kalefranz<-
+21.07.2008 00:48:33 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1281) Replacing gedcom record F342384901 ->kalefranz<-
+21.07.2008 00:48:33 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1292) Replacing gedcom record I71 ->kalefranz<-
+21.07.2008 00:49:36 - 140.180.51.224 - Quick update attempted for I71 by >kalefranz<
+21.07.2008 00:49:36 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (841) Appending new INDI record I72 ->kalefranz<-
+21.07.2008 00:49:36 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (850) Appending new FAM record F342384902 ->kalefranz<-
+21.07.2008 00:49:36 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (856) Replacing gedcom record I72 ->kalefranz<-
+21.07.2008 00:49:36 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (875) Replacing gedcom record F342384902 ->kalefranz<-
+21.07.2008 00:49:36 - 140.180.51.224 - Quick update for I71 by >kalefranz<
+21.07.2008 00:49:36 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I71 ->kalefranz<-
+21.07.2008 00:50:20 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I72 ->kalefranz<-
+21.07.2008 00:53:30 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I73 ->kalefranz<-
+21.07.2008 00:53:30 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384901 ->kalefranz<-
+21.07.2008 00:54:06 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I73 ->kalefranz<-
+21.07.2008 00:56:09 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I74 ->kalefranz<-
+21.07.2008 00:56:09 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384901 ->kalefranz<-
+21.07.2008 00:56:49 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I74 ->kalefranz<-
+21.07.2008 01:01:04 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I70 ->kalefranz<-
+21.07.2008 01:02:10 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I74 ->kalefranz<-
+21.07.2008 01:03:51 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I75 ->kalefranz<-
+21.07.2008 01:03:51 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384901 ->kalefranz<-
+21.07.2008 01:04:44 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I74 ->kalefranz<-
+21.07.2008 01:05:31 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I74 ->kalefranz<-
+21.07.2008 01:06:32 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I75 ->kalefranz<-
+21.07.2008 01:07:51 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I76 ->kalefranz<-
+21.07.2008 01:07:51 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384901 ->kalefranz<-
+21.07.2008 01:08:22 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I77 ->kalefranz<-
+21.07.2008 01:08:22 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384901 ->kalefranz<-
+21.07.2008 01:16:48 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1180) Appending new INDI record I78 ->kalefranz<-
+21.07.2008 01:16:48 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1236) Appending new FAM record F342384903 ->kalefranz<-
+21.07.2008 01:16:48 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1292) Replacing gedcom record I78 ->kalefranz<-
+21.07.2008 01:16:48 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1301) Replacing gedcom record I73 ->kalefranz<-
+21.07.2008 01:17:42 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I78 ->kalefranz<-
+21.07.2008 01:21:59 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I79 ->kalefranz<-
+21.07.2008 01:21:59 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384903 ->kalefranz<-
+21.07.2008 01:22:53 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I79 ->kalefranz<-
+21.07.2008 01:23:24 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I79 ->kalefranz<-
+21.07.2008 01:24:45 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I80 ->kalefranz<-
+21.07.2008 01:24:46 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384903 ->kalefranz<-
+21.07.2008 01:25:14 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I80 ->kalefranz<-
+21.07.2008 01:25:37 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I80 ->kalefranz<-
+21.07.2008 01:27:25 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1180) Appending new INDI record I81 ->kalefranz<-
+21.07.2008 01:27:25 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1236) Appending new FAM record F342384904 ->kalefranz<-
+21.07.2008 01:27:25 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1292) Replacing gedcom record I81 ->kalefranz<-
+21.07.2008 01:27:25 - 140.180.51.224 - edit_interface.php addspouseaction edit_interface.php (1301) Replacing gedcom record I74 ->kalefranz<-
+21.07.2008 01:28:10 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I81 ->kalefranz<-
+21.07.2008 01:28:52 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I82 ->kalefranz<-
+21.07.2008 01:28:52 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384904 ->kalefranz<-
+21.07.2008 01:32:35 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I75 ->kalefranz<-
+21.07.2008 01:32:52 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I75 ->kalefranz<-
+21.07.2008 01:33:05 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I75 ->kalefranz<-
+21.07.2008 01:33:41 - 140.180.51.224 - Quick update attempted for I75 by >kalefranz<
+21.07.2008 01:33:41 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (841) Appending new INDI record I83 ->kalefranz<-
+21.07.2008 01:33:41 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (850) Appending new FAM record F342384905 ->kalefranz<-
+21.07.2008 01:33:41 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (856) Replacing gedcom record I83 ->kalefranz<-
+21.07.2008 01:33:41 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (875) Replacing gedcom record F342384905 ->kalefranz<-
+21.07.2008 01:33:41 - 140.180.51.224 - Quick update for I75 by >kalefranz<
+21.07.2008 01:33:41 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I75 ->kalefranz<-
+21.07.2008 01:34:13 - 140.180.51.224 - Quick update attempted for I75 by >kalefranz<
+21.07.2008 01:34:13 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (729) Appending new INDI record I84 ->kalefranz<-
+21.07.2008 01:34:13 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (735) Replacing gedcom record F342384905 ->kalefranz<-
+21.07.2008 01:34:13 - 140.180.51.224 - Quick update for I75 by >kalefranz<
+21.07.2008 01:34:13 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I75 ->kalefranz<-
+21.07.2008 01:34:57 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I84 ->kalefranz<-
+21.07.2008 01:36:08 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I70 ->kalefranz<-
+21.07.2008 02:06:59 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I73 ->kalefranz<-
+21.07.2008 02:12:43 - 140.180.51.224 - Quick update attempted for I75 by >kalefranz<
+21.07.2008 02:12:43 - 140.180.51.224 - Quick update for I75 by >kalefranz<
+21.07.2008 02:12:43 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I75 ->kalefranz<-
+21.07.2008 02:13:25 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I70 ->kalefranz<-
+21.07.2008 02:14:43 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I71 ->kalefranz<-
+21.07.2008 02:15:53 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record F342384901 ->kalefranz<-
+21.07.2008 02:17:28 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I71 ->kalefranz<-
+21.07.2008 02:49:58 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I81 ->kalefranz<-
+21.07.2008 02:50:32 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I81 ->kalefranz<-
+21.07.2008 02:51:22 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I82 ->kalefranz<-
+21.07.2008 02:53:01 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I82 ->kalefranz<-
+21.07.2008 03:51:39 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I10 ->kalefranz<-
+21.07.2008 03:59:55 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I10 ->kalefranz<-
+21.07.2008 04:03:10 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I10 ->kalefranz<-
+21.07.2008 04:03:40 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I10 ->kalefranz<-
+21.07.2008 04:12:48 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I10 ->kalefranz<-
+21.07.2008 04:22:51 - 140.180.51.224 - Quick update attempted for I10 by >kalefranz<
+21.07.2008 04:22:51 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1048) Appending new FAM record F342384906 ->kalefranz<-
+21.07.2008 04:22:51 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1053) Appending new INDI record I85 ->kalefranz<-
+21.07.2008 04:22:51 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1218) Appending new INDI record I86 ->kalefranz<-
+21.07.2008 04:22:51 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1226) Replacing gedcom record F342384906 ->kalefranz<-
+21.07.2008 04:22:51 - 140.180.51.224 - Quick update for I10 by >kalefranz<
+21.07.2008 04:22:51 - 140.180.51.224 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I10 ->kalefranz<-
+21.07.2008 04:23:34 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I87 ->kalefranz<-
+21.07.2008 04:23:34 - 140.180.51.224 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384906 ->kalefranz<-
+21.07.2008 04:24:54 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I10 ->kalefranz<-
+21.07.2008 04:32:02 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I88 ->kalefranz<-
+21.07.2008 04:32:02 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1592) Replacing gedcom record F342384906 ->kalefranz<-
+21.07.2008 04:32:02 - 140.180.51.224 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I88 ->kalefranz<-
+21.07.2008 04:32:24 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I85 ->kalefranz<-
+21.07.2008 04:39:45 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record F342384883 ->kalefranz<-
+21.07.2008 04:41:40 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record F342384883 ->kalefranz<-
+21.07.2008 04:42:21 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I11 ->kalefranz<-
+21.07.2008 04:42:32 - 140.180.51.224 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I11 ->kalefranz<-
+21.07.2008 17:42:48 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I70 ->kalefranz<-
+21.07.2008 21:37:32 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I89 ->kalefranz<-
+21.07.2008 21:37:32 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384907 ->kalefranz<-
+21.07.2008 21:37:32 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I89 ->kalefranz<-
+21.07.2008 21:37:33 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I70 ->kalefranz<-
+21.07.2008 21:40:59 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I89 ->kalefranz<-
+21.07.2008 21:42:39 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I89 ->kalefranz<-
+21.07.2008 21:43:25 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I89 ->kalefranz<-
+21.07.2008 21:48:55 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I89 ->kalefranz<-
+21.07.2008 21:49:20 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I89 ->kalefranz<-
+21.07.2008 21:51:32 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I89 ->kalefranz<-
+21.07.2008 21:53:15 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I89 ->kalefranz<-
+21.07.2008 21:55:48 - 68.36.204.168 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M11 ->kalefranz<-
+21.07.2008 21:55:48 - 68.36.204.168 - Media ID M11 successfully added.
+21.07.2008 21:55:48 - 68.36.204.168 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I89 ->kalefranz<-
+21.07.2008 21:55:48 - 68.36.204.168 - Media ID M11 successfully added to I89.
+21.07.2008 22:29:29 - 68.36.204.168 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M12 ->kalefranz<-
+21.07.2008 22:29:30 - 68.36.204.168 - Media ID M12 successfully added.
+21.07.2008 22:29:30 - 68.36.204.168 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I89 ->kalefranz<-
+21.07.2008 22:29:30 - 68.36.204.168 - Media ID M12 successfully added to I89.
+21.07.2008 22:32:11 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I29 ->kalefranz<-
+21.07.2008 22:35:22 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I90 ->mjdevlin<-
+21.07.2008 22:35:22 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384908 ->mjdevlin<-
+21.07.2008 22:35:22 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I90 ->mjdevlin<-
+21.07.2008 22:35:22 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I29 ->mjdevlin<-
+21.07.2008 23:15:15 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I91 ->kalefranz<-
+21.07.2008 23:15:15 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384908 ->kalefranz<-
+21.07.2008 23:15:23 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I92 ->mjdevlin<-
+21.07.2008 23:15:23 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1592) Replacing gedcom record F342384908 ->mjdevlin<-
+21.07.2008 23:15:23 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I92 ->mjdevlin<-
+21.07.2008 23:18:56 - 63.228.82.236 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I92 ->mjdevlin<-
+21.07.2008 23:24:13 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I93 ->mjdevlin<-
+21.07.2008 23:24:13 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384909 ->mjdevlin<-
+21.07.2008 23:24:13 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I93 ->mjdevlin<-
+21.07.2008 23:24:13 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I90 ->mjdevlin<-
+21.07.2008 23:26:16 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I94 ->mjdevlin<-
+21.07.2008 23:26:16 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1592) Replacing gedcom record F342384909 ->mjdevlin<-
+21.07.2008 23:26:16 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I94 ->mjdevlin<-
+21.07.2008 23:27:53 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I70 ->kalefranz<-
+21.07.2008 23:29:26 - 63.228.82.236 - Quick update attempted for I91 by >mjdevlin<
+21.07.2008 23:29:26 - 63.228.82.236 - Quick update for I91 by >mjdevlin<
+21.07.2008 23:29:26 - 63.228.82.236 - edit_quickupdate.php update edit_quickupdate.php (1235) Replacing gedcom record I91 ->mjdevlin<-
+21.07.2008 23:31:44 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I89 ->kalefranz<-
+21.07.2008 23:32:05 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I95 ->mjdevlin<-
+21.07.2008 23:32:05 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384910 ->mjdevlin<-
+21.07.2008 23:32:05 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I95 ->mjdevlin<-
+21.07.2008 23:32:05 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I93 ->mjdevlin<-
+21.07.2008 23:32:35 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I89 ->kalefranz<-
+21.07.2008 23:33:30 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I89 ->kalefranz<-
+21.07.2008 23:34:11 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I96 ->mjdevlin<-
+21.07.2008 23:34:11 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384911 ->mjdevlin<-
+21.07.2008 23:34:11 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I96 ->mjdevlin<-
+21.07.2008 23:34:11 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I95 ->mjdevlin<-
+21.07.2008 23:34:13 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I89 ->kalefranz<-
+21.07.2008 23:36:15 - 63.228.82.236 - edit_interface.php addspouseaction edit_interface.php (1180) Appending new INDI record I97 ->mjdevlin<-
+21.07.2008 23:36:15 - 63.228.82.236 - edit_interface.php addspouseaction edit_interface.php (1281) Replacing gedcom record F342384911 ->mjdevlin<-
+21.07.2008 23:36:15 - 63.228.82.236 - edit_interface.php addspouseaction edit_interface.php (1292) Replacing gedcom record I97 ->mjdevlin<-
+21.07.2008 23:38:28 - 68.36.204.168 - edit_interface.php delete edit_interface.php (329) Replacing gedcom record I89 ->kalefranz<-
+21.07.2008 23:39:23 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I98 ->mjdevlin<-
+21.07.2008 23:39:23 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384912 ->mjdevlin<-
+21.07.2008 23:39:23 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I98 ->mjdevlin<-
+21.07.2008 23:39:23 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I96 ->mjdevlin<-
+21.07.2008 23:41:36 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I99 ->mjdevlin<-
+21.07.2008 23:41:36 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384913 ->mjdevlin<-
+21.07.2008 23:41:37 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I99 ->mjdevlin<-
+21.07.2008 23:41:37 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I98 ->mjdevlin<-
+21.07.2008 23:43:12 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I100 ->mjdevlin<-
+21.07.2008 23:43:12 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384914 ->mjdevlin<-
+21.07.2008 23:43:12 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I100 ->mjdevlin<-
+21.07.2008 23:43:12 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I99 ->mjdevlin<-
+21.07.2008 23:47:09 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I101 ->mjdevlin<-
+21.07.2008 23:47:09 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1592) Replacing gedcom record F342384910 ->mjdevlin<-
+21.07.2008 23:47:09 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I101 ->mjdevlin<-
+21.07.2008 23:54:42 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I102 ->mjdevlin<-
+21.07.2008 23:54:42 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384915 ->mjdevlin<-
+21.07.2008 23:54:42 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I102 ->mjdevlin<-
+21.07.2008 23:54:42 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I97 ->mjdevlin<-
+21.07.2008 23:55:14 - 68.36.204.168 - ERROR 20: Invalid GEDCOM 5.5 format.->kalefranz<-
+21.07.2008 23:55:14 - 68.36.204.168 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2284) Deleting gedcom record F342384907 ->kalefranz<-
+21.07.2008 23:55:14 - 68.36.204.168 - edit_interface.php deleteperson edit_interface.php (1631)functions_edit.php (2290) Deleting gedcom record I89 ->kalefranz<-
+21.07.2008 23:56:26 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I103 ->kalefranz<-
+21.07.2008 23:56:26 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384916 ->kalefranz<-
+21.07.2008 23:56:26 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I103 ->kalefranz<-
+21.07.2008 23:56:26 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I70 ->kalefranz<-
+21.07.2008 23:57:41 - 68.36.204.168 - edit_interface.php updateraw edit_interface.php (816) Replacing gedcom record I70 ->kalefranz<-
+21.07.2008 23:57:51 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I104 ->mjdevlin<-
+21.07.2008 23:57:51 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1592) Replacing gedcom record F342384915 ->mjdevlin<-
+21.07.2008 23:57:51 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I104 ->mjdevlin<-
+21.07.2008 23:58:25 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I103 ->kalefranz<-
+21.07.2008 23:59:14 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I103 ->kalefranz<-
+22.07.2008 00:00:08 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I103 ->kalefranz<-
+22.07.2008 00:02:08 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I105 ->mjdevlin<-
+22.07.2008 00:02:08 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1592) Replacing gedcom record F342384912 ->mjdevlin<-
+22.07.2008 00:02:08 - 63.228.82.236 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I105 ->mjdevlin<-
+22.07.2008 00:05:04 - 68.36.204.168 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M13 ->kalefranz<-
+22.07.2008 00:05:04 - 68.36.204.168 - Media ID M13 successfully added.
+22.07.2008 00:05:04 - 68.36.204.168 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I103 ->kalefranz<-
+22.07.2008 00:05:04 - 68.36.204.168 - Media ID M13 successfully added to I103.
+22.07.2008 00:15:15 - 68.36.204.168 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M14 ->kalefranz<-
+22.07.2008 00:15:15 - 68.36.204.168 - Media ID M14 successfully added.
+22.07.2008 00:15:15 - 68.36.204.168 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I103 ->kalefranz<-
+22.07.2008 00:15:15 - 68.36.204.168 - Media ID M14 successfully added to I103.
+22.07.2008 00:15:45 - 68.36.204.168 - addmedia.php update addmedia.php (565) Replacing gedcom record M14 ->kalefranz<-
+22.07.2008 00:15:45 - 68.36.204.168 - Media ID M14 successfully updated.
+22.07.2008 00:22:03 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I103 ->kalefranz<-
+22.07.2008 00:23:06 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I103 ->kalefranz<-
+22.07.2008 00:23:38 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I103 ->kalefranz<-
+22.07.2008 00:28:30 - 68.36.204.168 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M15 ->kalefranz<-
+22.07.2008 00:28:30 - 68.36.204.168 - Media ID M15 successfully added.
+22.07.2008 00:28:30 - 68.36.204.168 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I103 ->kalefranz<-
+22.07.2008 00:28:30 - 68.36.204.168 - Media ID M15 successfully added to I103.
+22.07.2008 00:31:45 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I103 ->kalefranz<-
+22.07.2008 00:38:11 - 68.36.204.168 - edit_interface.php addspouseaction edit_interface.php (1180) Appending new INDI record I106 ->kalefranz<-
+22.07.2008 00:38:11 - 68.36.204.168 - edit_interface.php addspouseaction edit_interface.php (1281) Replacing gedcom record F342384916 ->kalefranz<-
+22.07.2008 00:38:11 - 68.36.204.168 - edit_interface.php addspouseaction edit_interface.php (1292) Replacing gedcom record I106 ->kalefranz<-
+22.07.2008 00:39:33 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I106 ->kalefranz<-
+22.07.2008 00:40:09 - 68.36.204.168 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M16 ->kalefranz<-
+22.07.2008 00:40:09 - 68.36.204.168 - Media ID M16 successfully added.
+22.07.2008 00:40:09 - 68.36.204.168 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I106 ->kalefranz<-
+22.07.2008 00:40:09 - 68.36.204.168 - Media ID M16 successfully added to I106.
+22.07.2008 00:40:41 - 68.36.204.168 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M17 ->kalefranz<-
+22.07.2008 00:40:41 - 68.36.204.168 - Media ID M17 successfully added.
+22.07.2008 00:40:41 - 68.36.204.168 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I106 ->kalefranz<-
+22.07.2008 00:40:41 - 68.36.204.168 - Media ID M17 successfully added to I106.
+22.07.2008 00:47:17 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I107 ->kalefranz<-
+22.07.2008 00:47:17 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384916 ->kalefranz<-
+22.07.2008 00:49:12 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I107 ->kalefranz<-
+22.07.2008 00:50:18 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I107 ->kalefranz<-
+22.07.2008 01:10:42 - 68.36.204.168 - addmedia.php newentry addmedia.php (414) Appending new OBJE record M18 ->kalefranz<-
+22.07.2008 01:10:42 - 68.36.204.168 - Media ID M18 successfully added.
+22.07.2008 01:10:42 - 68.36.204.168 - addmedia.php newentry addmedia.php (417)functions_edit.php (1996) Replacing gedcom record I106 ->kalefranz<-
+22.07.2008 01:10:42 - 68.36.204.168 - Media ID M18 successfully added to I106.
+22.07.2008 01:11:58 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record F342384916 ->kalefranz<-
+22.07.2008 01:12:55 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I106 ->kalefranz<-
+22.07.2008 01:13:27 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I103 ->kalefranz<-
+22.07.2008 01:19:02 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I106 ->kalefranz<-
+22.07.2008 01:20:54 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I108 ->kalefranz<-
+22.07.2008 01:20:54 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1546) Appending new FAM record F342384917 ->kalefranz<-
+22.07.2008 01:20:54 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I108 ->kalefranz<-
+22.07.2008 01:20:54 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1616) Replacing gedcom record I103 ->kalefranz<-
+22.07.2008 01:22:29 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1492) Appending new INDI record I109 ->kalefranz<-
+22.07.2008 01:22:29 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1592) Replacing gedcom record F342384917 ->kalefranz<-
+22.07.2008 01:22:29 - 68.36.204.168 - edit_interface.php addnewparentaction edit_interface.php (1604) Replacing gedcom record I109 ->kalefranz<-
+22.07.2008 02:39:34 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I56 ->kalefranz<-
+22.07.2008 23:30:15 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I110 ->kalefranz<-
+22.07.2008 23:30:15 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384916 ->kalefranz<-
+22.07.2008 23:36:00 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I110 ->kalefranz<-
+22.07.2008 23:38:49 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record F342384916 ->kalefranz<-
+22.07.2008 23:47:16 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1038) Appending new INDI record I111 ->kalefranz<-
+22.07.2008 23:47:17 - 68.36.204.168 - edit_interface.php addchildaction edit_interface.php (1069) Replacing gedcom record F342384916 ->kalefranz<-
+22.07.2008 23:50:20 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I103 ->kalefranz<-
+22.07.2008 23:52:46 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I103 ->kalefranz<-
+23.07.2008 00:07:24 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I103 ->kalefranz<-
+23.07.2008 00:08:49 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I103 ->kalefranz<-
+23.07.2008 00:13:46 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I108 ->kalefranz<-
+23.07.2008 00:14:32 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I109 ->kalefranz<-
+23.07.2008 00:17:49 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I109 ->kalefranz<-
+23.07.2008 00:28:20 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I108 ->kalefranz<-
+24.07.2008 06:43:26 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I86 ->kalefranz<-
+24.07.2008 06:43:46 - 68.36.204.168 - edit_interface.php update edit_interface.php (906) Replacing gedcom record I87 ->kalefranz<-

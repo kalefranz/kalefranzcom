@@ -1,0 +1,6 @@
+<div id="gedcom_news" class="block"><table class="blockheader" cellspacing="0" cellpadding="0"><tr><td class="blockh1">&nbsp;</td><td class="blockh2 blockhc"><b> <a class="help" tabindex="0" href="javascript:// index_gedcom_news_help" onclick="helpPopup('index_gedcom_news_help'); return false;"><img src="themes/xenea/images/small/help.gif" class="icon" width="15" height="15" alt="" /></a>Neuigkeiten</b></td><td class="blockh3">&nbsp;</td></tr></table><div class="blockcontent"><div class="news_box" id="article1">
+<span class="news_title">Willkommen zur Ahnenforschung</span><br />
+<span class="news_date">19. Juli 2008 - 22:05:30</span><br /><br />
+Die genealogischen Informationen dieser Webseite werden mit Hilfe von <a href="http://www.phpgedview.net/" target="_blank">PhpGedView 4.1.5</a> dargestellt.  Diese Seite gibt Ihnen einen Überblick und eine Einführung zu diesem Ahnenforschungs Projekt.<br /><br />Um mit den Daten zu arbeiten, wählen Sie z.B. ein Diagramm aus dem Diagramm Menü aus, öffnen Sie die Personen Liste oder suchen Sie nach einem Namen oder Ort.<br /><br />Wenn Sie bei der Nutzung dieser Seite auf Schwierigkeiten stoßen, können Sie auf das Hilfe Menü klicken, um nähere Informationen zur jeweiligen Seite zu bekommen.<br /><br />Viel Erfolg bei der Ahnenforschung!<br />
+</div>
+</div></div>

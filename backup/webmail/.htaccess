@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^webmail.primistech.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.webmail.primistech.com$
+RewriteRule ^(.*)$ http://primistech.com:2095/horde/login.php [R=301,L]
+

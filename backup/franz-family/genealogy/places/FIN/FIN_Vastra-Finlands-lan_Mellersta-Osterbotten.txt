@@ -1,0 +1,14 @@
+<!-- THIS FILE MUST BE SAVED IN UTF-8 ENCODING (or some special characters will be lost) -->
+<!-- @version $Id: FIN_Vastra-Finlands-lan_Mellersta-Osterbotten.txt 2091 2007-10-30 16:19:34Z yalnifj $ -->
+Kannus
+Karleby
+Halsua
+Himanka
+Kaustby
+Kelviå
+Lestijärvi
+Lochteå
+Perho
+Toholampi
+Ullava
+Vetil

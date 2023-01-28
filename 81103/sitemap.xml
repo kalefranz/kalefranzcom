@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.kalefranz.com/</loc>
+  <priority>1.00</priority>
+  <lastmod>2008-10-28T06:40:30+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/index.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-10-28T06:40:30+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/publications.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-10-28T07:31:09+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/physics.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-10-28T06:51:58+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/links.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-10-28T06:47:10+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/CV.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-10-28T06:38:36+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/photos.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-10-28T06:50:51+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/contact.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-10-28T06:28:25+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/writeups/articles/80714-defense-news.pdf</loc>
+  <priority>0.80</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/publications/abstracts/MIOMD-KJFranz-0809.pdf</loc>
+  <priority>0.80</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/publications/80401-IIVI-CompoundSemi.pdf</loc>
+  <priority>0.80</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/publications/80128-IIVI-Franz.pdf</loc>
+  <priority>0.80</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/publications/papers/APL-KJFranz-0803.pdf</loc>
+  <priority>0.64</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/publications/papers/OptExpress-AJHoffman-0711.pdf</loc>
+  <priority>0.64</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/publications/papers/APL-KJFranz-0702.pdf</loc>
+  <priority>0.64</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/publications/papers/APL-AShen-0702.pdf</loc>
+  <priority>0.64</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/publications/papers/APL-HLu-0612.pdf</loc>
+  <priority>0.64</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/publications/papers/IPRM-KJFranz-0605.pdf</loc>
+  <priority>0.64</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/publications/papers/JUR-KJFranz-0501.pdf</loc>
+  <priority>0.64</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/publications/papers/JUR-KJFranz-0301.pdf</loc>
+  <priority>0.64</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/writeups/FoM.pdf</loc>
+  <priority>0.64</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/writeups/FoM/FoM.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2008-10-22T06:42:36+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.kalefranz.com/KJFranz_CV.pdf</loc>
+  <priority>0.64</priority>
+  <changefreq>monthly</changefreq>
+</url>
+
+</urlset>

@@ -1,0 +1,11 @@
+Options +FollowSymLinks 
+RewriteEngine on 
+RewriteCond %{HTTP_HOST} ^kjfranz.com [NC] 
+RewriteCond %{REQUEST_URI} !^/KJ-Franz-CV\.pdf [NC] 
+RewriteRule ^(.*)$ http://www.kalefranz.com/$1 [R=301,NC,L]
+RewriteCond %{REQUEST_URI} !^/KJ-Franz-CV\.pdf [NC] 
+RewriteCond %{HTTP_HOST} ^kjfranz.com$ [NC,OR]
+RewriteCond %{REQUEST_URI} !^/KJ-Franz-CV\.pdf [NC] 
+RewriteCond %{HTTP_HOST} ^www.kjfranz.com$
+RewriteRule ^/?(.*)$ "http\:\/\/www\.kalefranz\.com\/$1" [R=301,L]
+

@@ -1,0 +1,17 @@
+70813
+ only for personal use
+70817
+ only for personal use
+70817a
+ first group release
+70817b
+ license file I worked under between first & second release
+70917
+ second group release, with only one material enabled
+ fixed widthsum division issues
+70917a
+ fix to the material problem that Yu Yao told me about
+70923
+ fix for self consistent electron distribution problem
+70923a
+ forgot to cripple some parts of the multiple material capability

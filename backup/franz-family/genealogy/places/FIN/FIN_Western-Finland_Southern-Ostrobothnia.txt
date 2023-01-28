@@ -1,0 +1,28 @@
+<!-- THIS FILE MUST BE SAVED IN UTF-8 ENCODING (or some special characters will be lost) -->
+<!-- @version $Id: FIN_Western-Finland_Southern-Ostrobothnia.txt 2091 2007-10-30 16:19:34Z yalnifj $ -->
+Alajärvi
+Alavus
+Kauhava
+Kurikka
+Lapua
+Seinäjoki
+Ähtäri
+Alahärmä
+Evijärvi
+Ilmajoki
+Isojoki
+Jalasjärvi
+Jurva
+Karijoki
+Kauhajoki
+Kortesjärvi
+Kuortane
+Lappajärvi
+Lehtimäki
+Nurmo
+Soini
+Teuva
+Töysä
+Vimpeli
+Ylihärmä
+Ylistaro
